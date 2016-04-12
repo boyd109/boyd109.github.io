@@ -9,7 +9,7 @@ will want to change the href to the # on the page (anchors)
 <ol>
 {% for post in site.categories[page.tag] reversed %}
   <a href="{{ post.url | prepend: site.baseurl }}">
-  <li name="{{page.id}}">{{ post.title }}</li></a>
+  <li name="{{post.id}}">{{ post.title }}</li></a>
 {% endfor %}
 </ol>
 
