@@ -8,7 +8,7 @@ will want to change the href to the # on the page (anchors)
 <h1>Table of Contents</h1>
 <ol>
 {% for post in site.categories[page.tag] reversed %}
-  <a href="#{{page.id | remove:'/'}}">
+  <a href="#{{ post.id | remove:"/" }}">
   <li>{{ post.title }}</li></a>
 {% endfor %}
 </ol>
@@ -16,7 +16,7 @@ will want to change the href to the # on the page (anchors)
 {% for post in site.categories[page.tag] reversed %}
 <p>{{ post.date | date: '%B %d, %Y' }}</p>
 <hr>
-  <h2 name="{{page.id | remove:'/'}}">{{ post.title }}</h2>
+  <h2 name="{{ post.id | remove:"/"}}">{{ post.title }}</h2>
 <div>
   {{ post.content }}
 </div>
