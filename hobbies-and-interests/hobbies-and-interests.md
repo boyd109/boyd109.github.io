@@ -1,0 +1,15 @@
+---
+layout: page
+permalink: "/hobbies-and-interests/"
+---
+
+# Hobbies and Interests
+
+Things I enjoy:
+
+Super Smash Brothers Melee
+
+Regex Puzzles and using Regex
+[Link to my Github Repository about some interesting Regex I've used](https://github.com/boyd109/Regex_Tricks)
+
+Learning New Things
