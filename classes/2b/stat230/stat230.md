@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: listofposts
 title: Stat 230
 permalink: /stat230/
 category: main-stat230
