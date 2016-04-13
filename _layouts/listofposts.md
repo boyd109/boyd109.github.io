@@ -17,6 +17,8 @@ will want to change the href to the # on the page (anchors)
 <p>{{ post.date | date: '%B %d, %Y' }}</p>
 <hr>
   <a name="{{ post.id | remove:"/"}}"></a>
+  <br>
+  <br>
   <h2>{{ post.title }}</h2>
   
 <div>
