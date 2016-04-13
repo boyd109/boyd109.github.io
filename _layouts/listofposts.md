@@ -16,7 +16,9 @@ will want to change the href to the # on the page (anchors)
 {% for post in site.categories[page.tag] reversed %}
 <p>{{ post.date | date: '%B %d, %Y' }}</p>
 <hr>
-  <h2 name="{{ post.id | remove:"/"}}">{{ post.title }}</h2>
+  <a name="{{ post.id | remove:"/"}}">
+  <h2>{{ post.title }}</h2>
+  </a>
 <div>
   {{ post.content }}
 </div>
