@@ -2,8 +2,6 @@
 layout: default
 ---
 
-will want to change the href to the # on the page (anchors)
-
 {% include extras.html %}
 <h1>Table of Contents</h1>
 <ol>
@@ -20,7 +18,7 @@ will want to change the href to the # on the page (anchors)
   <br>
   <br>
   <h2>{{ post.title }}</h2>
-  
+
 <div>
   {{ post.content }}
 </div>
