@@ -12,14 +12,15 @@ layout: default
 </ol>
 
 {% for post in site.categories[page.tag] reversed %}
-<p>{{ post.date | date: '%B %d, %Y' }}</p>
+
 <hr>
   <a name="{{ post.id | remove:"/"}}"></a>
   <br>
   <br>
   <h2>{{ post.title }}</h2>
+  <p>{{ post.date | date: '%B %d, %Y' }}</p>
 
-<div>
+<div class="text-center">
   {{ post.content }}
 </div>
 {% endfor %}
