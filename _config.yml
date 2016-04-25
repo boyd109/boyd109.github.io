@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Boyd109
+title: Jonathan Tsang
 
 # Short description of your site
-description: A journey through
+description: A journey through Waterloo
 
 # --- Navigation bar options --- #
 
@@ -72,7 +72,7 @@ tags: [cs116, math135, stat230]
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Canada/Eastern"
 markdown: kramdown
 
 highlighter: rouge

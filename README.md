@@ -6,6 +6,5 @@ title: README
 
 Navbar Currently:
 
-{{}}
 
-I plan to store notes and information about me on it.
+I plan to store notes that I take from the University of Waterloo and information about me.
