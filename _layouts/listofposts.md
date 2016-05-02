@@ -20,7 +20,7 @@ layout: default
   <h2>{{ post.title }}</h2>
   <p>{{ post.date | date: '%B %d, %Y' }}</p>
 
-<div class="text-center">
+<div>
   {{ post.content }}
 </div>
 {% endfor %}
