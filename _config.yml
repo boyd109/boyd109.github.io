@@ -11,8 +11,6 @@ baseurl: ""
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
 
-# Of course don't forget to change the username and projectname to YOUR username and project
-
 # Name of website
 title: Jonathan Tsang
 
@@ -54,7 +52,6 @@ footer-links-active:
   linkedin: false
 
 # How to display the link to the website in the footer
-# Remove this if you don't want a link in the footer
 url-pretty: "boyd109.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 #-- Categories and Tags --#
@@ -148,6 +145,3 @@ prose:
           element: "checkbox"
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
