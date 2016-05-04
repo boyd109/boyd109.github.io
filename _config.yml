@@ -40,7 +40,7 @@ navbar-links:
 author:
   name: Jonathan Tsang
   email: "j26tsang@gmail.com"
-  github: boyd109    # eg. boyd109
+  github: jonathantsang    # eg. boyd109
 
 # Select which links to show in the footer
 footer-links-active:
