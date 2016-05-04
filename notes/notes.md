@@ -12,3 +12,10 @@ permalink: /notes/
    <td><a id="colouring" href="{{site.baseurl}}/stat230/">Stat 230</a></td>
  </tr>
 </table>
+
+
+
+
+
+  
+### Notes for Later Terms will be uploaded here!
