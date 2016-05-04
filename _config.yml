@@ -52,7 +52,7 @@ footer-links-active:
   linkedin: false
 
 # How to display the link to the website in the footer
-url-pretty: "boyd109.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "jonathantsang.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 #-- Categories and Tags --#
 categories: [cs116, math135, stat230, main-cs116, main-math135, main-stat230]
