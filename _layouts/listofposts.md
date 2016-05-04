@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<html>
 
 {% include extras.html %}
 <h1>Table of Contents</h1>
@@ -24,3 +25,5 @@ layout: default
   {{ post.content }}
 </div>
 {% endfor %}
+
+<html>

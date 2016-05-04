@@ -3,6 +3,10 @@
 /* Some commented out CSS in transforming nav-bar */
 
 /* --- Added in Custom ---*/
+html body{
+background-color: #fdf5e6;
+  }
+
 .no-transition {
   -webkit-transition: height 0;
   -moz-transition: height 0;
