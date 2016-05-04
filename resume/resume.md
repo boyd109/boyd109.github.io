@@ -7,4 +7,4 @@ permalink: /resume/
 
 ### Jonathan Tsang Resume
 
-<iframe src="Jonathan Tsang Resume.pdf"></iframe>
+<iframe width="700" height="1000" src="Jonathan Tsang Resume.pdf"></iframe>
