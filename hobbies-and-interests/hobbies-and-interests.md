@@ -10,6 +10,6 @@ Things I enjoy:
 Super Smash Brothers Melee
 
 Regex Puzzles and using Regex
-[Link to my Github Repository that covers some interesting Regex I've used](https://github.com/boyd109/Regex_Tricks)
+[Link to my Github Repository that covers some interesting Regex I've used](https://github.com/jonathantsang/Regex_Tricks)
 
 Trying New Foods
