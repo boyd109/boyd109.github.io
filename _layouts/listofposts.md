@@ -18,8 +18,8 @@ layout: default
   <a name="{{ post.id | remove:"/"}}"></a>
   <br>
   <br>
-  <h2>{{ post.title }}</h2>
-  <p>{{ post.date | date: '%B %d, %Y' }}</p>
+  <h1>{{ post.title }}</h1>
+  <strong><p>{{ post.date | date: '%B %d, %Y' }}</p></strong>
 
 <div>
   {{ post.content }}
