@@ -55,8 +55,8 @@ footer-links-active:
 url-pretty: "jonathantsang.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 #-- Categories and Tags --#
-categories: [cs116, math135, stat230, main-cs116, main-math135, main-stat230]
-tags: [cs116, math135, stat230]
+categories: [cs116, math135, stat230, clas104, main-cs116, main-math135, main-stat230, main-clas104]
+tags: [cs116, math135, stat230, clas104]
 
 # --- Misc --- #
 
