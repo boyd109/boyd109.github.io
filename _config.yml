@@ -58,6 +58,12 @@ url-pretty: "jonathantsang.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 categories: [cs116, math135, stat230, clas104, main-cs116, main-math135, main-stat230, main-clas104, cs136, stat231, math136, engl109, main-cs136, main-stat231, main-math136, main-engl109]
 tags: [cs116, math135, stat230, clas104, cs136, math136, stat231, engl109]
 
+#-- IMPORTANT --#
+# Note to self: when adding new courses you to:
+# 1. add the course titles to categories and tags (with main-coursename)
+# 2. make new pages in the classes folder, and add the new term (ex. 2b) and the courses in the folder.
+# 3. add the links to the classes in the notes.md
+
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
