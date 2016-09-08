@@ -14,6 +14,15 @@ permalink: /notes/
  </tr>
 </table>
 
+## 3A Term
+<table style="width:100%" >
+ <tr>
+   <td><a id="colouring" href="{{site.baseurl}}/cs136/">CS 136</a></td>
+   <td><a id="colouring" href="{{site.baseurl}}/math136/">Math 136</a></td>
+   <td><a id="colouring" href="{{site.baseurl}}/stat231/">Stat 231</a></td>
+   <td><a id="colouring" href="{{site.baseurl}}/engl109/">Engl 109</a></td>
+ </tr>
+</table>
 
 
 
