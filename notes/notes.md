@@ -31,10 +31,8 @@ permalink: /notes/
 ## Miscellaneous Info Session Notes:
 <html>
 
-{% include extras.html %}
-<h1>Table of Contents</h1>
 <ol>
-{% for post in site.categories[page.tag] reversed %}
+{% for post in site.categories[other] reversed %}
   <a href="#{{ post.id | remove:"/" }}">
   <li>{{ post.title }}</li></a>
 {% endfor %}
