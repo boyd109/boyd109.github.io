@@ -38,7 +38,7 @@ permalink: /notes/
 {% endfor %}
 </ol>
 
-{% for post in site.categories[page.tag] reversed %}
+{% for post in site.categories[other] reversed %}
 
 <hr>
   <a name="{{ post.id | remove:"/"}}"></a>
