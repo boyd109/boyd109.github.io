@@ -20,7 +20,7 @@ permalink: /notes/
    <td><a id="colouring" href="{{site.baseurl}}/cs136/">CS 136</a></td>
    <td><a id="colouring" href="{{site.baseurl}}/math136/">Math 136</a></td>
    <td><a id="colouring" href="{{site.baseurl}}/stat231/">Stat 231</a></td>
-   <td>Engl 109 (No digital notes)</a></td>
+   <td>Engl 109 (No digital notes)</td>
    <td><a id="colouring" href="{{site.baseurl}}/music100/">Music 100</a></td>
  </tr>
 </table>
