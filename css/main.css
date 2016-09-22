@@ -28,11 +28,22 @@ background-color: #fdf5e6;
   transition: height 0.01s;
 }
 
+figcaption {
+  font-size: 16px;
+}
+
+.floating-box {
+    display: inline;
+    width: 90%;
+    height: 90%;
+    margin: 1px;
+}
+
 /* --- General --- */
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 18px;
+  font-size: 17px;
   color: #404040;
   position: relative;
   background: #FFF;

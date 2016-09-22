@@ -9,20 +9,61 @@ permalink: /my-story/
 
 Coming out of high school I was really passionate for the sciences such as chemistry and physics. I also enjoyed business courses such as economics after taking AP Microeconomics, AP Macroeconomics, and participating in DECA.
 
-I didn't take any Computer Science courses in high school, and in hindsight, I should have at least tried them out while in high school.
+I didn't take any Computer Science courses in high school, and in hindsight, I should have at least tried them out while in high school, but I did take a lot of AP courses which occupied my time. (AP Math, AP Physics, AP Microeconomics, AP Macroeconomics, AP Chemistry)
 
 ## Fall 2014
+<figure>
+  <span>
+  <img src="/my-story/pictures/1.jpg" width="40%" height="40%">
+  <figcaption>My first picture taken in my room at V1. It was taken on the iPhone 3GS.</figcaption>
+  </span>
+</figure>
 
-  <img src="1.jpg" width="30%" height="30%"">
-  <figcaption>My first picture in my room at V1. It was taken on the iPhone 3GS.</figcaption>
+I entered the University of Waterloo Science and Business Program with a specialization in chemistry. I was interested in both facets and I was extremely excited to be a part of the program. The only time I had ever lived away from home for a prolonged period of time was for [Shad Valley](http://www.shad.ca), where I went to Halifax and stayed at Dalhousie University for a month. It was an amazing experience to see the East Coast of Canada. Here's some photos from Shad Valley:
 
-I entered the University of Waterloo Science and Business Program with a specialization in chemistry.
+
+<div class="floating-box">
+  <img src="/my-story/pictures/s1.jpg" width="32%" height="32%">
+</div>
+<div class="floating-box">
+  <img src="/my-story/pictures/s2.jpg" width="32%" height="32%">
+</div>
+<div class="floating-box">
+  <img src="/my-story/pictures/s3.jpg" width="32%" height="32%">
+</div>
+
+<figcaption>1. Nice view from the top of somewhere we had gone for the weekend.</figcaption>
+
+<figcaption>2. We visited some smaller towns built by the rivers. It was an interesting view since I lived in Toronto.</figcaption>
+
+<figcaption>3. Had some delicious lobster while in the East Coast. I actually ate it during our bus trip to PEI, and not in Nova Scotia or New Brunswick. </figcaption>
+
+<br>
+
+<figure>
+  <span>
+  <img src="/my-story/pictures/2-1.jpg" width="40%" height="40%">
+  <figcaption>Science Teaching Complex was still under construction in 2014, and I took some pictures of it when it was still being built. Nowadays it looks pretty amazing since it is fairly new.</figcaption>
+  </span>
+</figure>
 
 ## Winter 2015
+<figure>
+  <span>
+  <img src="/my-story/pictures/2.jpg" width="40%" height="40%">
+  <figcaption>This is was taken when I was doing a titration lab.</figcaption>
+  </span>
+</figure>
 
 After doing a couple labs in science, and attending my first hackathon ever (Terrible Hack 2), I was amazed at the world of possibility in Computer Science and the future of technology. I wanted to switch into Computer Science at this point.
 
-I also participated in Model UN, and got "Best Delegate" at their first in-house committee.
+<figure>
+  <span>
+  <img src="/my-story/pictures/3.jpg" width="40%" height="40%">
+  <figcaption>I also participated in Model UN, and got "Best Delegate" at their first in-house committee.</figcaption>
+  </span>
+</figure>
+
 
 ## Spring 2015
 I spent the summer working with HTML, CSS, and Bootstrap. I worked with my friend on a website called Amiiboplace.com, originally to be used for trading and selling amiibos. I decided to use a Wordpress CMS on the website, and I now use it to write and post Smash Bros related news.
