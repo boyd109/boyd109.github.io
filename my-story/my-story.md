@@ -7,7 +7,7 @@ permalink: /my-story/
 
 # My Story
 
-Coming out of high school I was really passionate for the sciences such as chemistry and physics. I also enjoyed business courses such as economics after taking AP Microeconomics, AP Macroeconomics, and participating in DECA.
+Coming out of high school I was really passionate for the sciences such as chemistry and physics. I also enjoyed business courses such as economics after taking AP Microeconomics, AP Macroeconomics, and participating in DECA. I really like Waterloo's co-op program and I was excited to go to Waterloo in Fall 2014.
 
 I didn't take any Computer Science courses in high school, and in hindsight, I should have at least tried them out while in high school, but I did take a lot of AP courses which occupied my time. (AP Math, AP Physics, AP Microeconomics, AP Macroeconomics, AP Chemistry)
 
@@ -41,10 +41,13 @@ I entered the University of Waterloo Science and Business Program with a special
 <br>
 
 <figure>
-  <span>
-  <img src="/my-story/pictures/2-1.jpg" width="40%" height="40%">
-  <figcaption>Science Teaching Complex was still under construction in 2014, and I took some pictures of it when it was still being built. Nowadays it looks pretty amazing since it is fairly new.</figcaption>
-  </span>
+<div class="floating-box">
+  <img src="/my-story/pictures/2-1.jpg" width="45%" height="45%">
+</div>
+<div class="floating-box">
+  <img src="/my-story/pictures/2-2.jpg" width="45%" height="45%">
+</div>
+  <figcaption>Science Teaching Complex and Needles Hall was still under construction in 2014, and I took some pictures of it when it was still being built. Nowadays it looks pretty amazing since it is fairly new.</figcaption>
 </figure>
 
 ## Winter 2015
@@ -57,6 +60,19 @@ I entered the University of Waterloo Science and Business Program with a special
 
 After doing a couple labs in science, and attending my first hackathon ever (Terrible Hack 2), I was amazed at the world of possibility in Computer Science and the future of technology. I wanted to switch into Computer Science at this point.
 
+<div class="floating-box">
+  <img src="/my-story/pictures/4-1.jpg" width="32%" height="32%">
+</div>
+<div class="floating-box">
+  <img src="/my-story/pictures/4-2.jpg" width="32%" height="32%">
+</div>
+<div class="floating-box">
+  <img src="/my-story/pictures/4-3.jpg" width="32%" height="32%">
+</div>
+<figcaption>The winter was pretty snowy that year. The whole campus was covered in a blanket of snow.</figcaption>
+
+<br>
+
 <figure>
   <span>
   <img src="/my-story/pictures/3.jpg" width="40%" height="40%">
@@ -66,9 +82,15 @@ After doing a couple labs in science, and attending my first hackathon ever (Ter
 
 
 ## Spring 2015
-I spent the summer working with HTML, CSS, and Bootstrap. I worked with my friend on a website called Amiiboplace.com, originally to be used for trading and selling amiibos. I decided to use a Wordpress CMS on the website, and I now use it to write and post Smash Bros related news.
+
+<img src="/my-story/pictures/amiiboplace.png" width="20%" height="20%">
+
+I spent the summer working with HTML, CSS, and Bootstrap. I worked with my friend on a website called [Amiiboplace.com](http://amiiboplace.com/), originally to be used for trading and selling amiibos. I decided to use a Wordpress CMS on the website, and I now use it to write and post Smash Bros related news.
 
 ## Fall 2015
+
+I was a Science Orientation Leader in Fall 2015.
+
 I planned to switch into Computer Science. (The switch would take almost a year since I needed CS 116 and CS 136 and meet certain mark requirements)
 
 ## Winter 2016
