@@ -4,7 +4,7 @@ layout: default
 permalink: /my-story/
 ---
 
-**This is still a work in progress as I article my time so far at UWaterloo. Look below to see my story going through University.**
+**This is still a work in progress as I article my time so far at UWaterloo. Look below to see my story going through University. I got the idea to do this from [Robert Elder's UW Journey](http://www.robertelder.ca/my-uw-journey/).**
 
 # My Story
 
@@ -184,6 +184,12 @@ I planned to switch into Computer Science. (The switch would take almost a year 
 
 ## Winter 2016
 
+<figure>
+  <span>
+  <img src="/my-story/pictures/intrafinity.jpg" width="40%" height="40%">
+  </span>
+</figure>
+
 I had a co-op placement at Intrafinity (also called School Messenger). While there, I migrated content from school websites. I also worked on some Javascript and regular expressions. I studied Python 3.0 on my own time, looking at the iterative structures.
 
 <figure>
@@ -195,23 +201,37 @@ I had a co-op placement at Intrafinity (also called School Messenger). While the
 
 ## Spring 2016
 
-<figure>
-  <span>
-  <img src="/my-story/pictures/10-1.jpg" width="40%" height="40%">
-  <figcaption>While in Toronto, I was about to go to Smash at York and play in the tournament for fun. I didn't win my matches, but I met some cool people, and some people that eventually went to the University of Waterloo.</figcaption>
-  </span>
-</figure>
-
-<figure>
-  <span>
-  <img src="/my-story/pictures/10-1.jpg" width="40%" height="40%">
-  <figcaption>I also attended Eng-Hack and worked in a team with some of my friends.</figcaption>
-  </span>
-</figure>
-
-I stayed at the Velocity Residence this term. The events were awesome there, and I recommend anyone even slightly interested in entrepreneurship to stay for a term and see if it is right for them. The dinner events where we could talk to start-ups and other speakers was my favourite part of the residence. I really hope I can stay there for more terms in the future. (As of Fall 2016)
-
 I arrived back for an academic term in the spring. I took CLAS 104, CS 116, Math 135, and Stat 230. I loved CS 116 and the logical application of solving questions using Python. Although Math 135's math proofs were a bit rocky I ended up doing pretty well in the course and by the end I enjoyed the content overall. (Mod and complex-numbers and n-th roots were my favourite concepts taught in the course)
+
+<div class="floating-box">
+  <img src="/my-story/pictures/11-1.jpg" width="32%" height="32%">
+</div>
+<div class="floating-box">
+  <img src="/my-story/pictures/11-2.jpg" width="32%" height="32%">
+</div>
+<div class="floating-box">
+  <img src="/my-story/pictures/11-3.jpg" width="32%" height="32%">
+</div>
+
+<figcaption>I stayed at the Velocity Residence this term. The events were awesome there, and I recommend anyone even slightly interested in entrepreneurship to stay for a term and see if it is right for them. The dinner events where we could talk to start-ups and other speakers was my favourite part of the residence. I really hope I can stay there for more terms in the future. (As of Fall 2016) The first photo is my velocity sweater I got for staying in the residence. The middle one is a picture of the Communitech sign when I went to their office for a big Velocity dinner, and the last one is a mural of the Google logo, since Communitech moved into Google's old building a lot of paintings were left there.</figcaption>
+
+<br>
+
+<figure>
+  <span>
+  <img src="/my-story/pictures/11-4.jpg" width="40%" height="40%">
+  <figcaption>This is what it looks like inside of the Communitech office.</figcaption>
+  </span>
+</figure>
+
+<br>
+
+<figure>
+  <span>
+  <img src="/my-story/pictures/11-5.jpg" width="40%" height="40%">
+  <figcaption>I also attended Eng-Hack and worked in a team with some of my friends. We worked on a chatbot that gave Google Maps directions when you put in a location.</figcaption>
+  </span>
+</figure>
 
 ## Fall 2016 (Present)
 
