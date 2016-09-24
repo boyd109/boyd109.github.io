@@ -186,7 +186,7 @@ I planned to switch into Computer Science. (The switch would take almost a year 
 
 <figure>
   <span>
-  <img src="/my-story/pictures/intrafinity.jpg" width="40%" height="40%">
+  <img src="/my-story/pictures/intrafinity.jpg" width="20%" height="20%">
   </span>
 </figure>
 
@@ -213,7 +213,8 @@ I arrived back for an academic term in the spring. I took CLAS 104, CS 116, Math
   <img src="/my-story/pictures/11-3.jpg" width="32%" height="32%">
 </div>
 
-<figcaption>I stayed at the Velocity Residence this term. The events were awesome there, and I recommend anyone even slightly interested in entrepreneurship to stay for a term and see if it is right for them. The dinner events where we could talk to start-ups and other speakers was my favourite part of the residence. I really hope I can stay there for more terms in the future. (As of Fall 2016) The first photo is my velocity sweater I got for staying in the residence. The middle one is a picture of the Communitech sign when I went to their office for a big Velocity dinner, and the last one is a mural of the Google logo, since Communitech moved into Google's old building a lot of paintings were left there.</figcaption>
+<figcaption>I stayed at the Velocity Residence this term. The events were awesome there, and I recommend anyone even slightly interested in entrepreneurship to stay for a term and see if it is right for them. The dinner events where we could talk to start-ups and other speakers was my favourite part of the residence. I really hope I can stay there for more terms in the future. (As of Fall 2016) </figcaption>
+<figcaption>The first photo is my velocity sweater I got for staying in the residence. The middle one is a picture of the Communitech sign when I went to their office for a big Velocity dinner, and the last one is a mural of the Google logo, since Communitech moved into Google's old building a lot of paintings were left there.</figcaption>
 
 <br>
 
@@ -235,6 +236,8 @@ I arrived back for an academic term in the spring. I took CLAS 104, CS 116, Math
 
 ## Fall 2016 (Present)
 
-I switched my co-op stream around, so I was supposed to be on co-op during this term, but I wanted to take CS 136 and get into the CS program. I took Math 136, Stat 231, CS 136, ENGL 109, and Music 100. It is a little heftier of a term since it has 5 courses instead of 4 courses last term, but overall manageable.
+I switched my co-op stream around, so I was supposed to be on co-op during this term, but I wanted to take CS 136 and get into the CS program. I took Math 136, Stat 231, CS 136, ENGL 109, and Music 100. It is a little heftier of a term since it has 5 courses instead of 4 courses last term, but overall  a manageable courseload.
 
 ## Future
+
+No one can be certain what the future holds, but if we keep moving along and explore new paths, I can't help but think we will enjoy the journey.
