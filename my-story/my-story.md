@@ -159,11 +159,37 @@ I spent the summer working with HTML, CSS, and Bootstrap. I worked with my frien
   </span>
 </figure>
 
+<figure>
+<div class="floating-box">
+  <img src="/my-story/pictures/8-1.jpg" width="45%" height="45%">
+</div>
+<div class="floating-box">
+  <img src="/my-story/pictures/8-2.jpg" width="45%" height="45%">
+</div>
+  <figcaption>I attended Terrible Hack 2, my first hackathon, and I was in awe from the projects people created. My friend and I didn't make anything too spectacular, but I was motivated to learn and create things on my own. At the time I didn't know a lot of the people presenting, but I would eventually meet them and become good friends at the Velocity Residence in Spring 2016.</figcaption>
+</figure>
+
+<br>
+
+<figure>
+  <span>
+  <img src="/my-story/pictures/9-1.jpg" width="40%" height="40%">
+  <figcaption>I also was a part of the first ever Model UN in Waterloo called UWaterloo Model G20 as a co-chair of the committee.</figcaption>
+  </span>
+</figure>
+
 I planned to switch into Computer Science. (The switch would take almost a year since I needed CS 116 and CS 136 and meet certain mark requirements) I met with advisors, and embarked on a long journey to transfer faculties and programs. At the time I was unsure of switching, but when brought with the choice of safety, but chemistry labs I didn't like, or uncertainty, but doing something I enjoyed, I decided to switch programs.
 
 ## Winter 2016
 
 I had a co-op placement at Intrafinity (also called School Messenger). While there, I migrated content from school websites. I also worked on some Javascript and regular expressions. I studied Python 3.0 on my own time, looking at the iterative structures.
+
+<figure>
+  <span>
+  <img src="/my-story/pictures/10-1.jpg" width="40%" height="40%">
+  <figcaption>While in Toronto, I was about to go to Smash at York and play in the tournament for fun. I didn't win my matches, but I met some cool people, and some people that eventually went to the University of Waterloo.</figcaption>
+  </span>
+</figure>
 
 ## Spring 2016
 I arrived back for an academic term in the spring. I took CLAS 104, CS 116, Math 135, and Stat 230. I loved CS 116 and the logical application of solving questions using Python. Although Math 135's math proofs were a bit rocky I ended up doing pretty well in the course and by the end I enjoyed the content overall. (Mod and complex-numbers and n-th roots were my favourite concepts taught in the course)
