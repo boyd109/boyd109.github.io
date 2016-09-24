@@ -154,10 +154,12 @@ I spent the summer working with HTML, CSS, and Bootstrap. I worked with my frien
 
 <figure>
   <span>
-  <img src="/my-story/pictures/7-1.jpg" width="40%" height="40%">
+  <img src="/my-story/pictures/7-1.jpg" width="30%" height="30%">
   <figcaption>I was a Science Orientation Leader in Fall 2015. It was great since I got to help a lot of incoming first-years by answering questions, showing them around, and making them feel welcome to the UW community.</figcaption>
   </span>
 </figure>
+
+<br>
 
 <figure>
 <div class="floating-box">
@@ -166,7 +168,7 @@ I spent the summer working with HTML, CSS, and Bootstrap. I worked with my frien
 <div class="floating-box">
   <img src="/my-story/pictures/8-2.jpg" width="45%" height="45%">
 </div>
-  <figcaption>I attended Terrible Hack 2, my first hackathon, and I was in awe from the projects people created. My friend and I didn't make anything too spectacular, but I was motivated to learn and create things on my own. At the time I didn't know a lot of the people presenting, but I would eventually meet them and become good friends at the Velocity Residence in Spring 2016.</figcaption>
+  <figcaption>I attended Terrible Hack 2, my first hackathon, and I was in awe from the projects people created. My friend and I didn't make anything too spectacular, but I was motivated to learn and create things on my own. At the time I didn't know a lot of the people presenting, but I would eventually meet some of them at the Velocity Residence in Spring 2016 and become good friends.</figcaption>
 </figure>
 
 <br>
@@ -174,7 +176,7 @@ I spent the summer working with HTML, CSS, and Bootstrap. I worked with my frien
 <figure>
   <span>
   <img src="/my-story/pictures/9-1.jpg" width="40%" height="40%">
-  <figcaption>I also was a part of the first ever Model UN in Waterloo called UWaterloo Model G20 as a co-chair of the committee.</figcaption>
+  <figcaption>I also was a part of the first ever Model UN in Waterloo called UWaterloo Model G20 as a assistant director of the committee.</figcaption>
   </span>
 </figure>
 
@@ -192,10 +194,27 @@ I had a co-op placement at Intrafinity (also called School Messenger). While the
 </figure>
 
 ## Spring 2016
+
+<figure>
+  <span>
+  <img src="/my-story/pictures/10-1.jpg" width="40%" height="40%">
+  <figcaption>While in Toronto, I was about to go to Smash at York and play in the tournament for fun. I didn't win my matches, but I met some cool people, and some people that eventually went to the University of Waterloo.</figcaption>
+  </span>
+</figure>
+
+<figure>
+  <span>
+  <img src="/my-story/pictures/10-1.jpg" width="40%" height="40%">
+  <figcaption>I also attended Eng-Hack and worked in a team with some of my friends.</figcaption>
+  </span>
+</figure>
+
+I stayed at the Velocity Residence this term. The events were awesome there, and I recommend anyone even slightly interested in entrepreneurship to stay for a term and see if it is right for them. The dinner events where we could talk to start-ups and other speakers was my favourite part of the residence. I really hope I can stay there for more terms in the future. (As of Fall 2016)
+
 I arrived back for an academic term in the spring. I took CLAS 104, CS 116, Math 135, and Stat 230. I loved CS 116 and the logical application of solving questions using Python. Although Math 135's math proofs were a bit rocky I ended up doing pretty well in the course and by the end I enjoyed the content overall. (Mod and complex-numbers and n-th roots were my favourite concepts taught in the course)
 
 ## Fall 2016 (Present)
 
-
+I switched my co-op stream around, so I was supposed to be on co-op during this term, but I wanted to take CS 136 and get into the CS program. I took Math 136, Stat 231, CS 136, ENGL 109, and Music 100. It is a little heftier of a term since it has 5 courses instead of 4 courses last term, but overall manageable.
 
 ## Future
