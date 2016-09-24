@@ -4,6 +4,7 @@ layout: default
 permalink: /my-story/
 ---
 
+**This is still a work in progress as I article my time so far at UWaterloo. Look below to see my story going through University.**
 
 # My Story
 
@@ -15,7 +16,7 @@ I didn't take any Computer Science courses in high school, and in hindsight, I s
 <figure>
   <span>
   <img src="/my-story/pictures/1.jpg" width="40%" height="40%">
-  <figcaption>My first picture taken in my room at V1. It was taken on the iPhone 3GS.</figcaption>
+  <figcaption>My first picture taken in my room at V1. It was taken on the iPhone 3GS. A lot of the photos I took up until Fall 2015 were taken on the iPhone 3GS.(I later got an iPhone 4S) I'm actually amazed at some of the picture I took back then and how they turned out on a pretty mediocre camera. (The phone came out in 2009, so it is about 5 years old in 2014.)</figcaption>
   </span>
 </figure>
 
@@ -69,14 +70,74 @@ After doing a couple labs in science, and attending my first hackathon ever (Ter
 <div class="floating-box">
   <img src="/my-story/pictures/4-3.jpg" width="32%" height="32%">
 </div>
-<figcaption>The winter was pretty snowy that year. The whole campus was covered in a blanket of snow.</figcaption>
+<figcaption>The winter was pretty snowy that year. The whole campus was covered in a blanket of snow. In the picture on the far left of these three, is a scene near EIT. In the back you can barely make out two figures, one of which is the President of the University of Waterloo, Feridun Hamdullahpur. I was surprised to see him walking out in the frigid cold.</figcaption>
+
+<br>
+
+<div class="floating-box">
+  <img src="/my-story/pictures/4-4.jpg" width="32%" height="32%">
+</div>
+<figcaption>A Christmas tree can be seen on the top of DP Library.</figcaption>
+
+<br>
+
+<figcaption>I was amazed at the campus covered in a thick layer of snow and I tried to take as many photos of it as possible. Here are some of the photos that I took during the term.</figcaption>
+<div class="floating-box">
+  <img src="/my-story/pictures/5-1.jpg" width="32%" height="32%">
+</div>
+<div class="floating-box">
+  <img src="/my-story/pictures/5-2.jpg" width="32%" height="32%">
+</div>
+<div class="floating-box">
+  <img src="/my-story/pictures/5-3.jpg" width="32%" height="32%">
+</div>
+<figcaption>Near the Tatham Centre and Hagey Hall.</figcaption>
+
+<br>
+
+<div class="floating-box">
+  <img src="/my-story/pictures/5-4.jpg" width="32%" height="32%">
+</div>
+<div class="floating-box">
+  <img src="/my-story/pictures/5-5.jpg" width="32%" height="32%">
+</div>
+<div class="floating-box">
+  <img src="/my-story/pictures/5-6.jpg" width="32%" height="32%">
+</div>
+<figcaption>Beside DC and MC.</figcaption>
+
+<br>
+
+<div class="floating-box">
+  <img src="/my-story/pictures/5-7.jpg" width="32%" height="32%">
+</div>
+<div class="floating-box">
+  <img src="/my-story/pictures/5-8.jpg" width="32%" height="32%">
+</div>
+<div class="floating-box">
+  <img src="/my-story/pictures/5-9.jpg" width="32%" height="32%">
+</div>
+<figcaption>Views of DP Library and V1 Green.</figcaption>
+
+<br>
+
+<div class="floating-box">
+  <img src="/my-story/pictures/6-1.jpg" width="32%" height="32%">
+</div>
+<div class="floating-box">
+  <img src="/my-story/pictures/6-2.jpg" width="32%" height="32%">
+</div>
+<div class="floating-box">
+  <img src="/my-story/pictures/6-3.jpg" width="32%" height="32%">
+</div>
+<figcaption>The Science Teaching Complex and Needles Hall Expansion was still being built at the time. Here are a couple pictures of the contruction, the parking lot at night near PAC, and QNC at night.</figcaption>
 
 <br>
 
 <figure>
   <span>
   <img src="/my-story/pictures/3.jpg" width="40%" height="40%">
-  <figcaption>I also participated in Model UN, and got "Best Delegate" at their first in-house committee.</figcaption>
+  <figcaption>I also participated in Model UN, and got "Best Delegate" at their first in-house committee. I really enjoyed DECA and Model UN in high school, and I continued to participate in those clubs in university. I went to UTMUN, a University of Toronto run Model UN event in Winter 2015 as well.</figcaption>
   </span>
 </figure>
 
