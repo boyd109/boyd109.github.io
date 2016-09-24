@@ -204,13 +204,13 @@ I had a co-op placement at Intrafinity (also called School Messenger since they 
 I arrived back for an academic term in the spring. I took CLAS 104, CS 116, Math 135, and Stat 230. I loved CS 116 and the logical application of solving questions using Python. Although Math 135's math proofs were a bit rocky I ended up doing pretty well in the course and by the end I enjoyed the content overall. (Mod and complex-numbers and n-th roots were my favourite concepts taught in the course)
 
 <div class="floating-box">
-  <img src="/my-story/pictures/11-1.jpg" width="32%" height="32%">
+  <img src="/my-story/pictures/11-1.JPG" width="32%" height="32%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/11-2.jpg" width="32%" height="32%">
+  <img src="/my-story/pictures/11-2.JPG" width="32%" height="32%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/11-3.jpg" width="32%" height="32%">
+  <img src="/my-story/pictures/11-3.JPG" width="32%" height="32%">
 </div>
 
 <figcaption>I stayed at the Velocity Residence this term. The events were awesome there, and I recommend anyone even slightly interested in entrepreneurship to stay for a term and see if it is right for them. The dinner events where we could talk to start-ups and other speakers was my favourite part of the residence. I really hope I can stay there for more terms in the future. (As of Fall 2016) </figcaption>
