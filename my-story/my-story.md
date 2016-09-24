@@ -190,7 +190,7 @@ I planned to switch into Computer Science. (The switch would take almost a year 
   </span>
 </figure>
 
-I had a co-op placement at Intrafinity (also called School Messenger). While there, I migrated content from school websites. I also worked on some Javascript and regular expressions. I studied Python 3.0 on my own time, looking at the iterative structures.
+I had a co-op placement at Intrafinity (also called School Messenger since they were recently bought over by the West Corporation). While there, I migrated content from school websites. I also worked on some Javascript and regular expressions. I studied Python 3.0 on my own time, looking at the iterative structures. I was really happy that I worked there because I met a lot of amazing co-ops and workers and it really exposed me to the working nature outside of the University academic terms. I made a lot of good friends at the co-op, which I normally wouldn't have since they were in a diverse range of faculties and programs. Now we hang out or study on campus and I'm happy that the co-op experience allowed for me to meet people I normally wouldn't have.
 
 <figure>
   <span>
@@ -237,6 +237,13 @@ I arrived back for an academic term in the spring. I took CLAS 104, CS 116, Math
 ## Fall 2016 (Present)
 
 I switched my co-op stream around, so I was supposed to be on co-op during this term, but I wanted to take CS 136 and get into the CS program. I took Math 136, Stat 231, CS 136, ENGL 109, and Music 100. It is a little heftier of a term since it has 5 courses instead of 4 courses last term, but overall  a manageable courseload.
+
+<figure>
+  <span>
+  <img src="/my-story/pictures/12-1.jpg" width="40%" height="40%">
+  <figcaption>I went to UWP Hacks and I appeared in one of their photos. I didn't have much time to make a project since I was volunteering for Hack the North 2016, but I did follow some Unity tutorials to make a simpel game.</figcaption>
+  </span>
+</figure>
 
 ## Future
 
