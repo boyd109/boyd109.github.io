@@ -148,11 +148,18 @@ After doing a couple labs in science, and attending my first hackathon ever (Ter
 
 I spent the summer working with HTML, CSS, and Bootstrap. I worked with my friend on a website called [Amiiboplace.com](http://amiiboplace.com/), originally to be used for trading and selling amiibos. I decided to use a Wordpress CMS on the website, and I now use it to write and post Smash Bros related news.
 
+
+
 ## Fall 2015
 
-I was a Science Orientation Leader in Fall 2015.
+<figure>
+  <span>
+  <img src="/my-story/pictures/7-1.jpg" width="40%" height="40%">
+  <figcaption>I was a Science Orientation Leader in Fall 2015. It was great since I got to help a lot of incoming first-years by answering questions, showing them around, and making them feel welcome to the UW community.</figcaption>
+  </span>
+</figure>
 
-I planned to switch into Computer Science. (The switch would take almost a year since I needed CS 116 and CS 136 and meet certain mark requirements)
+I planned to switch into Computer Science. (The switch would take almost a year since I needed CS 116 and CS 136 and meet certain mark requirements) I met with advisors, and embarked on a long journey to transfer faculties and programs. At the time I was unsure of switching, but when brought with the choice of safety, but chemistry labs I didn't like, or uncertainty, but doing something I enjoyed, I decided to switch programs.
 
 ## Winter 2016
 
