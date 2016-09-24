@@ -241,7 +241,7 @@ I switched my co-op stream around, so I was supposed to be on co-op during this 
 <figure>
   <span>
   <img src="/my-story/pictures/12-1.jpg" width="40%" height="40%">
-  <figcaption>I went to UWP Hacks and I appeared in one of their photos. I didn't have much time to make a project since I was volunteering for Hack the North 2016, but I did follow some Unity tutorials to make a simpel game.</figcaption>
+  <figcaption>I went to UWP Hacks and I appeared in one of their photos. I didn't have much time to make a project since I was volunteering for Hack the North 2016, but I did follow some Unity tutorials to make a simple game.</figcaption>
   </span>
 </figure>
 
