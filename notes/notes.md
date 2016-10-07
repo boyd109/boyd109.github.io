@@ -29,28 +29,6 @@ permalink: /notes/
 **Notes for Later Terms will be uploaded here!**
 **Note: Most of my notes are handwritten, and I sometimes post here, but not everything is posted here. I put some of the important topics, but this is not comprehensive of the whole course**
 
-## Miscellaneous Info Session Notes:
-<html>
+## Miscellaneous Info Session and Other Notes:
 
-<ol>
-{% for post in site.categories[other] reversed %}
-  <a href="#{{ post.id | remove:"/" }}">
-  <li>{{ post.title }}</li></a>
-{% endfor %}
-</ol>
-
-{% for post in site.categories[other] reversed %}
-
-<hr>
-  <a name="{{ post.id | remove:"/"}}"></a>
-  <br>
-  <br>
-  <h1>{{ post.title }}</h1>
-  <strong><p>{{ post.date | date: '%B %d, %Y' }}</p></strong>
-
-<div>
-  {{ post.content }}
-</div>
-{% endfor %}
-
-<html>
+<h2><a id="colouring" href="{{site.baseurl}}/other/">Other Notes</a><h2>
