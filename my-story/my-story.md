@@ -245,6 +245,10 @@ I switched my co-op stream around, so I was supposed to be on co-op during this 
   </span>
 </figure>
 
+MHacks8
+
+This was my first experience outside of the country for a hackathon. It took place at Detroit, Michigan at the Masonic Temple. I walked in a bit rose eyed from Hack the North, and I was slightly disappointed. The venue was a bit run down, but the interaction from people from University of Michigan and other universities was amazing.
+
 ## Future
 
 No one can be certain what the future holds, but if we keep moving along and explore new paths, I can't help but think we will enjoy the journey.
