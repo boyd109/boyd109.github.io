@@ -25,6 +25,8 @@ navbar-links:
   Resume: "resume"
   Notes: "notes"
   My Story: "my-story"
+  Hackthons:
+    - MHacks8: "mhacks8"
   Hobbies and Interests: "hobbies-and-interests"
 #  Resources:
 #   - Resume: "resume"

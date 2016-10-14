@@ -245,9 +245,12 @@ I switched my co-op stream around, so I was supposed to be on co-op during this 
   </span>
 </figure>
 
-MHacks8
+## MHacks8
 
-This was my first experience outside of the country for a hackathon. It took place at Detroit, Michigan at the Masonic Temple. I walked in a bit rose eyed from Hack the North, and I was slightly disappointed. The venue was a bit run down, but the interaction from people from University of Michigan and other universities was amazing.
+I had a TON of pictures so here they are:
+<a href="{{site.baseurl}}/hackathons/mhacks8/>Link</a>
+
+This was my first experience outside of the country for a hackathon. It took place at Detroit, Michigan at the Masonic Temple. I walked in a bit rosey eyed from Hack the North, and I was slightly disappointed. The venue was a bit run down, but the interaction from people from University of Michigan and other universities was amazing.
 
 ## Future
 
