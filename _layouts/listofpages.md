@@ -15,11 +15,12 @@ layout: default1
 {% endfor %}
 </ol>
 
+<!--
 {% for p in site.pages %}
   {% if p.tag == page.tag %}
   <h2>{{ p.title }}</h2>
   <p>{{ p.content }}</p>
   {% endif %}
 {% endfor %}  
-
+-->
 <html>
