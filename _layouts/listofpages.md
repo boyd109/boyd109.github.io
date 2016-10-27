@@ -17,8 +17,6 @@ layout: default1
 
 {% for p in site.pages %}
   {% if p.tag == page.tag %}
-
-  <-- Fix -->
   <h2>{{ p.title }}</h2>
   <p>{{ p.content }}</p>
   {% endif %}
