@@ -2,8 +2,8 @@
 layout: listofpages
 title: Projects
 permalink: /projects/
-category: main-projects
-tag: projects
+category: projects
+tag: main-projects
 ---
 
 Fix later with customized list of posts
