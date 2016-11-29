@@ -246,7 +246,8 @@ I switched my co-op stream around, so I was supposed to be on co-op during this 
 </figure>
 
 ## MHacks8
-<img src="/my-story/pictures/13-1.jpg" width="40%" height="40%">
+<img src="/my-story/pictures/13-1.jpg" width="20%" height="20%">
+<br>
 I had a TON of pictures so here they are: [Link](/mhacks8/)  
 (I have now a dedicated tab for Hackathon photos that way the load times on this page don't get too massive.)  
 
