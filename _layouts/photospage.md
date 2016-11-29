@@ -56,7 +56,7 @@ div.desc {
     {% if image.path contains page.tag %}
     <div class="responsive">
       <div class="img"><a href="{{ site.baseurl }}{{ image.path }}"><img src="{{ site.baseurl }}{{ image.path }}" alt="image" /></a>
-        <div class="desc">On the bus to Detroit.</div>
+        <div></div>
       </div>
     </div>
     {% endif %}
