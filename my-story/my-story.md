@@ -253,7 +253,8 @@ I had a TON of pictures so here they are: [Link](/mhacks8/)
 This was my first experience outside of the country for a hackathon. It took place at Detroit, Michigan at the Masonic Temple. I walked in with a view of Hack the North, but got a different style of hackathon. The venue was a bit run down, but the interaction from people from University of Michigan and other universities was amazing.
 
 ## TerribleHacks5
-
+<img src="/my-story/pictures/13-1.jpg" width="40%" height="40%">
+<br>
 The parody hackathon.
 I got compiled photos from the event here: [Link](/th5/)  
 
