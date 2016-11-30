@@ -257,7 +257,7 @@ This was my first experience outside of the country for a hackathon. It took pla
 <img src="/my-story/pictures/14-1.jpg" width="40%" height="40%">
 <br>
 The parody hackathon.
-I got compiled photos from the event here: [Link](/th5/)  
+I compiled photos from the event here: [Link](/th5/)  
 
 ## Future
 
