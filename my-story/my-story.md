@@ -163,10 +163,13 @@ I spent the summer working with HTML, CSS, and Bootstrap. I worked with my frien
 
 <figure>
 <div class="floating-box">
-  <img src="/my-story/pictures/8-1.jpg" width="45%" height="45%">
+  <img src="/my-story/pictures/8-1.jpg" width="32%" height="32%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/8-2.jpg" width="45%" height="45%">
+  <img src="/my-story/pictures/8-2.jpg" width="32%" height="32%">
+</div>
+<div class="floating-box">
+  <img src="/my-story/pictures/16.jpg" width="32%" height="32%">
 </div>
   <figcaption>I attended Terrible Hack 2, my first hackathon, and I was in awe from the projects people created. My friend and I didn't make anything too spectacular, but I was motivated to learn and create things on my own. At the time I didn't know a lot of the people presenting, but I would eventually meet some of them at the Velocity Residence in Spring 2016 and become good friends.</figcaption>
 </figure>
@@ -210,7 +213,7 @@ I arrived back for an academic term in the spring. I took CLAS 104, CS 116, Math
   <img src="/my-story/pictures/11-2.jpg" width="32%" height="32%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/11-3.jpg" width="32%" height="32%">
+  <img src="/my-story/pictures/11-3.jpg" width="34%" height="34%">
 </div>
 
 <figcaption>I stayed at the Velocity Residence this term. The events were awesome there, and I recommend anyone even slightly interested in entrepreneurship to stay for a term and see if it is right for them. The dinner events where we could talk to start-ups and other speakers was my favourite part of the residence. I really hope I can stay there for more terms in the future. (As of Fall 2016) </figcaption>
@@ -258,6 +261,11 @@ This was my first experience outside of the country for a hackathon. It took pla
 <br>
 The parody hackathon.
 I compiled photos from the event here: [Link](/th5/)  
+
+## Local Hack Day
+<img src="/my-story/pictures/15.png" width="40%" height="40%">
+I also participated in the University of Waterloo Local Hack Day.
+<br>
 
 ## Future
 
