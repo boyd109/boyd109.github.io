@@ -264,6 +264,7 @@ I compiled photos from the event here: [Link](/th5/)
 
 ## Local Hack Day
 <img src="/my-story/pictures/15.png" width="40%" height="40%">
+<br>
 I also participated in the University of Waterloo Local Hack Day.
 <br>
 
