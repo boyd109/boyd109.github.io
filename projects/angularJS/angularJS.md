@@ -8,4 +8,4 @@ tag: projects
 
 Small Projects using AngularJS
 
-# Update in Progress
+## Calculator in AngularJS
