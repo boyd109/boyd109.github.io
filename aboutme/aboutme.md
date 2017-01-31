@@ -6,7 +6,10 @@ permalink: /aboutme/
 
 My name is Jonathan Tsang. Here's a short summary about me:
 
-- I am a 2A student from the University of Waterloo
-- I never did any programming in high school, but I was passionate enough to learn it on my own in University, and here I am now
-- I like trying new things
+- I found a passion for coding in university and I've decided to pursue it as my major
 - I run this website using Github Pages, Liquid, and Jekyll (This uses the Beautiful-Jekyll Theme)
+
+## Information about me
+
+[Leetcode](https://leetcode.com/jonathantsang/)
+[Github](https://github.com/jonathantsang)

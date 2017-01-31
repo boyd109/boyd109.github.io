@@ -6,6 +6,6 @@ category: projects
 tag: main-projects
 ---
 
-Fix later with customized list of posts
+More information to come
 
 {{content}}
