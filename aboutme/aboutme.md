@@ -11,5 +11,7 @@ My name is Jonathan Tsang. Here's a short summary about me:
 
 ## Information about me
 
-[Leetcode](https://leetcode.com/jonathantsang/)
+[Leetcode](https://leetcode.com/jonathantsang/)  
+<a href= "https://github.com/jonathantsang">
+<img src="/pictures/gcat.png" width="4%" height="4%"></a>
 [Github](https://github.com/jonathantsang)

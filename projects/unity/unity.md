@@ -6,7 +6,7 @@ category: projects
 tag: projects
 ---
 
-I had some experience previously making simple games in Gamemaker in middle school and high school. Some of the games are here:  
+I had some experience previously making simple games in Gamemaker in middle school and high school.
 <br>
 
 <h2>Ladder Jump
