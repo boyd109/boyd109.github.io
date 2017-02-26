@@ -9,7 +9,7 @@ tag: projects
 <h2>Pocket Monitor</h2>
 Youtube Video Scaling Extension
 <br>
-<img src="/projects/chrome/pictures/pocketmonitor.png" width="40%" height="40%">
+<img src="/projects/chrome/pictures/compact.png" width="40%" height="40%">
 <br>
 <button type = "button" class = "btn btn-primary btn-lg">Made with:</button>
 <button type = "button" class = "btn btn-primary">Javascript</button>
