@@ -11,6 +11,9 @@ baseurl: ""
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
 
+# Server
+# jekyll serve —watch —baseurl “”
+
 # Name of website
 title: Jonathan Tsang
 
