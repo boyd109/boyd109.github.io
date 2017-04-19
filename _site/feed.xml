@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonathan Tsang</title>
+    <description>A journey through Waterloo</description>
+    <link>http://jonathantsang.github.io</link>
+    <atom:link href="http://jonathantsang.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Symbols</title>
+        <description>
+          
+          ∧
+
+∉
+∈ 
+
+Resources:
+http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
+
+
+  
+    
+      Number
+      Next number
+      Previous number
+    
+  
+  
+    
+      Five
+      Six
+      Four
+    
+    
+      Ten
+      Eleven
+      Nine
+    
+    
+      Seven
+      Eight
+      Six
+    
+    
+      Two
+      Three
+      One
+    
+  
+
+
+        </description>
+        <pubDate>Sun, 25 Dec 2016 00:00:00 -0500</pubDate>
+        <link>http://jonathantsang.github.io/2016-12-25-symbols/</link>
+        <guid isPermaLink="true">http://jonathantsang.github.io/2016-12-25-symbols/</guid>
+      </item>
+    
+      <item>
+        <title>Final Exam Notes</title>
+        <description>
+          
+          Final Exam Notes Beethoven: - born in 1770, Germany - Beethoven’s master was Haydn - clashed, Haydn was old-fashioned and Beethoven was rebellious - in 1802 revealed he was going deaf music: 1. crescendos that seem to carry the music forward 2. themes that sound exactly right but are played...
+        </description>
+        <pubDate>Fri, 09 Dec 2016 00:00:00 -0500</pubDate>
+        <link>http://jonathantsang.github.io/2016-12-09-music100_20/</link>
+        <guid isPermaLink="true">http://jonathantsang.github.io/2016-12-09-music100_20/</guid>
+      </item>
+    
+      <item>
+        <title>Tutorial 12</title>
+        <description>
+          
+          String is a pointer to a null terminated array of characters [malloc][][][] char *array [] HEAP [LL head] head points to the first node [node 1 next item] node has an item and a pointer to the next one [node 2 next item] [node 3 next item] NULL in freeing,...
+        </description>
+        <pubDate>Mon, 05 Dec 2016 00:00:00 -0500</pubDate>
+        <link>http://jonathantsang.github.io/2016-12-05-cs136_12/</link>
+        <guid isPermaLink="true">http://jonathantsang.github.io/2016-12-05-cs136_12/</guid>
+      </item>
+    
+      <item>
+        <title>Lesson 19</title>
+        <description>
+          
+          Varese “Ionisation” - sirens, plane sounds - percussion Klangfarbenmelodie “tone colour” melody Stockhausen Crumb “Music for a Summer Evening” - notation example on pg. 256 - sounds like random notes on piano - has large pauses of silence - small parts of melody in piano reich, nagoya marimba: - play...
+        </description>
+        <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
+        <link>http://jonathantsang.github.io/2016-12-01-music100_19/</link>
+        <guid isPermaLink="true">http://jonathantsang.github.io/2016-12-01-music100_19/</guid>
+      </item>
+    
+      <item>
+        <title>Lesson 18</title>
+        <description>
+          
+          tonal idiom: 1) Conservatism Many composers think the old way of doing things is the better way and don’t think tonality is “mined out” 2) Populism/Nationalism Many composers choose to write accessible music to stay connected with a larger audience 3) Compulsion - Nazi Germany Shostakovich - same old style...
+        </description>
+        <pubDate>Tue, 29 Nov 2016 00:00:00 -0500</pubDate>
+        <link>http://jonathantsang.github.io/2016-11-29-music100_18/</link>
+        <guid isPermaLink="true">http://jonathantsang.github.io/2016-11-29-music100_18/</guid>
+      </item>
+    
+      <item>
+        <title>Tutorial 11</title>
+        <description>
+          
+          PostOrder - go to furthest left and then right, and then the node itself Doubly Linked Lists - pointer to front and back - pointers to before and after of each node ``` void dll_print(struct doublylinked *dll) { for(struct dllnode *current = dll-&amp;gt;front; current != NULL; current = current-&amp;gt;next){ printf(“[%d]-&amp;gt;”,...
+        </description>
+        <pubDate>Mon, 28 Nov 2016 00:00:00 -0500</pubDate>
+        <link>http://jonathantsang.github.io/2016-11-28-cs136_11/</link>
+        <guid isPermaLink="true">http://jonathantsang.github.io/2016-11-28-cs136_11/</guid>
+      </item>
+    
+      <item>
+        <title>Lesson 17</title>
+        <description>
+          
+          The scream - early 20th century schoenberg pierrot lunaire1 - lady singing - strange tone 12 tone system of schoenberg - use the same tone again - must use all the tones before going back schoenberg music - seems random, but has tenants that follow Bach - anxious and seems...
+        </description>
+        <pubDate>Thu, 24 Nov 2016 00:00:00 -0500</pubDate>
+        <link>http://jonathantsang.github.io/2016-11-24-music100_17/</link>
+        <guid isPermaLink="true">http://jonathantsang.github.io/2016-11-24-music100_17/</guid>
+      </item>
+    
+      <item>
+        <title>Lesson 16</title>
+        <description>
+          
+          final is similar to the midterm - generally know time period, not memorize Bach’s birthday Section 1 consists of 10 brief recorded examples. Each example will be played four times. You will be asked to answer four questions about each example. The examples are from the Naxos Music 100 playlist...
+        </description>
+        <pubDate>Tue, 22 Nov 2016 00:00:00 -0500</pubDate>
+        <link>http://jonathantsang.github.io/2016-11-22-music100_16/</link>
+        <guid isPermaLink="true">http://jonathantsang.github.io/2016-11-22-music100_16/</guid>
+      </item>
+    
+      <item>
+        <title>Tutorial 10</title>
+        <description>
+          
+          
+  Dynamic Memory
+realloc
+doubling strategy
+  Abstract Data Types (ADTs)
+  Intro to Linked Lists
+
+
+associative array
+```
+
+```
+freq
+
+reverse linked list
+(data structure)
+
+        </description>
+        <pubDate>Mon, 21 Nov 2016 00:00:00 -0500</pubDate>
+        <link>http://jonathantsang.github.io/2016-11-21-cs136_10/</link>
+        <guid isPermaLink="true">http://jonathantsang.github.io/2016-11-21-cs136_10/</guid>
+      </item>
+    
+      <item>
+        <title>Lesson 15</title>
+        <description>
+          
+          Final Exam has multiple choice and long answer
+- can be cumulative
+- out of ten marks
+
+Post-Romanticism
+
+Wagner
+
+Mahler
+
+Richard Strauss (1864 - 1949)
+
+impossible to talk about 20th century music under one label
+
+Impressionism
+Debussy and Ravel
+
+        </description>
+        <pubDate>Thu, 17 Nov 2016 00:00:00 -0500</pubDate>
+        <link>http://jonathantsang.github.io/2016-11-17-music100_15/</link>
+        <guid isPermaLink="true">http://jonathantsang.github.io/2016-11-17-music100_15/</guid>
+      </item>
+    
+      <item>
+        <title>Lesson 15</title>
+        <description>
+          
+          Romantic (non-opera) music continued
+
+song
+
+Schumann
+
+Tchaikovsky
+
+        </description>
+        <pubDate>Tue, 15 Nov 2016 00:00:00 -0500</pubDate>
+        <link>http://jonathantsang.github.io/2016-11-15-music100_14/</link>
+        <guid isPermaLink="true">http://jonathantsang.github.io/2016-11-15-music100_14/</guid>
+      </item>
+    
+      <item>
+        <title>Tutorial 9</title>
+        <description>
+          
+          Efficiency and Dynamic Memory
+```
+
+```
+
+        </description>
+        <pubDate>Mon, 14 Nov 2016 00:00:00 -0500</pubDate>
+        <link>http://jonathantsang.github.io/2016-11-14-cs136_9/</link>
+        <guid isPermaLink="true">http://jonathantsang.github.io/2016-11-14-cs136_9/</guid>
+      </item>
+    
+      <item>
+        <title>Lesson 14</title>
+        <description>
+          
+          Orchestra:
+- December 1st 8:00pm Hagey Hall, Classical Concert
+
+Opera
+
+Wagner (1813-1883)
+- German Nationalist
+
+Flight of the Valkyries
+
+        </description>
+        <pubDate>Thu, 10 Nov 2016 00:00:00 -0500</pubDate>
+        <link>http://jonathantsang.github.io/2016-11-10-music100_14/</link>
+        <guid isPermaLink="true">http://jonathantsang.github.io/2016-11-10-music100_14/</guid>
+      </item>
+    
+      <item>
+        <title>Lesson 13</title>
+        <description>
+          
+          Programmatic Piece
+
+Opera
+- romantic Era
+
+Madame Butterfly
+
+        </description>
+        <pubDate>Tue, 08 Nov 2016 00:00:00 -0500</pubDate>
+        <link>http://jonathantsang.github.io/2016-11-08-music100_13/</link>
+        <guid isPermaLink="true">http://jonathantsang.github.io/2016-11-08-music100_13/</guid>
+      </item>
+    
+      <item>
+        <title>Tutorial 8</title>
+        <description>
+          
+          scan in words from i/o ``` int main(void){ int num_words = 0; // state == 0 if we’re looking for a new word // state == 1 if we’re currently reading through a word int state = 0; char input; int result = scanf(“%c”, &amp;amp;input); while (result == 1){ if...
+        </description>
+        <pubDate>Mon, 07 Nov 2016 00:00:00 -0500</pubDate>
+        <link>http://jonathantsang.github.io/2016-11-07-cs136_8/</link>
+        <guid isPermaLink="true">http://jonathantsang.github.io/2016-11-07-cs136_8/</guid>
+      </item>
+    
+      <item>
+        <title>Lesson 12</title>
+        <description>
+          
+          Romantic Era
+- emotion, intuition, subjective, spontaneous, personal
+
+        </description>
+        <pubDate>Thu, 03 Nov 2016 00:00:00 -0400</pubDate>
+        <link>http://jonathantsang.github.io/2016-11-03-music100_12/</link>
+        <guid isPermaLink="true">http://jonathantsang.github.io/2016-11-03-music100_12/</guid>
+      </item>
+    
+      <item>
+        <title>Up to Chapter 5 Notes</title>
+        <description>
+          
+          Chapter 5 (Punctuation)
+
+  period after most sentences
+
+
+Indirect question: someone asked but not in the exact form of the original question. (ex. “The judge asked why I had been driving with my lights off.”)
+
+        </description>
+        <pubDate>Mon, 31 Oct 2016 00:00:00 -0400</pubDate>
+        <link>http://jonathantsang.github.io/2016-10-31-engl109_2/</link>
+        <guid isPermaLink="true">http://jonathantsang.github.io/2016-10-31-engl109_2/</guid>
+      </item>
+    
+      <item>
+        <title>Midterm Notes</title>
+        <description>
+          
+          CS 136 Midterm Notes module: provides a collection of functions that share a common aspect or purpose. modularization: sharing among a team is easier can use helper function that help other functions good style to store each module in a separate file (if it breaks, fix module, not whole program)...
+        </description>
+        <pubDate>Sat, 29 Oct 2016 00:00:00 -0400</pubDate>
+        <link>http://jonathantsang.github.io/2016-10-29-cs136_5/</link>
+        <guid isPermaLink="true">http://jonathantsang.github.io/2016-10-29-cs136_5/</guid>
+      </item>
+    
+      <item>
+        <title>Midterm Notes</title>
+        <description>
+          
+          modulation: changing from one key to another libretto: A libretto is the text used in, or intended for, an extended musical work such as an opera, operetta, masque, oratorio, cantata or musical. chorus: chorus contains the main idea, or big picture, of what is being expressed lyrically and musically. Theme...
+        </description>
+        <pubDate>Sat, 22 Oct 2016 00:00:00 -0400</pubDate>
+        <link>http://jonathantsang.github.io/2016-10-22-music100_11/</link>
+        <guid isPermaLink="true">http://jonathantsang.github.io/2016-10-22-music100_11/</guid>
+      </item>
+    
+      <item>
+        <title>Lesson 10</title>
+        <description>
+          
+          Classical Period (1750-1800(25?))
+old fashioned, stood test of time, best/highest example of a type, Ancient Greek/Roman Civilization
+
+Read Chapter 7
+
+The Enlightenment: late 18th - early 19th century (age of Reason)
+
+        </description>
+        <pubDate>Thu, 20 Oct 2016 00:00:00 -0400</pubDate>
+        <link>http://jonathantsang.github.io/2016-10-20-music100_10/</link>
+        <guid isPermaLink="true">http://jonathantsang.github.io/2016-10-20-music100_10/</guid>
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Set Equality and Quantifiers</title>
+
+  <meta name="author" content="Jonathan Tsang" />
+
+  
+
+  <link rel="alternate" type="application/rss+xml" title="Jonathan Tsang - A journey through Waterloo" href="/feed.xml" />
+
+ <!-- everything has to be repeated twice because on 2016-02-01 GitHub pages migrated to jekyll 3; see bug https://github.com/jekyll/jekyll/issues/4439 -->
+
+  
+    
+      <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
+    
+  
+  
+
+  
+    
+      <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/css/main.css" />
+    
+  
+  
+
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  <!-- Facebook OpenGraph tags -->
+  <meta property="og:title" content="Set Equality and Quantifiers" />
+  <meta property="og:type" content="website" />
+
+  
+  <meta property="og:url" content="http://jonathantsang.github.io/2016-05-13-math135_8//" />
+  
+
+  
+  <meta property="og:image" content="" />
+  
+
+</head>
+
+
+  <body>
+
+    <!-- "navbar-custom" in nav below this to have expanding navbar like it originally had-->
+<nav class="navbar navbar-default navbar-fixed-top navbar-custom no-transition">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://jonathantsang.github.io">Jonathan Tsang</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/aboutme">About Me</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/resume">Resume</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/projects">Projects</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/notes">Notes</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/my-story">My Story</a>
+
+          </li>
+        
+        
+        
+          <li class="navlinks-container">
+            <a class="navlinks-parent" href="javascript:void(0)">Hackthons</a>
+            <div class="navlinks-children">
+              
+                
+                  
+            
+
+
+
+
+  
+
+
+<a href="/mhacks8">MHacks8</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+  
+
+
+<a href="/th5">TerribleHacks5</a>
+
+                
+              
+            </div>
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/hobbies">Hobbies</a>
+
+          </li>
+        
+        
+      </ul>
+    </div>
+
+<!--
+	
+-->
+
+  </div>
+</nav>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">Brand</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">One more separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+
+
+    <!--
+<div class="intro-header"></div>
+-->
+<html>
+<div role="main" class="container">
+  <h2 id="if-and-only-if">If and Only If</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>A</th>
+      <th>B</th>
+      <th>A <script type="math/tex">\leftrightarrow</script> B</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>T</td>
+      <td>T</td>
+      <td>T</td>
+    </tr>
+    <tr>
+      <td>T</td>
+      <td>F</td>
+      <td>F</td>
+    </tr>
+    <tr>
+      <td>F</td>
+      <td>T</td>
+      <td>F</td>
+    </tr>
+    <tr>
+      <td>F</td>
+      <td>F</td>
+      <td>T</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>When A = B, A <script type="math/tex">\leftrightarrow</script> B is True.</p>
+
+<h2 id="proof">Proof</h2>
+
+<p>If S = T, then S ∪ T and S ∩ T  </p>
+
+<p><strong>(“<script type="math/tex">\rightarrow</script>”)</strong></p>
+
+<p>Assume S = T<br />
+Let x ∈ S ∩ T, then (x ∈ S) ∧ (x ∈ T)  <br />
+Hence (x ∈ S) ∧ (x ∈ T)<br />
+Therefore (x ∈ S) v (x ∈ T)  </p>
+
+<p>Therefore x ∈ S ∪ T, so S ∩ T ⊆ S ∪ T<br />
+On the other hand, let y ∈ S ∪ T<br />
+Then (y ∈ S) v (y ∈ T)  </p>
+
+<p>At least one of y ∈ S or y ∈ T is a true statement.
+Without loss of generality (WLOG), assume y ∈ S<br />
+From assumption S = T, so when y ∈ S, then y ∈ T <br />
+Thus  S ∪ T ⊆ S ∩ T  </p>
+
+<p><strong>(“<script type="math/tex">\leftarrow</script>”)</strong>  </p>
+
+<p>S ∪ T = S ∩ T then S = T<br />
+Assume S ∪ T = S ∩ T<br />
+let (x ∈ S) then (x ∈ S) v (x ∈ T)<br />
+Thus x ∈ S ∪ T.<br />
+Since S ∪ T = S ∩ T, x ∈ S ∩ T<br />
+Hence (x ∈ S) ∧ (x ∈ T)<br />
+Thus x ∈ T. Therefore S ⊆ T<br />
+Similarly, T ⊆ S<br />
+Therefore S = T</p>
+
+<h2 id="quantifiers">Quantifiers</h2>
+
+<p>quantifier, variable, domain, open sentence</p>
+
+<p>For all x ∈ <script type="math/tex">\mathbb{R}</script>, <script type="math/tex">x^2</script> + 1 <script type="math/tex">\ge</script> 2x</p>
+
+<p><strong>Universal Quantifer:</strong> “For all”<br />
+<strong>Variable:</strong> x<br />
+<strong>Domain:</strong> “<script type="math/tex">\mathbb{R}</script>”  <br />
+<strong>Open Sentence:</strong> <script type="math/tex">x^2</script> + 1 <script type="math/tex">\ge</script> 2x  </p>
+
+<p><strong>For every natural number n, 2<script type="math/tex">n^2</script> + 11n + 15 is composite</strong><br />
+<strong>Proof:</strong><br />
+Let n ∈ <script type="math/tex">\mathbb{N}</script><br />
+2<script type="math/tex">n^2</script> + 11n + 15 = (2n + 5)(n + 3)  <br />
+Since n <script type="math/tex">\ge</script> 1, 2n + 5 <script type="math/tex">\ge</script> 2 and (n + 3) <script type="math/tex">\ge</script> 2  <br />
+Also: n ∤ 3 <script type="math/tex">\ne</script> (2<script type="math/tex">n^2</script> + 11n + 15) as 2n + 5 <script type="math/tex">\ne</script> 1  <br />
+as 2n + 5 ∈ <script type="math/tex">\mathbb{Z}</script>, (n + 3) | (2<script type="math/tex">n^2</script> + 11n + 15)  <br />
+So 2<script type="math/tex">n^2</script> + 11n + 15 is composite    </p>
+
+<p><strong><script type="math/tex">\forall</script> x ∈ <script type="math/tex">\mathbb{Z}</script>, a | (bx + c)</strong><br />
+<strong>Proof:</strong>  </p>
+
+<p>Pick x = 1<br />
+a | (b(1) + c)<br />
+a | b + c  </p>
+
+<p><strong>In this case we use the substitution method</strong>  </p>
+
+<h2 id="the-select-method">The Select Method</h2>
+<p><strong>Used to Prove <script type="math/tex">\forall</script> x ∈ S, P(x):</strong>  </p>
+
+<p>Select a representative mathematical object x ∈ S. This cannot be a specific object. It has to be a placeholder, (a variable) that the argument would work for any specific member of S.  </p>
+
+<p>Then show that the open sentence P would work for any representative x.  </p>
+
+<p><strong>For each x ∈ <script type="math/tex">\mathbb{R}</script>, x &lt; x + 1</strong> <br />
+<strong>Proof:</strong><br />
+Let x be a real number.<br />
+Therefore (x + 1) - (x) = 1  <br />
+Since (x + 1) - (x) &gt; 0<br />
+x &lt; x + 1 is true<br />
+Thus, by <strong>select method</strong>, x ∈ <script type="math/tex">\mathbb{R}</script>, x &lt; x + 1 is a true statement  </p>
+
+<p><strong>For every natural number n, n <script type="math/tex">\le</script> <script type="math/tex">n^2</script></strong><br />
+<strong>Proof:</strong><br />
+Let P(x): x <script type="math/tex">\le</script> <script type="math/tex">n^2</script>. We know that the set of natural numbers is given by  </p>
+
+<p><script type="math/tex">\mathbb{N}</script> = {1, 2, 3, 4, 5, …}  </p>
+
+<p>Let n ∈ <script type="math/tex">\mathbb{N}</script>.<br />
+Since n is a natural number, n <script type="math/tex">\ge</script> 1
+Multiply both sides of the inequality by n (note: n is positive) to generality</p>
+
+<p>n * n <script type="math/tex">\ge</script> n * 1<br />
+<script type="math/tex">n^2</script> <script type="math/tex">\ge</script> n</p>
+
+<p>Thus, P(n) is true.
+Therefore, by the select method, <script type="math/tex">\forall</script> n ∈ <script type="math/tex">\mathbb{N}</script>, P(n) is a true statement.</p>
+
+<h2 id="existential-quantifier">Existential Quantifier</h2>
+
+<p><script type="math/tex">\exists</script>  x ∈ S, P(x)  </p>
+
+<p>Also means:  </p>
+
+<ol>
+  <li>There is an x ∈ S such that P(x) is true  </li>
+  <li>P(x) is true for some x ∈ S  </li>
+  <li>At least one x ∈ S satisfies P(x)  </li>
+  <li>S has an element x such that P(x) is satisfied  </li>
+</ol>
+
+<h2 id="the-construct-method">The Construct Method</h2>
+
+<p><strong>Used to prove <script type="math/tex">\exists</script> x ∈ S, P(x)</strong>  </p>
+
+<p><strong><script type="math/tex">\exists</script> x ∈ {1,2,3,4}, such that x is even</strong>  </p>
+
+<p><strong>Proof:</strong><br />
+Consider x = 2. Since 2 is an element of the given domain, and 2 is even, therefore the above statement is true.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Quantified statement</th>
+      <th>When True?</th>
+      <th>When False</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><script type="math/tex">\forall</script> x ∈ S, P(x)</td>
+      <td>P(x) is true for every element in S</td>
+      <td>P(x) is false for at least one element in S</td>
+    </tr>
+    <tr>
+      <td><script type="math/tex">\exists</script> x ∈ S, P(x)</td>
+      <td>P(x) is true for at least one element in S</td>
+      <td>P(x) is false for every element in S</td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="assuming-a-quantified-statement-is-true">Assuming a Quantified Statement is True</h1>
+
+<h2 id="the-substitution-method">The Substitution Method</h2>
+
+<p><strong>Used to prove <script type="math/tex">\forall</script> x ∈ S, P(x)</strong></p>
+
+<p>Substitute an appropriate value of x from S into the open sentence P, and use the fact that P(x) must be true to arrive at the desired conclusion.</p>
+
+<p><strong>If <script type="math/tex">\forall</script> x ∈ <script type="math/tex">\mathbb{N}</script>, n | x then n = 1</strong>  </p>
+
+<p>The trick here is to use an appropriate value of x from <script type="math/tex">\mathbb{N}</script> that helps give the conclusion of n = 1.<br />
+<strong>Proof:</strong><br />
+Assume <script type="math/tex">\forall</script> x ∈ <script type="math/tex">\mathbb{N}</script>, n | x.<br />
+Since x ∈ <script type="math/tex">\mathbb{N}</script>, consider x = 1. By our own assumption n | 1.<br />
+We know that the only positive divisor of 1 is 1 itself. Therefore n = 1.  </p>
+
+<h2 id="the-object-method">The Object Method</h2>
+
+<p><strong>Used to prove <script type="math/tex">\exists</script> x ∈ S, P(x), it true</strong>  </p>
+
+<p>Use a symbol such as s to denote an element of S for which P(x) is true. Since we do not know exactly which element of S satisfies P, we cannot assign a specific value to x. Instead we use x as a variable.</p>
+
+<p><strong>Let n be an integer. Prove the following statement about n:</strong><br />
+If n is of the form 4l + 1 for some positive integer l, then 8 | (<script type="math/tex">n^2</script> -1)  </p>
+
+<p><script type="math/tex">\exists</script> l ∈ <script type="math/tex">\mathbb{Z}</script>, such that n = 4l + 1  </p>
+
+<p>Our goal is to prove 8 | (<script type="math/tex">n^2</script> - 1),<br />
+which is equivalent to proving that k ∈ <script type="math/tex">\mathbb{Z}</script>, 8k = (<script type="math/tex">n^2</script> - 1)  </p>
+
+<p><strong>Proof:</strong>
+Assume, by the <strong>object method</strong>, that we can write n = 4l + 1 for some integer l.<br />
+let k = <script type="math/tex">2l^2</script> + l. Since l is an integer, therefore k must be also an integer.<br />
+In that case, <script type="math/tex">n^2</script> - 1 = <script type="math/tex">(4l + 1)^2</script> - 1 = <script type="math/tex">16l^2</script> + 8l + 1 - 1<br />
+<script type="math/tex">16l^2</script> + 8l = 8(<script type="math/tex">2l^2</script> + l) = 8k  </p>
+
+<p>Thus according to the <strong>construct method</strong>, we have shown that k ∈ <script type="math/tex">\mathbb{Z}</script>, 8k = (<script type="math/tex">n^2</script> - 1)<br />
+Therefore 8 | (<script type="math/tex">n^2</script> -1)</p>
+
+</div>
+</html>
+
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+          
+          <li>
+            <a href="https://github.com/jonathantsang" title="GitHub">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+		  
+		  
+          <li>
+            <a href="mailto:j26tsang@gmail.com" title="Email me">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+		  
+		  
+		  
+        </ul>
+        <p class="copyright text-muted">
+		  This site is updated by Jonathan Tsang
+		  &nbsp;&bull;&nbsp;
+		  2017
+
+		  
+		  &nbsp;&bull;&nbsp;
+		  <a href="http://jonathantsang.github.io">jonathantsang.github.io</a>
+		  
+	    </p>
+	        <!-- Please don't remove this, keep my open source work credited :) -->
+		<p class="theme-by text-muted">
+		  <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
+		</p>
+      </div>
+    </div>
+  </div>
+
+
+    <!-- everything has to be repeated twice because on 2016-02-01 GitHub pages migrated to jekyll 3; see bug https://github.com/jekyll/jekyll/issues/4439 -->
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+      	  document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/main.js"></script>
+    
+  
+
+
+
+
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-84758502-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+  </body>
+</html>

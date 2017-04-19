@@ -1,0 +1,521 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Facebook Cracking the Coding Interview</title>
+
+  <meta name="author" content="Jonathan Tsang" />
+
+  
+
+  <link rel="alternate" type="application/rss+xml" title="Jonathan Tsang - A journey through Waterloo" href="/feed.xml" />
+
+ <!-- everything has to be repeated twice because on 2016-02-01 GitHub pages migrated to jekyll 3; see bug https://github.com/jekyll/jekyll/issues/4439 -->
+
+  
+    
+      <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
+    
+  
+  
+
+  
+    
+      <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/css/main.css" />
+    
+  
+  
+
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  <!-- Facebook OpenGraph tags -->
+  <meta property="og:title" content="Facebook Cracking the Coding Interview" />
+  <meta property="og:type" content="website" />
+
+  
+  <meta property="og:url" content="http://jonathantsang.github.io/2016-09-14-other_1//" />
+  
+
+  
+  <meta property="og:image" content="" />
+  
+
+</head>
+
+
+  <body>
+
+    <!-- "navbar-custom" in nav below this to have expanding navbar like it originally had-->
+<nav class="navbar navbar-default navbar-fixed-top navbar-custom no-transition">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://jonathantsang.github.io">Jonathan Tsang</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/aboutme">About Me</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/resume">Resume</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/projects">Projects</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/notes">Notes</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/my-story">My Story</a>
+
+          </li>
+        
+        
+        
+          <li class="navlinks-container">
+            <a class="navlinks-parent" href="javascript:void(0)">Hackthons</a>
+            <div class="navlinks-children">
+              
+                
+                  
+            
+
+
+
+
+  
+
+
+<a href="/mhacks8">MHacks8</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+  
+
+
+<a href="/th5">TerribleHacks5</a>
+
+                
+              
+            </div>
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/hobbies">Hobbies</a>
+
+          </li>
+        
+        
+      </ul>
+    </div>
+
+<!--
+	
+-->
+
+  </div>
+</nav>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">Brand</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">One more separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+
+
+    <!--
+<div class="intro-header"></div>
+-->
+<html>
+<div role="main" class="container">
+  <p>what to expect:<br />
+- welcome: hello, small talk<br />
+- you will write on walls (if you can only write in the IDE, then you might not know the code as well)  </p>
+
+<p>How to crack the interview: Part #1:
+1. Listen (are there clues?)<br />
+2. Don’t panic!<br />
+3. Ask clarification questions (do you understand the problem, what is the expected output)<br />
+4. Draw a picture and a sample input (pictures and diagrams can help visualize the problem)<br />
+5. Define the scope (are there memory concerns, can I assume ASCII, is input well formed)<br />
+6. Can I calculate a couple of expected results  </p>
+
+<p>Selecting a Strategy #2:<br />
+1. Can you see an optimal solution (if you see it before, be honest)<br />
+2. Can you see any solution? (your aim is to get something working, you can optimize it later)<br />
+3. If you really can’t see a solution (what tools can you apply from your bag of tricks, apply all computer science tools) -&gt; hash table, linked list, tree, attack with recursion<br />
+- pseudo/flowchart  </p>
+
+<p>Writing Code: Part #3:<br />
+1. Tell me what you are going to do (tell the language you are going to code it in)<br />
+2. Start to write code<br />
+tip 1: start near the top of the walls<br />
+tip 2: use sensible variable names<br />
+tip 3: it’s okay to use helper functions<br />
+tip 4: it’s hard to copy-paste on a white board<br />
+tip 5: if you start off neat, you will probably stay neat, if it starts messy, it will probably be messy<br />
+3. Test it, test it, test it!<br />
+- walk through a quick sanity check  <br />
+- just fix mistakes    </p>
+
+<p>Now REALLY test it #3:<br />
+1. Run through your hand calculated example/diagram still on the board<br />
+2. Think like a tester/hacker, and test again (select nasty test cases, Null/Empty, negative, stuck/looped forever)  <br />
+3. Tell me when you think you’re done (if I say “Are you sure that’s right?”, it’s probably not)  <br />
+4. Be prepared to answer questions on the code<br />
+5. Know about time complexity, and space complexity (Is it O(n^2), O(nlogn), O(n))  </p>
+
+<p>Optimization #4:
+1. Can your current solution be optimized(“Are you sure that is optimal”, it probably isn’t)<br />
+2. Is there a totally different algorithm that might work better (possible ways to solve the problem in a different way, talk through pros/cons, I may ask you to implement a more optimal strategy)  </p>
+
+<p>Questions to consider:
+- can we modify the data in place<br />
+- does order need to be preserved<br />
+- Is it case sensitive? ASCII?<br />
+- is input well formed?<br />
+- if there are multiple solutions, are we looking for one solution, all solutions? If one, the largest? Smallest?  </p>
+
+<p>Are there any clues in the question?<br />
+- keywords  </p>
+
+<p>“Array of numbers”<br />
+“Array of integers”<br />
+“Array of unsigned 8-bit integers”  <br />
+“Array of sorted integers”<br />
+“Array of sorted, positive, integers”<br />
+“Array of unsorted array of integer, some positive, some negative”<br />
+“Array of distinct integers”<br />
+“Array of sorted,distinct integers”  </p>
+
+<h2 id="examples">Examples</h2>
+
+<h3 id="example-1-magic-array">Example #1 Magic array</h3>
+<p>M[i] == i</p>
+
+<p>Given an array of sorted distinct integers, find out if there is a magic number</p>
+
+<p>Naiive solution:
+brute force,</p>
+
+<p>better == binary search</p>
+
+<h3 id="example-3-sum-of-digits">Example #3 Sum of Digits</h3>
+
+<p>Naiive solution:
+helper function</p>
+
+<h3 id="write-a-function-to-return-the-large-of-two-numbers">Write a function to return the large of two numbers</h3>
+
+<p>bail based on sigfigs
+what should you return if both are equal</p>
+
+<h3 id="possible-follow-up-questions">Possible Follow up Questions</h3>
+
+<p>add two long string numbers together</p>
+
+<h3 id="example-4-max-product-triplet">Example #4 Max Product Triplet</h3>
+
+<p>Naiive Solution:
+brute force O(n^3)</p>
+
+<p>Better:
+- sort first
+- return the last three elements, or first two and last element</p>
+
+<p>Best idea:
+- only pass through array once
+- find thrid best</p>
+
+<h3 id="example-5-two-sum-problem">Example #5 Two Sum Problem</h3>
+
+<p>Naiive solution - O(n^2)</p>
+
+<p>Better:
+- sort into ascending order
+- O(nLogn)</p>
+
+<h3 id="example-6-hash-version">Example #6 Hash Version</h3>
+
+<ul>
+  <li>(6,6) is not a pair (they are the same)</li>
+  <li>overflow in massive negative numbers</li>
+</ul>
+
+<h3 id="example-7-count-number-of-negative-elements">Example #7 Count number of negative elements</h3>
+
+<p>Naiive soltion:
+O(n * m)</p>
+
+<p>better:
+- know numbers to the left are negative, once you reach one, go downwards</p>
+
+<p>practice, practice, practice
+cracking the coding interview</p>
+
+<p>what we’re looking for:
+- you can understand the problem<br />
+- suggest a good algorithm and solve it<br />
+- convert into clean, efficient, bug-free, code<br />
+- understand the time/space complexity of the solution<br />
+- describe/communicate the algorithm<br />
+- optimize your current solution<br />
+- know limitations of the solution  </p>
+
+</div>
+</html>
+
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+          
+          <li>
+            <a href="https://github.com/jonathantsang" title="GitHub">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+		  
+		  
+          <li>
+            <a href="mailto:j26tsang@gmail.com" title="Email me">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+		  
+		  
+		  
+        </ul>
+        <p class="copyright text-muted">
+		  This site is updated by Jonathan Tsang
+		  &nbsp;&bull;&nbsp;
+		  2017
+
+		  
+		  &nbsp;&bull;&nbsp;
+		  <a href="http://jonathantsang.github.io">jonathantsang.github.io</a>
+		  
+	    </p>
+	        <!-- Please don't remove this, keep my open source work credited :) -->
+		<p class="theme-by text-muted">
+		  <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
+		</p>
+      </div>
+    </div>
+  </div>
+
+
+    <!-- everything has to be repeated twice because on 2016-02-01 GitHub pages migrated to jekyll 3; see bug https://github.com/jekyll/jekyll/issues/4439 -->
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+      	  document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/main.js"></script>
+    
+  
+
+
+
+
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-84758502-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+  </body>
+</html>

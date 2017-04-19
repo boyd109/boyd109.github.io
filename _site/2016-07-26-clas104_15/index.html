@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Module 19</title>
+
+  <meta name="author" content="Jonathan Tsang" />
+
+  
+
+  <link rel="alternate" type="application/rss+xml" title="Jonathan Tsang - A journey through Waterloo" href="/feed.xml" />
+
+ <!-- everything has to be repeated twice because on 2016-02-01 GitHub pages migrated to jekyll 3; see bug https://github.com/jekyll/jekyll/issues/4439 -->
+
+  
+    
+      <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
+    
+  
+  
+
+  
+    
+      <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/css/main.css" />
+    
+  
+  
+
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  <!-- Facebook OpenGraph tags -->
+  <meta property="og:title" content="Module 19" />
+  <meta property="og:type" content="website" />
+
+  
+  <meta property="og:url" content="http://jonathantsang.github.io/2016-07-26-clas104_15//" />
+  
+
+  
+  <meta property="og:image" content="" />
+  
+
+</head>
+
+
+  <body>
+
+    <!-- "navbar-custom" in nav below this to have expanding navbar like it originally had-->
+<nav class="navbar navbar-default navbar-fixed-top navbar-custom no-transition">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://jonathantsang.github.io">Jonathan Tsang</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/aboutme">About Me</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/resume">Resume</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/projects">Projects</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/notes">Notes</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/my-story">My Story</a>
+
+          </li>
+        
+        
+        
+          <li class="navlinks-container">
+            <a class="navlinks-parent" href="javascript:void(0)">Hackthons</a>
+            <div class="navlinks-children">
+              
+                
+                  
+            
+
+
+
+
+  
+
+
+<a href="/mhacks8">MHacks8</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+  
+
+
+<a href="/th5">TerribleHacks5</a>
+
+                
+              
+            </div>
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/hobbies">Hobbies</a>
+
+          </li>
+        
+        
+      </ul>
+    </div>
+
+<!--
+	
+-->
+
+  </div>
+</nav>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">Brand</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">One more separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+
+
+    <!--
+<div class="intro-header"></div>
+-->
+<html>
+<div role="main" class="container">
+  <p>Final Exam Notes from Module 13 - 22</p>
+
+<h2 id="module-19">Module 19</h2>
+
+<h2 id="theseus-and-his-labours">Theseus and his Labours</h2>
+<ul>
+  <li>Theseus’ mother is daughter of king Pittehus of Troezen</li>
+  <li>Theseus is son of Poseidon and semi-divine</li>
+  <li>alternate, son of Aegeus, king of Athens and descendant of the foudners</li>
+  <li>Aegeus sleeps with Aethra in Troezen and tells her that the child must grow up not knowing who his father war</li>
+  <li>if he is a boy she should be sent to Athens to life up a heavy rock under which Aegeus leaves a sword and pair of sandals as recognition tokens (recognition tokes are common in Greek and Roman myths)</li>
+  <li>he must complete six tasks</li>
+  <li>at Epidaurus, he kills Periphetes, son of Hephaestus, who is armed with a club</li>
+  <li>in Corinth, he kills the robber Sinis, who kills people by bending trees to the ground, tying victims to both trees and letting them go</li>
+  <li>near Crommyon he kills a great sow (female pig)</li>
+  <li>at Sciron, he kills Sciron who would make all who pass wash his feet, and he would kick them over the cliff to be eaten by a large man-eating turtle, he throws him to the turtle</li>
+  <li>at Elseusis he kills Cercyon in Wrestling by lifting him in the air and throwing him to the earth</li>
+  <li>between Eleusis and Athens he kills Procrustes who made travellers lie on a bed, if they were too long he would cut them with a saw and if they were too short he hammered them to stretch them, Theseus kills him with a saw and hammer</li>
+  <li>Theseus killing of Minotaur, centre of vase</li>
+</ul>
+
+<h2 id="theseus-arrival-in-athens-and-the-minotaur">Theseus’ Arrival in Athens and the Minotaur</h2>
+<ul>
+  <li>Theseus arrives in Athens he is not immediately recognized by his father</li>
+  <li>Aegeus is now married to Medea</li>
+  <li>Medea fled to Athens after she killed her children</li>
+  <li>Medea recognizes Theseus as Aegeus’ son but fears he will rivan her own son Medus for the kingship of Athens</li>
+  <li>she tells Aegeus to invite Theseus and give him poisoned wine</li>
+  <li>Theseus carves the meat with the sword under the rock in Troezan and Aegeus recognizes him at the last second and knocks the cup from his hand</li>
+  <li>
+    <p>Theseus becomes his successor and helps defend against uncle Pallas who is vying for the throne</p>
+  </li>
+  <li>most famous labour is killing the minotaur</li>
+  <li>brought bull of Marathon to Athens</li>
+  <li>Heracles and Theseus connection</li>
+  <li>Theseus must kill the minotraur because Minos the king of Crete attacked Athens after his son was killed out of jealousy by the Athenians when he was victorious at the Panathenaic athletic games</li>
+  <li>Athens surrendered and would send 7 young men and girls to be food for the minotaur</li>
+  <li>Minos was the son of Zeus and Europa</li>
+  <li>taurous means bull in Greek, Minotaur born from Minos and Pasiphae</li>
+  <li>Minos prayed to Poseidon to send a special bull to indicate support for his rule in Crete, but does not sacrifice the bull as he should</li>
+  <li>Poseidon makes his wife fall in love with a bull and give birth to a human-bull hybird</li>
+  <li>Minotaur is kept in Crete in a labyrinth</li>
+  <li>to protect the Athenians, Theseus volunteers to go in to kill the Minotaur</li>
+  <li>Minos’ daughter Ariadne falls in love with him, Ariadne gives him a thread to trace way out or a wreath to light the way</li>
+  <li>Theseus would not be able to do this without the help of Ariadne</li>
+  <li>he abandons Ariadne on the island of Naxos, where Dionysus becomes her lover</li>
+  <li>Theseus becomes king, as his father dies tragically</li>
+  <li>Theseus promised if he were victorious he would change the sail of his ship from black to white, but forgets and Aegeus throws himself off a cliff thinking he is dead into the sea in despair</li>
+  <li>etiology of Aegean sea</li>
+  <li>Theseus is a hero and saviour with mistakes and moral reproach, similar to Heracles</li>
+</ul>
+
+</div>
+</html>
+
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+          
+          <li>
+            <a href="https://github.com/jonathantsang" title="GitHub">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+		  
+		  
+          <li>
+            <a href="mailto:j26tsang@gmail.com" title="Email me">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+		  
+		  
+		  
+        </ul>
+        <p class="copyright text-muted">
+		  This site is updated by Jonathan Tsang
+		  &nbsp;&bull;&nbsp;
+		  2017
+
+		  
+		  &nbsp;&bull;&nbsp;
+		  <a href="http://jonathantsang.github.io">jonathantsang.github.io</a>
+		  
+	    </p>
+	        <!-- Please don't remove this, keep my open source work credited :) -->
+		<p class="theme-by text-muted">
+		  <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
+		</p>
+      </div>
+    </div>
+  </div>
+
+
+    <!-- everything has to be repeated twice because on 2016-02-01 GitHub pages migrated to jekyll 3; see bug https://github.com/jekyll/jekyll/issues/4439 -->
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+      	  document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/main.js"></script>
+    
+  
+
+
+
+
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-84758502-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+  </body>
+</html>

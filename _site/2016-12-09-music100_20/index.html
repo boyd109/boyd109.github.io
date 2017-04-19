@@ -1,0 +1,974 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Final Exam Notes</title>
+
+  <meta name="author" content="Jonathan Tsang" />
+
+  
+
+  <link rel="alternate" type="application/rss+xml" title="Jonathan Tsang - A journey through Waterloo" href="/feed.xml" />
+
+ <!-- everything has to be repeated twice because on 2016-02-01 GitHub pages migrated to jekyll 3; see bug https://github.com/jekyll/jekyll/issues/4439 -->
+
+  
+    
+      <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
+    
+  
+  
+
+  
+    
+      <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/css/main.css" />
+    
+  
+  
+
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  <!-- Facebook OpenGraph tags -->
+  <meta property="og:title" content="Final Exam Notes" />
+  <meta property="og:type" content="website" />
+
+  
+  <meta property="og:url" content="http://jonathantsang.github.io/2016-12-09-music100_20//" />
+  
+
+  
+  <meta property="og:image" content="" />
+  
+
+</head>
+
+
+  <body>
+
+    <!-- "navbar-custom" in nav below this to have expanding navbar like it originally had-->
+<nav class="navbar navbar-default navbar-fixed-top navbar-custom no-transition">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://jonathantsang.github.io">Jonathan Tsang</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/aboutme">About Me</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/resume">Resume</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/projects">Projects</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/notes">Notes</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/my-story">My Story</a>
+
+          </li>
+        
+        
+        
+          <li class="navlinks-container">
+            <a class="navlinks-parent" href="javascript:void(0)">Hackthons</a>
+            <div class="navlinks-children">
+              
+                
+                  
+            
+
+
+
+
+  
+
+
+<a href="/mhacks8">MHacks8</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+  
+
+
+<a href="/th5">TerribleHacks5</a>
+
+                
+              
+            </div>
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/hobbies">Hobbies</a>
+
+          </li>
+        
+        
+      </ul>
+    </div>
+
+<!--
+	
+-->
+
+  </div>
+</nav>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">Brand</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">One more separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+
+
+    <!--
+<div class="intro-header"></div>
+-->
+<html>
+<div role="main" class="container">
+  <p>Final Exam Notes</p>
+
+<p>Beethoven:
+- born in 1770, Germany
+- Beethoven’s master was Haydn
+- clashed, Haydn was old-fashioned and Beethoven was rebellious
+- in 1802 revealed he was going deaf</p>
+
+<p>music:
+1. crescendos that seem to carry the music forward
+2. themes that sound exactly right but are played very quietly or very loud
+3. dramatic use of classic structures
+4. sudden key changes that fit powerful harmonic logic</p>
+
+<p>symphony #5
+- dramatic sounds
+- woodwinds and horns echo each other</p>
+
+<p>contribution:
+- longer symphonies that use more instruments than the Classical Period traditionally
+- expanded the orchestra</p>
+
+<h2 id="romantic-period">Romantic Period</h2>
+<ul>
+  <li>
+    <p>post French revolution
+Reason						emotion, intuition
+Objective						subjective
+Formal						spontaneous
+Universal						personal</p>
+  </li>
+  <li>early 19th to beginning of 20th century</li>
+  <li>development of modern industry</li>
+  <li>growth of democratic governments and national pride</li>
+  <li>increased emphasis on individual thoughts and feelings in the creative arts</li>
+  <li>manipulate orchestral sounds, orchestration</li>
+</ul>
+
+<p>Dynamics:
+- Classic music doesn’t go beyond piano and forte, romantic music has a much larger range
+- more frequent changes and less predictable than music in earlier</p>
+
+<p>Tempo:
+- range of tempos increased
+- more expressive descriptions</p>
+
+<p>Melodies:
+- longer melodies
+- highly emotional
+- expression of feeling, either intense and strong, others wistful, dreamy, or deeply sad</p>
+
+<p>Harmony:
+- expressive device
+- modulation (movement among keys) is more frequent
+- chromatic melodies and harmonies became much more frequent
+- key ended in a different key in which they had begun</p>
+
+<p>Form:
+- less structure
+- phrases tend to flow into each other rather than being separate</p>
+
+<p>romantic differences from classical:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>romantic</th>
+      <th>romantic</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>orchestra</td>
+      <td>25-30 players</td>
+      <td>60 or more</td>
+    </tr>
+    <tr>
+      <td>dynamic range</td>
+      <td>piano to forte</td>
+      <td>triple piano to triple forte</td>
+    </tr>
+    <tr>
+      <td>tempo</td>
+      <td>slow or fast</td>
+      <td>greater extremes of tempo, also more changeable</td>
+    </tr>
+    <tr>
+      <td>expression</td>
+      <td>rarely indicated</td>
+      <td>often indicated</td>
+    </tr>
+    <tr>
+      <td>melody</td>
+      <td>short, balanced</td>
+      <td>longer, more variety</td>
+    </tr>
+    <tr>
+      <td>harmony</td>
+      <td>functional, serves to support the melody and the form</td>
+      <td>emotional: serves to express the deepest feelings in music</td>
+    </tr>
+    <tr>
+      <td>form</td>
+      <td>fixed</td>
+      <td>flexible</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>program music: tells some kind of story
+absolute music: no meaning outside the meaning of the music itself</p>
+
+<ul>
+  <li>opera and symphony were the most extensive genres</li>
+  <li>voice was the central component of two Romantic genres song and the Requiem Mass</li>
+  <li>concerto was a favoured orchestral genre</li>
+  <li>chamber music was also popular in the nineteenth century</li>
+</ul>
+
+<p>instruments:
+- favourite instruments were the piano and the violin
+- piano has intimacy and great drama, the violin has a wide range and potential for lyricism
+- cello and the french horn wer able to express rich tenor range
+- special effects, composers turned to the English horn (tenor oboe) for a reedy, evocative sound</p>
+
+<p>romantic era:
+- romantic songs may be either strophic or through-composed
+- strophic songs are those that use the same music for each stanza
+- through-composed songs are songs with music different in each stanza
+- group of songs is called a song cycle</p>
+
+<p>composers:
+- Beethoven- franz schubert
+- hector berlioz
+- felix mendelssohn
+- fryderyk chopin
+- robert schumann
+- clara schumann
+- fanny mendelssohn hensel</p>
+
+<p>virtuosi: talented person in arts
+- schubert is different from beethoven, and met once
+- beethoven was proud assertive, schubert was gentle, relaxed and lyrical</p>
+
+<p>Rachmaninov Piano Concerto #2
+- flows with piano</p>
+
+<p>MUSSORGSKY: Pictures at an Exhibition
+- feeling rushed
+- pictures come alive
+- timpani used like signals
+- careful movement is alluded to</p>
+
+<p>TCHAIKOVSKY: Romeo and Juliet Fantasy Overture:
+- regal beginning
+- goes through the play of romeo and Juliet</p>
+
+<p>An increased interest in program music.</p>
+
+<p>An increased interest in national musics (folk song, dance, etc.). Not a contradiction - composers focussed on individual heritage, not a pan-European style (i.e., Bach, Handel, Vivaldi, Purcell, etc., wrote in essentially the same idiom). Exs. Tchaikovsky: PLAY 1812</p>
+
+<p>Also an increased interest in exoticism: is a genre in which the rhythms, melodies, or instrumentation are designed to evoke the atmosphere of far-off lands or ancient times</p>
+
+<p>RIMSKY-KORSAKOV: Scheherazade
+ The Sea and Sinbad’s Ship
+ - exotic
+ - violin
+ - sullen, but still prideful</p>
+
+<p>DVORaK- New World
+- exotic
+- quieter and has more small sounds</p>
+
+<p>Opera</p>
+
+<p>In Romantic era:</p>
+
+<p>opera (more “real” people and plots, comic “opera buffa” – inversion, lower classes get the upper hand)</p>
+
+<p>Beethoven only wrote one opera - Fidelio</p>
+
+<p>Virtuosity: Opera becomes show business. Star system, individual singers: Caruso, Jenny Lind (the “Swedish Nightingale”), right up to the three tenors (Pavarotti, Domingo, the other guy Carreras), Stratas, Joan Sutherland, Te Kenewa.</p>
+
+<p>“Divas and prima donnas”
+Vocal types: colouratura, mezzo soprano, alto, tenor, baritone, bass
+Stereotypical roles: heroine - soprano, hero - tenor, alto - friend or “wicked stepmother,” baritone, friend or villain, bass - villain
+“Giantism” - huge orchestras, casts of thousands - see “Aida”</p>
+
+<p>“bel canto” style (Italian) = “beautiful singing” Bellini, “Norma,” Donizetti, “Lucia”</p>
+
+<p>PUCCINI: La bohème from Che gelida manina:
+- singing
+- music accompaniment in the back
+- french</p>
+
+<p>PUCCINI: Turandot - Act III Scene 1: Nessun dorma:
+- singing
+- harp in the back</p>
+
+<p>Nationalism - Operas on national themes with national styles (Russian (“Boris”), Italian (Verdi, “Rigoletto”)</p>
+
+<p>Exoticism - Verdi, “Aida,” Puccini, “Madame Butterfly,” “Girl of the Golden West,” Bizet’s “Carmen,”</p>
+
+<p>Puccini, Madame Butterfly:
+- singing
+- female
+- opera of a young japanese girl and the american navy lieutenant that leaves her pregnant</p>
+
+<p>Above all, 19th C. opera is about melody.</p>
+
+<p>Nationalism</p>
+
+<p>Richard Wagner (1813-1883) (Yudkin 178-82)</p>
+
+<p>Operas: Rienzi, Tannhauser, Flying Dutchman, Tristan and Isolde, Parsifal, Die Meistersinger, Lohengrin, “The Ring” - Das Rhinegold, Die Walkure, Siegfried, Gotterdammerung</p>
+
+<p>born in Leipzig (Bach connection)
+virtually self-taught in music, therefore not afraid to try “wrong” approaches.
+pivotal figure (like Beethoven)–&gt; bridge from Romanticism to most of the “isms” of the 20th C. –&gt; “expressionism,” “modernism,” “impressionism,”. . .
+mostly known for operas and writings. . . no symphonies, little chamber music
+has a difficult place in music history.</p>
+
+<p>Comparison with Jean-Luc Goddard
+W was a vicious anti-Semite
+Until quite recently, was not played in Israel.
+Hitler’s favourite composer (though a little unfair since W died long before the rise of National Socialism).
+Hitler’s favourite because of W’s subject matter.
+DISCUSS: can we love the art but despise the artist (ex.: Miles Davis)?</p>
+
+<p>W provided Germany with a mythological past. Germany was created in the 19th C. . . united principalities of Bavaria, Prussia, Saxony and others.
+W took as his subject matter not German history but German/Northern European mythology. Deep well of myth and legend that runs from Scandinavian sagas and mythology through Beowulf and King Arthur. . . exactly the same well that Tolkien drew from in LOTR.
+W’s “Ring” (Rhinegold, Die Walkure, Siegfried, Gotterdamerung) bears many similarities to LOTR - a magic ring of power is forged in secret, mighty warriors, a last battle, the supernatural, a “sword that was broken” that is reforged. . .
+Also to “Sleeping Beauty,” and other north European fairy tales.</p>
+
+<p>W’s operas differ in many ways from the Italian grand opera tradition
+“music drama” - continuous - no set pieces, huge orchestra</p>
+
+<p>Wagner Bridal Chorus” from Lohengrin (Act III):
+- here comes the bride
+- merry and choir singing</p>
+
+<p>pg. 194-195</p>
+
+<p>2) More are familiar with the following: PLAY  (Act III – Vorspiel under “Elgar” as composer) “Ride of the Valkyries” from Die Walkure
+- nationalistic, Wagner</p>
+
+<p>wagner tristan:
+- mysterious</p>
+
+<p>Romantic (non-opera) Music Continued
+Strophic
+Through composed
+song cycles - groups of songs on a related theme</p>
+
+<p>Franz Schubert (bio pp.), songs, 9 symphonies (including 8 - “Unfinished”), ch. music.</p>
+
+<p>PLAY   “Die Forelle” (text: Schubart) - (pp. 157-8)
+- cyclical
+- male singing voice with piano in the back</p>
+
+<p>“Interiority”
+Program music:
+Nationalism/Exoticism</p>
+
+<p>Chopin
+Romantic characteristics: Dreamy, rubato. Titles like “Impromptu,” “Nocturne,”
+PLAY  Chopin, Prelude in E Minor (pp.165)
+- sole piano
+- sadness</p>
+
+<p>Innigkeit – dictionary def. = “poignant intimacy of feeling”
+One of those useful German words for which there is no exact English equivalent.
+(Zeitgeist etc)</p>
+
+<p>Romantic artist as tortured soul (continued) Schumann, Berlioz,Tchaikovsky</p>
+
+<p>PLAY/discuss Robert Schumann (1810-1856),  Dreaming (Traumerei)  (pp. 167)
+- wistful
+- sole piano
+- melancholy</p>
+
+<p>Madness and creativity – possible bipolar disorder?
+Suicide attempt (1854), institutionalized, dead at 46.</p>
+
+<p>PLAY C. Schumann Andante from Piano Trio Op. 17
+- Trio
+- calm and peaceful
+- picks up in a part with a fast moving melody</p>
+
+<p>Absolute Music
+Brahms (1833-97), the 3rd “B”
+4 symphonies, 4 concertos, a lot of piano music, much chamber music, some choral and vocal music.
+we all know at least one piece of Brahms -
+“Wiegenlied” “(Lullaby)”
+a “romantic” personal life (see pp. 185 for complete bio)
+studied w/ Schumann
+Schumann had a nervous collapse - B fell in love w/ Schumann’s wife, Clara (a fine composer and performer in her own right). B was torn by this situation.
+S died but B did not set up housekeeping w/ C.
+Though his personal life was “romantic” his music was controlled in a way that Tchaikovsky’s, for example, was not.</p>
+
+<p>only 4 symphonies. Didn’t write a symphony until after 40. In the shadow of Beethoven (“clomping of giants”)
+PLAY   Brahms, “Symph. #4, mvmt 4. (pp. 187)
+- traditional romantic
+- originality in the pieces with little repetition</p>
+
+<p>Post-Romanticism
+Influence of Wagner</p>
+
+<p>Gustav Mahler (1860-1911)
+conductor/composer
+symphonies, Songs of the Earth
+PLAY  Symphony #2: Urlicht (pp. 193)
+- mysterious middle</p>
+
+<p>Richard Strauss (1864-1949)</p>
+
+<p>Tone Poems: Ein Heldenlieben, Death and Transfiguration, Also Sprach Zarathustra (PLAY ), Til Eulenspiegel, Don Quixote. . .</p>
+
+<p>Operas: Electra, Salome, Der Rosenkavalier</p>
+
+<p>extreme situations, chromatic harmony, precursor to expressionism</p>
+
+<p>The XX Century</p>
+
+<p>New Directions: the 20th Century
+Overview
+65 years: from first powered flight to moon landing.
+Violent 1st half. . . 2 world wars ( 40 &amp; 30 million dead respectively), Russian revolution
+Technology/science explosion
+More “isms” in 20th C than rest of music history combined.</p>
+
+<p>Impressionism
+Two big names: Debussy and Ravel
+In visual art, impressionism was a (mostly French) reaction against “representation,” Monet, Manet, Degas, Renoir
+characterized by “blurriness,” scenes of middle class and urban life (Monet: pg. 201)</p>
+
+<p>Claude Debussy (1862-1918), piano music, orchestra music (but no symphonies). . . never liked the term “impressionism”
+Paris Exposition of 1889</p>
+
+<p>technical questions (demonstrate)</p>
+
+<p>2 important developments: freer harmony and freer rhythm.
+think of the “solid blocks” of functional harmony and form as equivalent to perspective in visual art.
+emancipation of the dissonance - demonstrate, 9th, 11th, 13th chords, whole tone scale</p>
+
+<p>D - art should be “sensuous” - pleasure</p>
+
+<p>Importance of dance: 3 “scandalous” pieces: Prelude the A of an F, Bolero, Rite of Spring</p>
+
+<p>PLAY  “Prelude to the Afternoon of a Faun” (1894)
+discuss opening phrase - the beginning of a new music, chromatic, ambiguous rhythm, sensuous.
+- opening is movie-like
+- opens up slowly</p>
+
+<p>Primitivism, Stravinsky and the Birth of Modern Music
+Igor Stravinsky (1882-1971)
+Russian, student of Rimsky-Korsakov
+3 ballets (note non-absolute music), “Firebird” (1910 ), “Petrushka” (1911), “The Rite of Spring” (1913)</p>
+
+<p>PLAY “Firebird” ( (Kaschei), (conclusion))</p>
+
+<p>PLAY “Petrushka”  – Tableau I “The Shrovetide Fair”</p>
+
+<p>Week 11</p>
+
+<p>WWI was the end of one era and the beginning of another one. OLD world –&gt; European imperial power. NEW world –&gt; World politics.
+WWI also created the conditions that led to most of the “isms” of the 20th C.
+Technology radically altered the conditions of music “consumption” – radio, recording, etc.</p>
+
+<p>Couldn’t make art in the same old way - all post 1900 music can be seen in this light.
+beginning of the “great split” between “art” or “classical” music and the general public.
+Art music became introspective, hermetic, inward looking.
+Babbitt - “Who Cares If You Listen?” article.</p>
+
+<p>Tonality Rejected
+Review Tonality
+Wagner –&gt; extreme chromaticism, “unsettled” music depicting extremes of emotion.</p>
+
+<p>Arnold Schoenberg (1874-1951)
+“Second Viennese School” with students Berg and Webern
+trained in the conventional style of German tradition
+served in WWI though over 40.
+wrote nothing for 8 yrs (1915-23)
+left for the US in 1933 with rise to power of Hitler.
+amateur painter
+was pushing the boundaries of tonality even prior to WWI.</p>
+
+<p>PLAY  “Madonna” from Pierrot Lunaire (1912) pg.208
+atonal (define)
+“sprechstimme” (define - extension of recitative)</p>
+
+<p>atonal and 12-tone music are not the same thing although it is difficult to hear the difference.</p>
+
+<p>atonal music simply avoids any sense of key in an ad hoc, non-systematic way.</p>
+
+<p>Alban Berg (1885-1975)
+atonal expressionist operas: Wozzeck, Lulu (based on the play, “Pandora’s Box” by Wedekind, also made into one of the great silent films. . . without any music by Berg)
+extreme “downers.” Wozzeck is a not-too-bright soldier whose wife is unfaithful to him with his commanding officer. . . Everyone dies (except W’s little son), “the horror”)
+extreme emotional states, murder, lust, corruption</p>
+
+<p>12-tone is a system of composition that replaces the systems and rules of functional harmony.</p>
+
+<p>tone row - chosen to avoid any sense of key
+all the procedures of counterpoint are available: inversion, retrograde, diminution, augmentation, retro-inv., transposition, rotation, etc..</p>
+
+<p>in 12-tone composition, dynamics, orchestration, phrasing, rhythm are all still freely determined by the composer.</p>
+
+<p>PLAY  Schoenberg “Theme and Sixth Variation from Variations for Orchestra, Op.31” (pp.209)
+DEMONSTRATE row.</p>
+
+<p>Serialism</p>
+
+<p>In serial composition, the initial choice of materials (the row) controls all aspects of the composition.</p>
+
+<p>The 2nd Viennese School is the origin of this very important stream in “art” music since 1900 –&gt; Babbitt, Xenakis, etc.,
+all art movements contain the seeds of their own demise.</p>
+
+<p>play Webern Mvt 3 from Five Movements for String Quartet (1909)  (p. 214)
+- random sounding</p>
+
+<p>Tonality Extended</p>
+
+<p>I see three possible reasons for continuing to work in a tonal idiom:</p>
+
+<p>1)	Conservatism
+Many composers simply still think the old way of doing things is the better way and don’t think that tonality is “mined out.”
+Vaughan-Williams, Holst (PLAY Mars  Planets ), Hindemith to some extent.</p>
+
+<p>2)  Populism/Nationalism
+Many composers choose to write accessible music to stay connected with a larger audience:</p>
+
+<p>In the US, Aaron Copland consciously chose to write for a mass audience. Embraced film score writing (won an Oscar). Ballets on American subjects; cowboys, farmers, etc.. Very “American,” democratic idea. . . to write accessible music without compromising artistic integrity.
+PLAY   “Fanfare for the Common Man” (pp.220)
+PLAY  “Hoedown” from Rodeo</p>
+
+<p>3) Compulsion</p>
+
+<p>Artistic repression in Nazi Germany – “decadent,” “Jewish,” “Negroid” (i.e. jazz) music brutally suppressed.
+Schoenberg left Germany for America.</p>
+
+<p>Many composers in eastern bloc countries were forced to conform to “proper socialist principles” and write in a traditional style or face prison or death.
+Ideology of “Socialist Realism”
+Shostakovich: many symphonies chock full of irony and double meanings that went right over the censors’ heads.</p>
+
+<p>John Cage</p>
+
+<p>PLAY Music of Changes I ()</p>
+
+<p>I Ching, prepared piano, Constructions in Metal, “noise”</p>
+
+<p>PLAY Sonatas and Interludes for Prepared Piano  (page 245)</p>
+
+<p>4’33”</p>
+
+<p>PLAY Varese, Ionisation</p>
+
+<p>musique concrete, additive rhythm, Poem Electronique. (1958 Brussels Philips Pavilion, Le Corbusier), modernism, the International Style</p>
+
+<p>Klangfarbenmelodie – “tone colour” melody</p>
+
+<p>PLAY Crumb “Music for a Summer Evening” . Notation example pp.256.</p>
+
+<p>Minimalism and return to tonality and rhythm (Mondrian image)</p>
+
+<p>Demo Clapping Music, Piano Phase
+iPhone/iPad Clapping Music app</p>
+
+<p>PLAY Reich  “Nagoya Marimbas”
+- marimba</p>
+
+<p>PLAY Reich  “Eight Lines”</p>
+
+<p>New instruments - demise of the orchestra?</p>
+
+<p>New Technologies</p>
+
+<p>PLAY Paul Lansky: “Notjustmoreidlechatter”  (Princeton)
+- synth</p>
+
+<p><strong>Section 1</strong> consists of 10 brief recorded examples. Each example will be played four times. You will be asked to answer four questions about each example. The examples are from the Naxos Music 100 playlist and at least one question per example will concern identification (piece, composer, etc.). You will have heard all these examples in class.</p>
+
+<p><strong>Section 2</strong> consists of forty multiple choice questions, each worth one mark. These questions will concern the following subject areas:
+theme, theme and variations, rubato, Apollo, Dionysus, Enlightenment, lieder, strophic song, through composed, requiem, absolute music, exoticism, diva, prima donna, grand opera, bel canto, libretto, overture, ensemble, chorus, expressionism, impressionism, Bayreuth, Ring Cycle, music drama, leitmotif, chromaticism, tone poem, post-romantic, polytonality, polyrhythm, primitivism, populism, additive rhythm, atonality, serialism, 12-tone technique, tone row, expressionism, Second Viennese School, sprechstimme, aleatoric music, minimalism, musique concrete, prepared piano, klangfarbenmelodie.</p>
+
+<p><strong>Section 3</strong> consists of two “essay-type” questions (10 marks each) concerning any of the material we have studied. There will be at least five questions in total from which you may choose any two.</p>
+
+<p><strong>theme:</strong> A line in the music<br />
+<strong>theme and variations:</strong> it is the same theme, but varied every time.<br />
+<strong>rubato:</strong> “robbed”, melody slows down as the player keeps the tempo going in the accompaniment<br />
+<strong>Apollo:</strong> God of music<br />
+<strong>Dionysus:</strong> God of wine<br />
+<strong>englightenment:</strong> Led by Voltaire, tried to apply scientific objectivity to social justice. Human over the divine, reason over religion. Tried to improve education, eliminate prejudice, and get rid of class structure.<br />
+<strong>lieder:</strong> a type of German song, especially of the Romantic period, typically for solo voice with piano accompaniment.<br />
+<strong>strophic song:</strong> same music for each stanza of the poetry<br />
+<strong>through composed:</strong> music is different for each stanza<br />
+<strong>requiem:</strong> a Mass for the repose of the souls of the dead.<br />
+<strong>absolute music:</strong> music has no meaning outside the meaning of the music itself and the feelings it producers in its listeners<br />
+<strong>exoticism:</strong> genre in which the rhythms, melodies, or instrumentation are designed to evoke the atmosphere of far-off lands or ancient times<br />
+<strong>diva:</strong> celebrated female singer; a woman of outstanding talent in the world of opera<br />
+<strong>prima donna:</strong> a principal female singer in an opera or concert organization<br />
+<strong>grand opera:</strong> lofty subjects, grand productions<br />
+<strong>bel canto:</strong> style (Italian) = “beautiful singing” Bellini, “Norma,” Donizetti, “Lucia”<br />
+<strong>libretto:</strong> text used in, or intended for, an extended musical work such as an opera, operetta, masque, oratorio, cantata or musical.<br />
+<strong>overture:</strong> an instrumental introduction in three short movements, fast-slow-fast<br />
+<strong>ensemble:</strong> group of musicians, dancers, or actors who perform together<br />
+<strong>chorus:</strong> a large organized group of singers, especially one that performs together with an orchestra or opera company.<br />
+<strong>expressionism:</strong> Focus on inner states of being and the evocation of extreme feelings<br />
+<strong>impressionism:</strong> symbolism that attempted to convey ideas rather than by direct statements<br />
+<strong>Bayreuth:</strong> Festival founded by Wagner. Very hard to get tickets, may take ten years.<br />
+<strong>Ring Cycle:</strong> is a cycle of four German-language epic music dramas composed by Richard Wagner<br />
+<strong>Music Drama:</strong> Music and words interwoven in retelling old myths which would carry profound human truth. Founded by Wagner who used it anti-Semitically.<br />
+<strong>leitmotif:</strong> a recurrent theme throughout a musical or literary composition, associated with a particular person, idea, or situation.<br />
+<strong>chromaticism:</strong> a compositional technique interspersing the primary diatonic pitches and chords with other pitches of the chromatic scale.<br />
+<strong>tone poem:</strong> a piece of orchestral music, typically in one movement, on a descriptive or rhapsodic theme.<br />
+<strong>post-romantic:</strong> range of cultural endeavors and attitudes emerging in the late nineteenth and early twentieth centuries, after the period of Romanticism<br />
+<strong>polytonality:</strong> Simultaneous sounding of two or more keys at once<br />
+<strong>polyrhythm:</strong> different meters sounding at the same time<br />
+<strong>primitivism:</strong> Directness, instinctiveness, and exoticism of nonurban cultures.<br />
+<strong>populism:</strong> belief in the power of regular people, and in their right to have control over their government rather than a small group of political insiders or a wealthy elite<br />
+<strong>additive rhythm:</strong> larger period of time is divided into smaller rhythmic units<br />
+<strong>atonality:</strong> An attempt to “liberate” music from the traditional rules of composition<br />
+<strong>serialism:</strong> In serial composition, the initial choice of materials (the row) controls all aspects of the composition.<br />
+<strong>12-tone technique:</strong> Use all the available notes, instead of just some, and used in a strict order and must be followed. Is a system of composition that replaces the systems and rules of functional harmony.<br />
+<strong>tone row:</strong> a particular sequence of the twelve notes of the chromatic scale used as a basis for twelve-tone (serial) music.<br />
+<strong>Second Viennese School:</strong> is the group of composers that comprised Arnold Schoenberg and his pupils and close associates in early 20th century Vienna<br />
+<strong>sprechstimme:</strong> Singer approximates the written pitches, in an eerie effect that merges singing with speaking<br />
+<strong>aleatorics:</strong> is music in which some element of the composition is left to chance, and/or some primary element of a composed work’s realization is left to the determination of its performer<br />
+<strong>minimalism:</strong> idea of harmonic simplicity and repetitive rhythm. Limited materials and remains almost constant tempo and dynamic.<br />
+<strong>musique concrete:</strong> music constructed by mixing recorded sounds, first developed by experimental composers in the 1940s.<br />
+<strong>prepared piano:</strong> piano that has had its sound altered by placing objects between or on the strings<br />
+<strong>klangfarbenmelodie:</strong> is a musical technique that involves splitting a musical line or melody between several instruments, rather than assigning it to just one instrument (or set of instruments), thereby adding color (timbre) and texture to the melodic line.  </p>
+
+<p>Composers Contributions:</p>
+
+<p>Classical:</p>
+
+<p>Beethoven:
+- piano prodigy
+- Combines classical interest in abstract form and development with powerful emotion and individual style</p>
+
+<h3 id="romantic">Romantic:</h3>
+
+<p>Wagner:
+- self-taught
+- nationalist
+- bridge from Romanticism to most of the “isms” of the 20th C. –&gt; “expressionism,” “modernism,” “impressionism,”</p>
+
+<p>Robert Schumann:
+- literary Romantic
+- piano writing is mastery</p>
+
+<p>Brahms:
+- third b
+- romantic but classic and baroque at times
+- Schumann had a nervous collapse
+- B fell in love w/ Schumann’s wife, Clara (a fine composer and performer in her own right). B was torn by this situation.
+- conservative</p>
+
+<p>Mahler:
+- last great Romantic composer
+- whole world nature
+- orchestral song cycles</p>
+
+<p>Strauss</p>
+
+<h3 id="modern-era">Modern Era:</h3>
+
+<p>Debussy:
+- French
+- known for Indonesian Gamelan (small group playing metal instruments)</p>
+
+<p>Ravel:</p>
+
+<p>Stravinsky:
+- use of polyrhythms, bitonality, and ostinato
+- syncopation</p>
+
+<p>Schoenberg:
+- new approach to harmony
+- founded the twelve-tone system
+- students were Alban Berg and Anton Webern
+- liberated music from the tonal system</p>
+
+<p>Alban Berg:
+- more passionate and emotionally intense than other School of Viennese</p>
+
+</div>
+</html>
+
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+          
+          <li>
+            <a href="https://github.com/jonathantsang" title="GitHub">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+		  
+		  
+          <li>
+            <a href="mailto:j26tsang@gmail.com" title="Email me">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+		  
+		  
+		  
+        </ul>
+        <p class="copyright text-muted">
+		  This site is updated by Jonathan Tsang
+		  &nbsp;&bull;&nbsp;
+		  2017
+
+		  
+		  &nbsp;&bull;&nbsp;
+		  <a href="http://jonathantsang.github.io">jonathantsang.github.io</a>
+		  
+	    </p>
+	        <!-- Please don't remove this, keep my open source work credited :) -->
+		<p class="theme-by text-muted">
+		  <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
+		</p>
+      </div>
+    </div>
+  </div>
+
+
+    <!-- everything has to be repeated twice because on 2016-02-01 GitHub pages migrated to jekyll 3; see bug https://github.com/jekyll/jekyll/issues/4439 -->
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+      	  document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/main.js"></script>
+    
+  
+
+
+
+
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-84758502-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+  </body>
+</html>
