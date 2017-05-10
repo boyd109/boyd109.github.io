@@ -18,6 +18,32 @@ I had some experience previously making simple games in GameMaker in middle scho
 <button type = "button" class = "btn btn-primary btn-lg">Made with:</button>
 <button type = "button" class = "btn btn-primary">Unity</button>
 <button type = "button" class = "btn btn-primary">C#</button>
+<p>Top down shooter using your mouse to aim and spacebar to shoot zombies with 6 weapons.</p>
+<br>
+
+<h2>MyFlaws
+<a href= "https://github.com/jonathantsang/MyFlaws">
+<img src="/pictures/gcat.png" width="4%" height="4%"></a></h2>
+<img src="/projects/unity/pictures/mf.png" width="40%" height="40%">
+<br>
+<button type = "button" class = "btn btn-primary btn-lg">Made with:</button>
+<button type = "button" class = "btn btn-primary">Unity</button>
+<button type = "button" class = "btn btn-primary">C#</button>
+<p>Experimental Platformer with 2D physics, collectibles, exploration, inventory, sublevels, and merged game genres.</p>
+
+<br>
+
+<h2>BomberAI
+<a href= "https://github.com/jonathantsang/BomberAI">
+<img src="/pictures/gcat.png" width="4%" height="4%"></a></h2>
+<img src="/projects/unity/pictures/bai.png" width="40%" height="40%">
+<br>
+<br>
+<button type = "button" class = "btn btn-primary btn-lg">Made with:</button>
+<button type = "button" class = "btn btn-primary">Unity</button>
+<button type = "button" class = "btn btn-primary">C#</button>
+<button type = "button" class = "btn btn-primary">IBM Watson API</button>
+<p>Basic Bomberman AI made with IBM Watson API.</p>
 
 <br>
 
@@ -29,21 +55,5 @@ I had some experience previously making simple games in GameMaker in middle scho
 <button type = "button" class = "btn btn-primary btn-lg">Made with:</button>
 <button type = "button" class = "btn btn-primary">Unity</button>
 <button type = "button" class = "btn btn-primary">C#</button>
-
-<br>
-
-<div class="col-md-4">
-  <h2>BomberAI
-    <a href= "https://github.com/jonathantsang/BomberAI">
-      <img src="/pictures/gcat.png" width="10%" height="10%"></a></h2>
-      <img src="/projects/unity/pictures/bai.png" width="100%" height="100%">
-      <br>
-      <br>
-      <button type = "button" class = "btn btn-primary btn-lg">Made with:</button>
-      <button type = "button" class = "btn btn-primary">Unity</button>
-      <button type = "button" class = "btn btn-primary">C#</button>
-      <button type = "button" class = "btn btn-primary">IBM Watson API</button>
-      <p>Basic Bomberman AI made with IBM Watson API.</p>
-</div>
-
+<p>An array based game where you jump over bombs, rotate the array and unlock doors.</p>
 <br>

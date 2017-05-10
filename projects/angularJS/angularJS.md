@@ -2,8 +2,8 @@
 layout: default
 title: AngularJS
 permalink: /angularJS/
-category: projects
-tag: projects
+## category: projects
+## tag: projects
 ---
 
 Small Projects using AngularJS
