@@ -18,8 +18,8 @@ permalink: /notes/
 <table style="width:100%" >
  <tr>
    <td><a id="colouring" href="{{site.baseurl}}/cs136/">CS 136</a></td>
-   <td><a id="colouring" href="{{site.baseurl}}/math136/">Math 136</a></td>
-   <td><a id="colouring" href="{{site.baseurl}}/stat231/">Stat 231</a></td>
+   <td><a id="colouring" href="#">Math 136</a></td>
+   <td><a id="colouring" href="#">Stat 231</a></td>
    <td><a id="colouring" href="{{site.baseurl}}/engl109/">Engl 109</a></td>
    <td><a id="colouring" href="{{site.baseurl}}/music100/">Music 100</a></td>
  </tr>
@@ -28,11 +28,11 @@ permalink: /notes/
 ## 3A Term
 <table style="width:100%" >
  <tr>
-   <td><a id="colouring" href="{{site.baseurl}}/cs246/">CS 246</a></td>
-   <td><a id="colouring" href="{{site.baseurl}}/cs245/">CS 245</a></td>
-   <td><a id="colouring" href="{{site.baseurl}}/cs251/">CS 251</a></td>
-   <td><a id="colouring" href="{{site.baseurl}}/math239/">Math 239</a></td>
-   <td><a id="colouring" href="{{site.baseurl}}/engl119/">Engl 119</a></td>
+   <td><a id="colouring" href="#">CS 246</a></td>
+   <td><a id="colouring" href="#">CS 245</a></td>
+   <td><a id="colouring" href="#">CS 251</a></td>
+   <td><a id="colouring" href="#">Math 239</a></td>
+   <td><a id="colouring" href="#">Engl 119</a></td>
  </tr>
 </table>
 

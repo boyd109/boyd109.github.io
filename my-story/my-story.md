@@ -266,7 +266,7 @@ I compiled photos from the event here: [Link](/th5/)
 I also participated in the University of Waterloo Local Hack Day.
 <br>
 
-## Winter 2017 (Work Term 2)(Present)
+## Winter 2017 (Work Term 2)
 <img src="/my-story/pictures/wt2/surfeasy.png" width="40%" height="40%">
 <br>
 I worked at SurfEasy VPN as a QA Analyst. It is an awesome startup with great culture and talented individuals that believe in their product quality first and foremost. I learned about the development cycle of software in a real work setting, worked in a tight knit team on logging and investigating bugs, and coded some of the iOS mobile automation tests during my time there.
@@ -297,6 +297,14 @@ Small summary of photos from UofTHacks, QHacks, MHacks9, and HackPrinceton:
 <img src="/my-story/pictures/wt2/7.png" width="40%" height="40%">
 <img src="/my-story/pictures/wt2/8.png" width="40%" height="40%">
 <br>
+
+**UPDATE: I uploaded separate pages for MHacks9 and HackPrinceton2017. Check it out here:**
+<a href="/mhacks9/">MHacks9</a>
+<a href="/hackprinceton2017/">HackPrinceton2017</a>
+
+## Spring 2017 (Present)
+
+Back in school after a refreshing co-op experience. Unfortunately there aren't many hackathons happening around spring (what normal people call summertime). That being said this term I'm planning on focusing on learning NodeJs and some more web development tools for backend dev. I've done mostly QA co-op jobs and I'd like to also try out some dev jobs to compare and contrast the two.
 
 ## Future
 
