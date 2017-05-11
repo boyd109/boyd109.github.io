@@ -1,5 +1,5 @@
 ---
-title: TerribleHacks5
+title: Hack Princeton 2017
 layout: photospage
 permalink: /hackprinceton2017/
 tag: images/hackprinceton2017
