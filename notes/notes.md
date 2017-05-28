@@ -4,6 +4,8 @@ layout: page
 permalink: /notes/
 ---
 
+## Old Term Notes
+
 ## 2B Term
 <table style="width:100%" >
  <tr>
@@ -24,18 +26,6 @@ permalink: /notes/
    <td><a id="colouring" href="{{site.baseurl}}/music100/">Music 100</a></td>
  </tr>
 </table>
-
-## 3A Term
-<table style="width:100%" >
- <tr>
-   <td><a id="colouring" href="#">CS 246</a></td>
-   <td><a id="colouring" href="#">CS 245</a></td>
-   <td><a id="colouring" href="#">CS 251</a></td>
-   <td><a id="colouring" href="#">Math 239</a></td>
-   <td><a id="colouring" href="#">Engl 119</a></td>
- </tr>
-</table>
-
 
 **Notes for Later Terms will be uploaded here!**
 **Note: Most of my notes are handwritten, and I sometimes post here, but not everything is posted here. I put some of the important topics, but this is not comprehensive of the whole course**

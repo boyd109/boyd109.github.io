@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: "/hobbies-and-interests/"
+permalink: "/hobbies/"
 ---
 
 # Hobbies and Interests
