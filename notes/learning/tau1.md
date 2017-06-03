@@ -4,7 +4,7 @@ title: Things about university Co-op
 permalink: /tau1/
 category: learning
 tag: learning
-date: 6/3/2017
+date: 3/6/2017
 ---
 I'm now a third year student at Waterloo. Even though I'm in 2A CS, I still have the knowledge retained from being so old. Here's a couple things I wish I knew in the first two years of my undergrad.
 
