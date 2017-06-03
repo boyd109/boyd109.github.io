@@ -27,7 +27,7 @@ This is a fair method of calculation, but it does fairly skew the results for ho
 
 Bonus: If you want to see the co-op job salaries go to [here](https://uwaterloo.ca/co-operative-education/why-co-op/co-op-earnings)
 
-## 12 Stream \> 8 Stream \>\> 16 Stream, 4 Stream
+## 12 Stream better than 8 Stream better than 16 Stream, 4 Stream
 
 If you are unfamiliar with the waterloo co-op streams, there are a bunch of streams you choose when coming here and it determines when you go on co-op.
 
