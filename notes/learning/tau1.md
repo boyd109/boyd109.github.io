@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Things about university Co-op
 permalink: /tau1/
 category: learning
@@ -27,7 +27,7 @@ This is a fair method of calculation, but it does fairly skew the results for ho
 
 Bonus: If you want to see the co-op job salaries go to [here](https://uwaterloo.ca/co-operative-education/why-co-op/co-op-earnings)
 
-## 12 Stream > 8 Stream >> 16 Stream, 4 Stream
+## 12 Stream \> 8 Stream \>\> 16 Stream, 4 Stream
 
 If you are unfamiliar with the waterloo co-op streams, there are a bunch of streams you choose when coming here and it determines when you go on co-op.
 
@@ -83,7 +83,7 @@ This is fairly petty if you have real world experience or side projects, but whe
 
 Within tech there is a pseudo hierarchy for co-op positions, ranging in the amount of coding done in the job.
 
-Engineer > Developer > QA > IT > Non-technical
+Engineer \> Developer \> QA \> IT \> Non-technical
 
 The most coding is usually done in engineer and least is IT and non-technical jobs. It is arguable that finding a non-technical job is harder than getting an IT or QA position. It is also usually the most difficult to get an engineer or Developer position because they ask a coding question, compared to QA or IT which are usually behavioural questions.
 

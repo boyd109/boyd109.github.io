@@ -9,7 +9,7 @@ category: learning
 <h1>Posts</h1>
 <ol>
 {% for p in site.pages %}
-  {% if p.tag ==  page.category %}
+  {% if p.tag == page.category %}
   <li>
     <a href="{{ p.url }}">{{ p.title }}</a>
   </li>
