@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Things about university - Co-op
+title: Things about university Co-op
 permalink: /tau1/
 category: learning
 tag: learning

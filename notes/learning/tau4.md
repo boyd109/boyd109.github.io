@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Things about university - Groups and Teams
+title: Things about university Groups and Teams
 permalink: /tau4/
 category: learning
 tag: learning
