@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: Things about university Coursework and Marks
 permalink: /tau2/
 category: learning
 tag: learning
+date: 6/3/2017
 ---
 
 ## Marks matter... a lot

@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: Things about university Side Projects
 permalink: /tau3/
 category: learning
 tag: learning
+date: 6/3/2017
 ---
 
 ## Side Projects?
