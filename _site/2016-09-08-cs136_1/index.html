@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Intro Class</title>
+
+  <meta name="author" content="Jonathan Tsang" />
+
+  
+
+  <link rel="alternate" type="application/rss+xml" title="Jonathan Tsang - A journey through Waterloo" href="/feed.xml" />
+
+ <!-- everything has to be repeated twice because on 2016-02-01 GitHub pages migrated to jekyll 3; see bug https://github.com/jekyll/jekyll/issues/4439 -->
+
+  
+    
+      <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
+    
+  
+  
+
+  
+    
+      <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/css/main.css" />
+    
+  
+  
+
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  <!-- Facebook OpenGraph tags -->
+  <meta property="og:title" content="Intro Class" />
+  <meta property="og:type" content="website" />
+
+  
+  <meta property="og:url" content="http://jonathantsang.github.io/2016-09-08-cs136_1//" />
+  
+
+  
+  <meta property="og:image" content="" />
+  
+
+</head>
+
+
+  <body>
+
+    <!-- "navbar-custom" in nav below this to have expanding navbar like it originally had-->
+<nav class="navbar navbar-default navbar-fixed-top navbar-custom no-transition">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://jonathantsang.github.io">Jonathan Tsang</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/aboutme">About Me</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/resume">Resume</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/projects">Projects</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/blog">Blog</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/notes">Notes</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/my-story">My Story</a>
+
+          </li>
+        
+        
+        
+          <li class="navlinks-container">
+            <a class="navlinks-parent" href="javascript:void(0)">Hackthons</a>
+            <div class="navlinks-children">
+              
+                
+                  
+            
+
+
+
+
+  
+
+
+<a href="/mhacks8">MHacks8</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+  
+
+
+<a href="/th5">TerribleHacks5</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+  
+
+
+<a href="/mhacks9">Mhacks9</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+  
+
+
+<a href="/hackprinceton2017">HackPrinceton2017</a>
+
+                
+              
+            </div>
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/hobbies">Hobbies</a>
+
+          </li>
+        
+        
+      </ul>
+    </div>
+
+<!--
+	
+-->
+
+  </div>
+</nav>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">Brand</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">One more separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+
+
+    <!--
+<div class="intro-header"></div>
+-->
+<html>
+<div role="main" class="container">
+  <h2 id="cs-136">CS 136</h2>
+<p>Professor: Dave Tompkins
+Call him “Dave”, Dr. Tompkins</p>
+
+<p>Assignments due Wednesdays at 9:00pm
+<img src="/classes/3a/cs136/boxes.png" alt="Box Info" /></p>
+
+<p>Textbook:
+“C Programming: A Modern Approach” (CP:AMA) by K. N. King. (strongly recommended)  </p>
+
+<h3 id="assignments-per-term">10 assignments per term</h3>
+
+<p>For the iclickers, people in the lowest chosen answer among ABCDE, get a bonus mark  </p>
+
+<p>The answer was E with 7, and luckily I was among the 7.  </p>
+
+<p>0.0333% in marks if you get an iclicker wrong</p>
+
+<p><strong>READ assignment questions carefully</strong></p>
+
+<p>Movie before class is either “My Neighbour Totoro” or “Iron Giant”. We were left on a cliffhanger and will see what it is on Tuesday, September 13, 2016</p>
+
+<p>￼<strong>Academic integrity will be strictly enforced for gold questions.</strong></p>
+
+<p>Marmoset
+Assignments are submitted to the Marmoset submission system:
+http://marmoset.student.cs.uwaterloo.ca/</p>
+
+<p>There are <strong>two types</strong> of Marmoset tests:
+- Public (basic / simple) tests results are available immediately and provide simple feedback to ensure your program is “runnable”. Public tests do not thoroughly test your code.<br />
+- Private (comprehensive / correctness) tests are available after the deadline and are used to fully assess your code.</p>
+
+<p>Put comments in code as you go, not at the end</p>
+
+</div>
+</html>
+
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+          
+          <li>
+            <a href="https://github.com/jonathantsang" title="GitHub">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+		  
+		  
+          <li>
+            <a href="mailto:j26tsang@gmail.com" title="Email me">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+		  
+		  
+		  
+        </ul>
+        <p class="copyright text-muted">
+		  This site is updated by Jonathan Tsang
+		  &nbsp;&bull;&nbsp;
+		  2017
+
+		  
+		  &nbsp;&bull;&nbsp;
+		  <a href="http://jonathantsang.github.io">jonathantsang.github.io</a>
+		  
+	    </p>
+	        <!-- Please don't remove this, keep my open source work credited :) -->
+		<p class="theme-by text-muted">
+		  <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
+		</p>
+      </div>
+    </div>
+  </div>
+
+
+    <!-- everything has to be repeated twice because on 2016-02-01 GitHub pages migrated to jekyll 3; see bug https://github.com/jekyll/jekyll/issues/4439 -->
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+      	  document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/main.js"></script>
+    
+  
+
+
+
+
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-84758502-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+  </body>
+</html>

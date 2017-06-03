@@ -1,0 +1,788 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Midterm Notes</title>
+
+  <meta name="author" content="Jonathan Tsang" />
+
+  
+
+  <link rel="alternate" type="application/rss+xml" title="Jonathan Tsang - A journey through Waterloo" href="/feed.xml" />
+
+ <!-- everything has to be repeated twice because on 2016-02-01 GitHub pages migrated to jekyll 3; see bug https://github.com/jekyll/jekyll/issues/4439 -->
+
+  
+    
+      <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
+    
+  
+  
+
+  
+    
+      <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/css/main.css" />
+    
+  
+  
+
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  <!-- Facebook OpenGraph tags -->
+  <meta property="og:title" content="Midterm Notes" />
+  <meta property="og:type" content="website" />
+
+  
+  <meta property="og:url" content="http://jonathantsang.github.io/2016-06-13-clas104_6//" />
+  
+
+  
+  <meta property="og:image" content="" />
+  
+
+</head>
+
+
+  <body>
+
+    <!-- "navbar-custom" in nav below this to have expanding navbar like it originally had-->
+<nav class="navbar navbar-default navbar-fixed-top navbar-custom no-transition">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://jonathantsang.github.io">Jonathan Tsang</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/aboutme">About Me</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/resume">Resume</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/projects">Projects</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/blog">Blog</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/notes">Notes</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/my-story">My Story</a>
+
+          </li>
+        
+        
+        
+          <li class="navlinks-container">
+            <a class="navlinks-parent" href="javascript:void(0)">Hackthons</a>
+            <div class="navlinks-children">
+              
+                
+                  
+            
+
+
+
+
+  
+
+
+<a href="/mhacks8">MHacks8</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+  
+
+
+<a href="/th5">TerribleHacks5</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+  
+
+
+<a href="/mhacks9">Mhacks9</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+  
+
+
+<a href="/hackprinceton2017">HackPrinceton2017</a>
+
+                
+              
+            </div>
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/hobbies">Hobbies</a>
+
+          </li>
+        
+        
+      </ul>
+    </div>
+
+<!--
+	
+-->
+
+  </div>
+</nav>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">Brand</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">One more separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+
+
+    <!--
+<div class="intro-header"></div>
+-->
+<html>
+<div role="main" class="container">
+  <h2 id="intro">Intro</h2>
+<ul>
+  <li>myths means word, speech tale</li>
+  <li>some myths are based on historical realty</li>
+  <li>elements that are not considered truth, but explore certain absolute truths of human nature and existence</li>
+  <li>three categories, Homeric hymns (myth proper, how gods interact with humans), Saga/Legend (connection to history), folktale (fantastical adventure of a hero, like Hercules)</li>
+</ul>
+
+<h2 id="interpretive-theories">Interpretive Theories</h2>
+<ul>
+  <li>etiological greek word “aitia” means “cause”</li>
+  <li>explains the causes or origins of certain things which cannot be explained in other ways</li>
+  <li>Oedipus Complex Freud believed that a boy wants to sleep with his mother and a girl wants to sleep with her father</li>
+</ul>
+
+<h2 id="greek-and-roman-history-mythology">Greek and Roman History Mythology</h2>
+
+<p>Neolithic period:
+- people entered Greece over 40,000 years ago
+- around 6500 BC
+- not greek speakers</p>
+
+<p>Early and Middle Bronze Ages:
+- economy, trade, settlements</p>
+
+<p>Late Bronze Age (Mycenaean):
+- in 1450 BC Myceneans took over Crete
+- around 1200BC the Mycenaean civilization collapsed (unclear why) and Greece entered a dark age</p>
+
+<p>Dark Age c. 1150-900 and revival period 900 - 750:
+- development of iron and alphabet</p>
+
+<p>Archaic Period 750-500 BC:
+- Hesiod, Homer, Homeric Hymns, colonization, expansion</p>
+
+<p>Classical period c. 500-323 BC:
+- rise of Democracy</p>
+
+<p>Hellenistic Period c. 323-30BC:
+- death of Alexander the Great</p>
+
+<p>Foundation of Rome and Roman Republic c. 753BC - 27 BC:
+- traditional foundation of Rome 753BC
+- founded around 507/507 BC
+- Julius Caesar</p>
+
+<p>Early and High Roman Empire 27BC - 200 AD:
+- Vergil, Ovis rose to fame
+- innovative time</p>
+
+<h2 id="hesiods-theogony">Hesiod’s Theogony:</h2>
+<ul>
+  <li>Homer Iliad and Odyssey</li>
+  <li>hexameter verse</li>
+  <li>retold in performance</li>
+  <li>Chaos</li>
+  <li>Earth (Gaia), Tartaros, Love (Eros), Erebos (dark gloom of the underworld), (Nyx) night also come form chaos</li>
+  <li>Ether (air), Hemera (day), Ouranos (sky or heavens), Pontus (sea)</li>
+  <li>Titans , Cyclopes, Hundred-Handers</li>
+  <li>Kronos plans with Gaia to lop off Ouranos genitals and it is done</li>
+  <li>from those genitals, Aphrodite is born</li>
+  <li>Kronos and Rhea give birth to Zeus and the Olympian generation</li>
+</ul>
+
+<p>Kronos and Rhea:
+- Zeus is concealed and not eaten as Kronos’s children do not overpower him
+- Kronos eats a stone and Zeus rules with his thunderbolt
+- similar to Hittite culture of Anatolia</p>
+
+<h2 id="prometheus">Prometheus:</h2>
+<ul>
+  <li>gave humanity fire</li>
+  <li>humans take the meat and gods receive the smoke of burnt fat and bones</li>
+  <li>Zeus was angry</li>
+  <li>Prometheus steals fire and hides it in a stalk of fennel</li>
+  <li>fire is like technology industry and power</li>
+</ul>
+
+<h2 id="pandora">Pandora:</h2>
+<ul>
+  <li>evil</li>
+  <li>contrived by Zeus</li>
+  <li>The lame One (Hephaestus) made it and did a favour for Zeus</li>
+  <li>eat up man’s products and make him poorer</li>
+  <li>she opened a jar of evil of every type</li>
+</ul>
+
+<h2 id="zeus">Zeus:</h2>
+
+<ul>
+  <li>weather god, storm god</li>
+  <li>hurler of thunderbolts</li>
+  <li>powerful god wielding the thunder-bolt, king seated on throne</li>
+  <li>zeus the liberator</li>
+  <li>sexual powerful</li>
+  <li>married to Hera</li>
+  <li>father of Apollo and Artemis by Leto</li>
+  <li>father of Hermes with Maia</li>
+  <li>father of Persephone by Demeter</li>
+  <li>father of Dionysos by Semele</li>
+  <li>Athena was born from his head</li>
+  <li>Ganymedes abducted by Zeus</li>
+</ul>
+
+<p>Zeus and Danae:<br />
+- oracle foretells that Danae’s son will kill Arcrisius, so he locks her in a room<br />
+- Zeus breaks into the room and she gives birth to Perseus  </p>
+
+<p>Zeus and Europa:
+- Zeus disguises as a bull  </p>
+
+<p>Zeus and Io:
+- Hera becomes mad<br />
+- turns Io into a white heifer and guards her with the snake Argus so Zeus can’t change her back  </p>
+
+<p>Olympia:
+- northwest Peloponnese<br />
+- Elis and the river Alpheios runs through it<br />
+- occupied since the second millennium BC<br />
+- Pausanias, Greek historian<br />
+- two origins<br />
+- Pelops triumphed over Oinomas by having his charioteer Myritlos sabotage his chariot, and he was thrown off and killed<br />
+- Pelops married Hippodameia<br />
+- other origin is that Hercules cleaned the stables of King Augeias of Elis with the river Alpheios and established the sanctuary of Zeus and the Olympic games<br />
+- Nike minor goddess of victory personified<br />
+- Olympic games every 4 years, until it was banned in 394AD by Theodosius I<br />
+- Olympic games truce and received a wreath of wild olive leaves from the sacred grove of Zeus  </p>
+
+<ul>
+  <li>Zeus was father of many in pantheon  </li>
+</ul>
+
+<h2 id="apollo">Apollo</h2>
+<ul>
+  <li>connected with the Sun</li>
+  <li>Paean is treated as a god of healing (separate from Apollo)</li>
+  <li>healing, purification, destruction, care for the young, prophecy, poetry, music</li>
+  <li>Delos and Delphi are two cults of Apollo</li>
+  <li>Zeus and Leto bore Apollo</li>
+  <li>hosioi, holy men</li>
+</ul>
+
+<p>Apollo and Marpesa:
+- Marpesa chose Idas over Apollo because he was mortal, and it was a motif of unsuccessful love affair</p>
+
+<p>Apollo and Cyrene:
+- nymph Cyrene
+- Apollo falls in love when she is wrestling a lion
+- son with Apollo named Aristaeus</p>
+
+<p>Apollo and Daphne:
+- Cupid strikes Apollo with a golden arrow
+- Cupid shoots Daphne with a lead arrow to shun love</p>
+
+<p>Apollo and Cassandra:
+- Cassandra could tell the future (Troy)
+- Apollo wanted her, but she refused
+- Apollo cursed her so no one would believe what she was saying
+- she became frustrated</p>
+
+<p>Apollo and Coronis:
+- Coronis cheated on Apollo
+- Apollo shoots her with an arrow
+- tries to heal her, but cannot save her
+- power of revenge and healing meet tragically</p>
+
+<p>Apollo and Hyancinthus:
+- Hyancinthus fetches the discus but it kills him
+- male youth</p>
+
+<p>Marsyas:
+- part goat, part man, satyr
+- challenges Apollo to a music contest on his flute, loses and was skinned alive</p>
+
+<h2 id="artemis">Artemis</h2>
+<ul>
+  <li>wilderness, bow and arrow</li>
+  <li>prizes virginity</li>
+  <li>contrast to aphrodite</li>
+  <li>deity who brings punishment and death</li>
+</ul>
+
+<p>Niobe:
+- boasts that she is better than Leto because she has 6 boys and 6 girls
+- Diana and Apollo kill Niobe’s sons and daughters and is changed into a rock</p>
+
+<p>Actaeon:
+- he sees Artemis naked
+- she turns him into a stag</p>
+
+<p>Callisto:
+- huntress who is raped by Zeus
+- Artemis banishs her from the band for pregnancy
+- Hera turns her into a Bear
+- turns into a constellation alongside Arcas, her son</p>
+
+<p>Orion:
+- famous hunter tried to rape Artemis
+- Artemis made a scorpion sting Orion to death</p>
+
+<p>Birth:
+- born from Zeus and Leto on Ortydia
+- closely linked to Selene</p>
+
+<h2 id="aphrodite">Aphrodite</h2>
+<ul>
+  <li>Athena, Artemis and Hestia could not be tamed by Aphrodite’s power</li>
+  <li>juxtaposition from Aphrodite and Artemis</li>
+</ul>
+
+<p>Hippolytus (By Euripides):
+- Aphrodite makes his step-mom Phaedra fall in love with Hippolytus
+- Phaedra leaves a note for her husband Theseus that it was Hippolytus who lusted for her, and curses his son to die</p>
+
+<p>Anchises:
+- Zeus employs Aphrodite to fall in love with Anchises, irony where Aphrodite will be conquered by her own power
+- gives birth to Aeneas, who will found Rome</p>
+
+<p>Ares and Hephaestus:
+- Hephaestus (Aphrodite’s husband) learns of Aphrodite’s affair with Ares sets a trap
+- all of the gods stand around and laugh at her
+- goddess of love suffers shame before the gods</p>
+
+<p>Adonis and Persephone:
+- Aphrodite falls in love with Adonis
+- Aphrodite hides him in a chest and gives him to Persephone
+- spends 4 months a year with Aphrodite and 4 months a year with Persephone (decided by Zeus)</p>
+
+<p>Cupid:
+- scratches Venus with one of his arrows and falls in love with his mother Venus
+- is not locked in a chest, but killed while on the hunt of a tusk of a boar, and changed into a flower by Aphrodite
+- Pygmalion is disgusted with the prostitution, he makes a statue he falls in love with
+- prays to Aphrodite to have the statue as his wife, named Galatea, son Paphos
+- Paphos granddaugher falls in love with her father Cinyas (famous hero of Cyprus)
+- he is furious and she is turned into a myrrh tree which drips tears and Adonis is born of the tree</p>
+
+<h2 id="eroscupid">Eros/Cupid</h2>
+<ul>
+  <li>son of Aphrodite</li>
+</ul>
+
+<p>Cupid and Psyche:
+- Psyche is extremely beautiful
+- has Cupid make Psyche fall in love with a terrible man
+- Cupid falls in love
+- father consults the oracle
+- her lover hides her from the serpent in the mountains
+- Psyche is in grief after almost trying to kill Cupid and tries to commit suicide
+- Psyche does impossible tasks, sort mixed grains (ant helps), wool from dangerous sheep (reed helps her), go to a tall mountain and bring back water (eagle of Jupiter gets it), take a fragment of Persephone’s beauty and not look in the box
+- she uses food to calm cerebus and money for charon
+- she looks in and has a deathlike sleep
+- Cupid tries to save her, and psyche is made a goddess</p>
+
+<h2 id="demeter">Demeter</h2>
+<ul>
+  <li>meter = mother</li>
+  <li>tamer of the earth</li>
+  <li>search for persephone</li>
+  <li>goddess of corn and wheat, controls vegetation and growth of crops</li>
+</ul>
+
+<p>Hades and Persephone:
+- Hades carries off Persephone
+- Demeter disguises as an old woman and tells them she was kidnapped by pirates in Crete
+- tries to make Demophon immortal, by feeding ambrosia and putting him in the fire, but Metaneira cries out that her son is in the fire
+- Demophon is removed and Demeter demands a temple and altar
+- creates a famine for the world because she is angry at the loss of her daughter
+- Hades gives Persephone a pomegrante, and binds her to Hades forcing her to return to him for a time each year
+- lives in Olympus for 2/3 the year, and 1/3 with Hades
+- Persephone’s stay in the underworld is a aition (explanation of the cause) for winter</p>
+
+<h2 id="hermes">Hermes</h2>
+<ul>
+  <li>son of Zeus and Maia, nypmh and daugther of Atlas</li>
+  <li>messenger god</li>
+  <li>part in birth of Dionysus, Zeus shows Semele the true form and Semele is burned to ashes</li>
+  <li>clever, trickster</li>
+  <li>inventor of Lyre</li>
+  <li>hymn of Hermes’ birth</li>
+  <li>steals cattle of Apollo</li>
+  <li>does not actually eat the cattle</li>
+  <li>Hermes is father of pan, inventor of panpipe</li>
+  <li>Hermes two snakes wrapped around a staff confused with Apollo’s son Asclepius with two snakes sign of physician</li>
+  <li>conductor of souls</li>
+  <li>crosses boundaries</li>
+</ul>
+
+<p>Aphrodite and Hermes:
+- Hermaphroditus is born, goes into hills
+- nypmh Salmacis falls in love and eventually blends into him
+- aition for both sexual organs</p>
+
+<h2 id="athena">Athena</h2>
+<ul>
+  <li>born from Zeus’s head</li>
+  <li>goddess of war</li>
+  <li>Athena’ mother is Metis, meaning wisdom, embodiment of craft and cleverness</li>
+</ul>
+
+<p>Arachne:
+- challenges Athena to a weaving contest
+- Athena reveals herself and Arachne hangs herself, but Athena takes punishment and turns her into a spider
+- Athena Ergane, craft maker</p>
+
+<h2 id="ares">Ares</h2>
+<ul>
+  <li>god of war</li>
+  <li>destructive and hateful to Zeus</li>
+  <li>Zeus’s son</li>
+</ul>
+
+<h2 id="poseidon">Poseidon</h2>
+<ul>
+  <li>carries trident</li>
+  <li>fish and other animals</li>
+  <li>earthquakes</li>
+  <li>has the seas</li>
+  <li>also controls the earth and taming horses</li>
+</ul>
+
+<p>Odysseus:
+- tricks the Cyclops and drives a stake into his eye
+- Poseidon is mad since the cyclops Polyphemus is his son, and constantly drives him off course and from getting home</p>
+
+<p>Amphitrite:
+- married to amphitrite, nereid, daugher of nereus, son of sea (Pontus) and earth (Ge)
+- Poseidon falls in love with Scylla, daughter of Hecate and Amphitrite puts magic herbs to transform Scylla into a horrible monster
+- Scylla attacks Odysseus’ crew in Homer’s Odyssey</p>
+
+<h2 id="dionysus">Dionysus</h2>
+<ul>
+  <li>god of wine, celebration</li>
+  <li>son of Zeus and Semele, daughter of King Cadmus of Thebes</li>
+</ul>
+
+<p>Pirates:
+- abduct Dionysus and everyone except the helmsman doesn’t know he is a god
+- Dionysus brings punishment among the pirates</p>
+
+<p>Pentheus:
+- Pentheus does not believe that Semele and Zeus bore Dionysus
+- Dionysus makes all the women go to the mountains intoxicated to celebrate Dionysus
+- Dionysus convinces him to dress up like a female celbrant and then Pentheus is torn apart by his mother Agave</p>
+
+<h2 id="orpheus">Orpheus</h2>
+<ul>
+  <li>searches for Eurydice his wife</li>
+  <li>he is a singer and poet</li>
+  <li>Eurydice is bitten by snake</li>
+  <li>Hades and Persephone give Orpheus a chance</li>
+  <li>he cannot look at her to see if she is alright, and fails</li>
+  <li>he gives up women and he plays charming music</li>
+  <li>the women fall in love with him, and Bacchantes dismember him</li>
+  <li>he punishes the Bacchantes who killed Orpheus by turning them into trees</li>
+  <li>connection of ancient worlds with death and afterlife</li>
+</ul>
+
+</div>
+</html>
+
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+          
+          <li>
+            <a href="https://github.com/jonathantsang" title="GitHub">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+		  
+		  
+          <li>
+            <a href="mailto:j26tsang@gmail.com" title="Email me">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+		  
+		  
+		  
+        </ul>
+        <p class="copyright text-muted">
+		  This site is updated by Jonathan Tsang
+		  &nbsp;&bull;&nbsp;
+		  2017
+
+		  
+		  &nbsp;&bull;&nbsp;
+		  <a href="http://jonathantsang.github.io">jonathantsang.github.io</a>
+		  
+	    </p>
+	        <!-- Please don't remove this, keep my open source work credited :) -->
+		<p class="theme-by text-muted">
+		  <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
+		</p>
+      </div>
+    </div>
+  </div>
+
+
+    <!-- everything has to be repeated twice because on 2016-02-01 GitHub pages migrated to jekyll 3; see bug https://github.com/jekyll/jekyll/issues/4439 -->
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+      	  document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/main.js"></script>
+    
+  
+
+
+
+
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-84758502-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+  </body>
+</html>

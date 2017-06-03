@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Module 17</title>
+
+  <meta name="author" content="Jonathan Tsang" />
+
+  
+
+  <link rel="alternate" type="application/rss+xml" title="Jonathan Tsang - A journey through Waterloo" href="/feed.xml" />
+
+ <!-- everything has to be repeated twice because on 2016-02-01 GitHub pages migrated to jekyll 3; see bug https://github.com/jekyll/jekyll/issues/4439 -->
+
+  
+    
+      <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
+    
+  
+  
+
+  
+    
+      <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/css/main.css" />
+    
+  
+  
+
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  <!-- Facebook OpenGraph tags -->
+  <meta property="og:title" content="Module 17" />
+  <meta property="og:type" content="website" />
+
+  
+  <meta property="og:url" content="http://jonathantsang.github.io/2016-07-25-clas104_12//" />
+  
+
+  
+  <meta property="og:image" content="" />
+  
+
+</head>
+
+
+  <body>
+
+    <!-- "navbar-custom" in nav below this to have expanding navbar like it originally had-->
+<nav class="navbar navbar-default navbar-fixed-top navbar-custom no-transition">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://jonathantsang.github.io">Jonathan Tsang</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/aboutme">About Me</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/resume">Resume</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/projects">Projects</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/blog">Blog</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/notes">Notes</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/my-story">My Story</a>
+
+          </li>
+        
+        
+        
+          <li class="navlinks-container">
+            <a class="navlinks-parent" href="javascript:void(0)">Hackthons</a>
+            <div class="navlinks-children">
+              
+                
+                  
+            
+
+
+
+
+  
+
+
+<a href="/mhacks8">MHacks8</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+  
+
+
+<a href="/th5">TerribleHacks5</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+  
+
+
+<a href="/mhacks9">Mhacks9</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+  
+
+
+<a href="/hackprinceton2017">HackPrinceton2017</a>
+
+                
+              
+            </div>
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/hobbies">Hobbies</a>
+
+          </li>
+        
+        
+      </ul>
+    </div>
+
+<!--
+	
+-->
+
+  </div>
+</nav>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">Brand</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">One more separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+
+
+    <!--
+<div class="intro-header"></div>
+-->
+<html>
+<div role="main" class="container">
+  <p>Final Exam Notes from Module 13 - 22</p>
+
+<h2 id="module-17">Module 17</h2>
+
+<h2 id="odysseus-and-nostoi">Odysseus and Nostoi</h2>
+<ul>
+  <li>Greeks victorious return from Asia Minor to homes around Greek Aegean</li>
+  <li>these returns, called Nostoi</li>
+  <li>many returns were disastrous, involving shipwreck, death, or expulsion</li>
+  <li>some heroes, Diomedes, Idomeneus,and Philoctetes leave Greece and settle in Italy</li>
+  <li>Greek colony in archaic period</li>
+  <li>sea travel dangerous</li>
+  <li>Odysseus journey home is a fantastic one, involving romance and elements of folktale</li>
+  <li>Odysseus must endure hardships and adventures before returning home</li>
+  <li>wanders ten years and Poseidon is hostile and causes him to go off course</li>
+  <li>suitors in Ithaca try to marry Penelope thinking he is dead</li>
+  <li>Penelope remains faithful, but they waste his property with feasting and celebration</li>
+  <li>Telemachus searches for him when he is adolescent</li>
+</ul>
+
+<h2 id="books">Books</h2>
+<ul>
+  <li>books 1-4: Telemachus goes to search, visits Menelaud in Sparta</li>
+  <li>books 5-8: Odysseus is released by nymph Calypso</li>
+  <li>Calypso offers immortality and life of pleasure with her, but he wants to return home with his wife</li>
+  <li>he sails on a raft, the storm destroys it and he goes to Scheria, island of Phaecians</li>
+  <li>Nausicaa falls in love with him and takes him to her parents Alcinous and Arete, he is treated kindly</li>
+  <li>books 9-13: feast held by ALcinous in Odysseus honour</li>
+  <li>recounts his adventures, the Phaecians return him to Ithaca, Poseidon turns them to stone as punishment</li>
+  <li>books 14-24: Odysseus is reunited with him son and swinehard Eumaeus</li>
+  <li>he goes in as a beggar and tests Penelop</li>
+  <li>kills the suitors and reunited with his family</li>
+  <li>he travels from Asia Minor to Africa, Italy, and as far to Straits of Gibraltar</li>
+</ul>
+
+<h2 id="principle-adventures-in-odysseus-journey">Principle Adventures in Odysseus’ Journey</h2>
+<ul>
+  <li>Cicones: Thracian city of Ismarus</li>
+  <li>sack the city but spare Maron, priest of Apollo and he gives twelve jars of wine</li>
+  <li>Lotus Eaters: whoever eats the fruit forgot everything and wanted to stay, Odysseus gets his men away with great difficulty</li>
+  <li>Polphemus: Cyclops eat his compaions two at a time</li>
+  <li>says his name is ‘nobody’ and then gets him drunk to eat him last, Odysseus drives a sharp wooden stake heated by fire into his eye</li>
+  <li>says ‘nobody is killing me’ and pay no attention, sneak out under a sheep</li>
+  <li>Polyphemus prays to father Poseison Odysseus not return, this is the source of anger at Odysseus</li>
+  <li>Aeolus and his winds: leather bag containing winds, reached home, crew opened bag thinking it was gold, and blew back to Aeolus</li>
+  <li>Laestrygonians: a savage group that sink all but odysseus’ ship and eat the crews</li>
+  <li>Circe: witch connected to the east (descendant of the sun), turns men into pigs, Eurlochus reorts what happened</li>
+  <li>with the help of Hermes resists it and sleeps with Crice without being turned into an animal</li>
+  <li>Circe sends him to the underworld to see Tiresias</li>
+  <li>Journey to Underworld: in Module 13 Notes</li>
+  <li>Sirens: lure people in with singing, then kill them, Odysseus put wax in their ears and bing him to the mast so they could hear the sirens without swimming to them</li>
+  <li>Charybdis and Scylla: Charybdis three times a day sucked in all the war and spit it out, Scylla originally a sea nymph jealous of Amphitrite (wife of Poseidon) into a monster with six dog heads and twelve feet, takes six men from Odysseus’ ship</li>
+  <li>Cattle of the Sun: Helios have pastures, Circe told him not to touch the animals, crew eat some, Zeus destroys ship with thunderbolt, Odysseus survives along on floating mast to drift to island of Calypso</li>
+</ul>
+
+<h2 id="return-homer">Return Homer</h2>
+<ul>
+  <li>dressed as a beggar by Athena</li>
+  <li>over 100 suitors vying for Penelope</li>
+  <li>suitors spend days deasting on Odysseus’ wealth</li>
+  <li>clever and remains faithful to her husband</li>
+  <li>she puts they off by promising to marry one as soon as she finishing weaving burial garment for Odysseus’ father Laertes</li>
+  <li>weaves by day, undoes work by night, until fourth year she is discovered by the treachery of one of her maids</li>
+  <li>Penelope says she plans to give herself the next day to someone who can shoot an arrow straight through 12 axe heads (small hole in the handle)</li>
+  <li>No one can do it</li>
+  <li>he does the task, and reveals himself, with the help of Telemachus he kills the suitors</li>
+  <li>forces servant women of Penelop to clean the hall and hangs them</li>
+  <li>tests his identity by questioning his knowledge of their marriage bed, one left of a living olive tree</li>
+  <li>violence juxtaposed by great journey with romance of Penelope</li>
+  <li>multifaceted warrior, clever, faithful husband, son, father, harsh exacter for revenge</li>
+  <li>he brought something to the domestic sphere</li>
+</ul>
+
+</div>
+</html>
+
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+          
+          <li>
+            <a href="https://github.com/jonathantsang" title="GitHub">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+		  
+		  
+          <li>
+            <a href="mailto:j26tsang@gmail.com" title="Email me">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+		  
+		  
+		  
+        </ul>
+        <p class="copyright text-muted">
+		  This site is updated by Jonathan Tsang
+		  &nbsp;&bull;&nbsp;
+		  2017
+
+		  
+		  &nbsp;&bull;&nbsp;
+		  <a href="http://jonathantsang.github.io">jonathantsang.github.io</a>
+		  
+	    </p>
+	        <!-- Please don't remove this, keep my open source work credited :) -->
+		<p class="theme-by text-muted">
+		  <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
+		</p>
+      </div>
+    </div>
+  </div>
+
+
+    <!-- everything has to be repeated twice because on 2016-02-01 GitHub pages migrated to jekyll 3; see bug https://github.com/jekyll/jekyll/issues/4439 -->
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+      	  document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/main.js"></script>
+    
+  
+
+
+
+
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-84758502-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+  </body>
+</html>

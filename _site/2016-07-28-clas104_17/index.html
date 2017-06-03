@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Module 21</title>
+
+  <meta name="author" content="Jonathan Tsang" />
+
+  
+
+  <link rel="alternate" type="application/rss+xml" title="Jonathan Tsang - A journey through Waterloo" href="/feed.xml" />
+
+ <!-- everything has to be repeated twice because on 2016-02-01 GitHub pages migrated to jekyll 3; see bug https://github.com/jekyll/jekyll/issues/4439 -->
+
+  
+    
+      <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
+    
+  
+  
+
+  
+    
+      <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/css/main.css" />
+    
+  
+  
+
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  <!-- Facebook OpenGraph tags -->
+  <meta property="og:title" content="Module 21" />
+  <meta property="og:type" content="website" />
+
+  
+  <meta property="og:url" content="http://jonathantsang.github.io/2016-07-28-clas104_17//" />
+  
+
+  
+  <meta property="og:image" content="" />
+  
+
+</head>
+
+
+  <body>
+
+    <!-- "navbar-custom" in nav below this to have expanding navbar like it originally had-->
+<nav class="navbar navbar-default navbar-fixed-top navbar-custom no-transition">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://jonathantsang.github.io">Jonathan Tsang</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/aboutme">About Me</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/resume">Resume</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/projects">Projects</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/blog">Blog</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/notes">Notes</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/my-story">My Story</a>
+
+          </li>
+        
+        
+        
+          <li class="navlinks-container">
+            <a class="navlinks-parent" href="javascript:void(0)">Hackthons</a>
+            <div class="navlinks-children">
+              
+                
+                  
+            
+
+
+
+
+  
+
+
+<a href="/mhacks8">MHacks8</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+  
+
+
+<a href="/th5">TerribleHacks5</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+  
+
+
+<a href="/mhacks9">Mhacks9</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+  
+
+
+<a href="/hackprinceton2017">HackPrinceton2017</a>
+
+                
+              
+            </div>
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/hobbies">Hobbies</a>
+
+          </li>
+        
+        
+      </ul>
+    </div>
+
+<!--
+	
+-->
+
+  </div>
+</nav>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">Brand</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">One more separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+
+
+    <!--
+<div class="intro-header"></div>
+-->
+<html>
+<div role="main" class="container">
+  <p>Final Exam Notes from Module 13 - 22</p>
+
+<h2 id="module-21">Module 21</h2>
+
+<h2 id="jason-and-the-argonauts">Jason and the Argonauts</h2>
+<ul>
+  <li>before the Trojan war</li>
+  <li>Jason and argonauts to retrieve golden fleece</li>
+  <li>by poet third century, Apollonius of Rhodes</li>
+  <li>parallels with myth of Odysseus’ adventures</li>
+  <li>number of Argonauts or Minyae varies, around 50</li>
+  <li>Orpheus, father of Achilles, Peleus, and Heracles make up Jason’s crew</li>
+</ul>
+
+<h2 id="phrixus">Phrixus</h2>
+<ul>
+  <li>son of mortal king Athamas and divine Nephele (cloud)</li>
+  <li>after Nephele went back to the sky, he married Ino the daughter of Cadmus</li>
+  <li>Ino tried to destroy her stepchildren</li>
+  <li>in a plot she convinces the women of Boetia to try the seed so grain does not grow</li>
+  <li>Athamas sends an envoy to Delphi to seek advice but Ino intercepts it and gives false advice that he must sacrifice Phrixus to end the plague</li>
+  <li>Athamas was willing to sacrifice his son, but Nephele snatched her children and put them on the back of a flying ram with a golden fleece, a gift from Hermes and flew toward the black sea eastward</li>
+  <li>passed over Hellespont, Helle fell into the sea and drowned</li>
+  <li>went to Colchis and sacrificed it to Colchis Aeetis</li>
+  <li>hung it on a tree in a grove of Ares guarded by a watchful serpent</li>
+</ul>
+
+<h2 id="the-journey">The Journey</h2>
+<ul>
+  <li>Iolcus, time of Athamas was ruled by his brother Cretheus</li>
+  <li>Cretheus’ son, Aeson, was the father of Jason</li>
+  <li>Cretheus’ wife, Tyro had an affair with Poseidon and Pelias took over the throne of Iolcus when Cretheus died</li>
+  <li>Jason was educated by centaur Chiron</li>
+  <li>Jason returns after 20 years to reclaim the throne, but Pelias does not want to relinquish his rule</li>
+  <li>Pelias warned of man with one sandal but an oracle, and Jason arrives in Iolcus with one sandal, while he helped a woman (Hera in disguise) across a river</li>
+  <li>Pelias hopes to kill Jason on a journey, sends him to fetch the golden fleece from Colchis</li>
+  <li>Jason calls upon all heroes of Greece who collect in Iolcus</li>
+  <li>Argo is the ship they travel in built by Argos with the help of Athena</li>
+  <li>
+    <p>Minyae are called Argonauts (nautes = sailors)</p>
+  </li>
+  <li>Hypsipyle and the Lemnian Women: island Lemnos, women of island, stay a year, Ahprodite angry at Lemnian women because they did not sacrifice to her</li>
+  <li>made all their husbands take Thracian concubines</li>
+  <li>women murdered all their husbands except king Toas</li>
+  <li>Hypsipyle hides her father in the temple of Dionysus and sends him off the island in a chest</li>
+  <li>Jason has a love affair with Hypsipyle and other Argonauts have other affairs with the women</li>
+  <li>
+    <p>Heracles, intent on the mission, convinces the Arognauts to leave the island</p>
+  </li>
+  <li>Cyzicus and Doliones: stop in Propontis encounter king Cyzicus and the Doliones</li>
+  <li>king is hospitable, Heracles helps kill the giants who lived near</li>
+  <li>
+    <p>try to leave, they are blown back to Cyzicus by winds , fight former host unknowingly, King Cyzicus is killed, and ARgonauts bury him before leaving</p>
+  </li>
+  <li>Amycus: land of Bebyces, barbaric tribe, foreigners box with king Amycus, son of Poseidon</li>
+  <li>Heracles has left at this point to look for his male lover Hylas (abducted by Nymphs)</li>
+  <li>
+    <p>Argonaut Polydeuces (son of Zeus) fights Amycus and kills him with a blow to the nose</p>
+  </li>
+  <li>Phineus and the Harpies: a blind prophet plagued by the Harpies because he revealed too much to mankind</li>
+  <li>harpies take all his food when they try to eat and leave small putrid morsels</li>
+  <li>Argonauts Zetes and Calais, winged song of north wind Boreas chase the harpies and defeat them</li>
+  <li>Phineas gives important information when passiong through Symplegades or Crashing Rocks, where they continuously crash together</li>
+  <li>pass through with the help of Athena</li>
+  <li>release a dove and if it was successful row through at full speed while the rocks moving out once again, Athena gives the ship an extra push</li>
+  <li>
+    <p>once the argonauts pass through, the rocks stand still forevermore</p>
+  </li>
+  <li>Jason and Aeetes: in Colchis, must win golden fleece, king  of Colchis Aeetes, child of sun</li>
+  <li>daughter is the famous Medea, Aeetes is an evil king who suspects Jason has come to do harm</li>
+  <li>Jason must perform a series of tasks</li>
+  <li>yoke a pair of fire-breathing bulls, till an extremely large field, sow it with teeth</li>
+  <li>teeth grow armed men he must defeat</li>
+  <li>Jason is able to do this with the help of Medea, by the will of Hera and Athena, Medea falls in love with Jason</li>
+  <li>Medea is both a young maiden and powerful sorceress as she descended from the sun</li>
+  <li>Medea agrees to help Jason defeat the bulls, and the great serpent</li>
+  <li>for the bulls, gives him a magic iontment to protect him from fire and stone to throw to make the armed men fight each other</li>
+  <li>drugs to subdue the serpent</li>
+  <li>
+    <p>Jason mistreats Medea, but abandons her for a Greek princess, Medea is powerful woman of eastern descent, non-Greek, leaves her homeland for love</p>
+  </li>
+  <li>Journey Home: stop at island of Crice, pass by sirens, protect them from Aeetes, even if they are married</li>
+  <li>perform marriage in Phaeacia after which the Colchians stop chasing them</li>
+</ul>
+
+<h2 id="arrival-home">Arrival Home</h2>
+<ul>
+  <li>Pelias still refuses to give the throne</li>
+  <li>Medea powerful witch, kills Pelias through trickery</li>
+  <li>makes Aeson, Jason’s father yougn again by cutting him up and boiling him in a cauldron and does the same for a ram</li>
+  <li>She convinces Pelias’ daughters to try the same on their father</li>
+  <li>magic only works for Medea and Pelias dies</li>
+  <li>Jason and Medea are drive to Corinth</li>
+  <li>some say Medea was the queen because Aeetes was king there before he left for Colchis</li>
+  <li>Euripides tragedy Medea focuses on the tragic affair of Jason and Medea</li>
+</ul>
+
+<h2 id="betrayal-and-murder-of-children">Betrayal and Murder of Children</h2>
+<ul>
+  <li>Euripides fifth-century BC tragedy Medea</li>
+  <li>Jason divorces Medea to marry Glauce, (also named Creusa), daughter of Creon, king of Corinth</li>
+  <li>Medea sends a poisoned robe and crown which burn both Glauce and Creon</li>
+  <li>she kills her own children in revenge against Jason</li>
+  <li>
+    <p>Medea flees to Athens and marries king Aegeus</p>
+  </li>
+  <li>early version is children killed accidentally as Medea hid them in sanctuary of Hera hoping to make them immortal, Euripides showed Medea’s horrifying intentional of killing children</li>
+  <li>it is difficult to understand how a mother could kill her own children to exact revenge</li>
+  <li>Medea is terrible wronged as well, helped Jason through love, betrayed her family, left her homeland to live as a foreigner, Jason is not presented as strong or effective, but competent</li>
+  <li>treatment of Medea questions heroism and character</li>
+  <li>Culpability and blame are not easily assigned in Euripides’ famous account of this tragic and moving affair</li>
+</ul>
+
+</div>
+</html>
+
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+          
+          <li>
+            <a href="https://github.com/jonathantsang" title="GitHub">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+		  
+		  
+          <li>
+            <a href="mailto:j26tsang@gmail.com" title="Email me">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+		  
+		  
+		  
+        </ul>
+        <p class="copyright text-muted">
+		  This site is updated by Jonathan Tsang
+		  &nbsp;&bull;&nbsp;
+		  2017
+
+		  
+		  &nbsp;&bull;&nbsp;
+		  <a href="http://jonathantsang.github.io">jonathantsang.github.io</a>
+		  
+	    </p>
+	        <!-- Please don't remove this, keep my open source work credited :) -->
+		<p class="theme-by text-muted">
+		  <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
+		</p>
+      </div>
+    </div>
+  </div>
+
+
+    <!-- everything has to be repeated twice because on 2016-02-01 GitHub pages migrated to jekyll 3; see bug https://github.com/jekyll/jekyll/issues/4439 -->
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+      	  document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/main.js"></script>
+    
+  
+
+
+
+
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-84758502-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+  </body>
+</html>

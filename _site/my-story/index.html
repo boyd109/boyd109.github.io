@@ -1,0 +1,735 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>My Story</title>
+
+  <meta name="author" content="Jonathan Tsang" />
+
+  
+
+  <link rel="alternate" type="application/rss+xml" title="Jonathan Tsang - A journey through Waterloo" href="/feed.xml" />
+
+ <!-- everything has to be repeated twice because on 2016-02-01 GitHub pages migrated to jekyll 3; see bug https://github.com/jekyll/jekyll/issues/4439 -->
+
+  
+    
+      <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
+    
+  
+  
+
+  
+    
+      <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/css/main.css" />
+    
+  
+  
+
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  <!-- Facebook OpenGraph tags -->
+  <meta property="og:title" content="My Story" />
+  <meta property="og:type" content="website" />
+
+  
+  <meta property="og:url" content="http://jonathantsang.github.io/my-story/" />
+  
+
+  
+  <meta property="og:image" content="" />
+  
+
+</head>
+
+
+  <body>
+
+    <!-- "navbar-custom" in nav below this to have expanding navbar like it originally had-->
+<nav class="navbar navbar-default navbar-fixed-top navbar-custom no-transition">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://jonathantsang.github.io">Jonathan Tsang</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/aboutme">About Me</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/resume">Resume</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/projects">Projects</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/blog">Blog</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/notes">Notes</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/my-story">My Story</a>
+
+          </li>
+        
+        
+        
+          <li class="navlinks-container">
+            <a class="navlinks-parent" href="javascript:void(0)">Hackthons</a>
+            <div class="navlinks-children">
+              
+                
+                  
+            
+
+
+
+
+  
+
+
+<a href="/mhacks8">MHacks8</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+  
+
+
+<a href="/th5">TerribleHacks5</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+  
+
+
+<a href="/mhacks9">Mhacks9</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+  
+
+
+<a href="/hackprinceton2017">HackPrinceton2017</a>
+
+                
+              
+            </div>
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/hobbies">Hobbies</a>
+
+          </li>
+        
+        
+      </ul>
+    </div>
+
+<!--
+	
+-->
+
+  </div>
+</nav>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">Brand</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">One more separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+
+
+    <!--
+<div class="intro-header"></div>
+-->
+<html>
+<div role="main" class="container">
+  <p><strong>This is still a work in progress as I article my time so far at UWaterloo. Look below to see my story going through University. I got the idea to do this from <a href="http://www.robertelder.ca/my-uw-journey/">Robert Elder’s UW Journey</a>.</strong></p>
+
+<h1 id="my-story">My Story</h1>
+
+<p>Coming out of high school I was really passionate for the sciences such as chemistry and physics. I also enjoyed business courses such as economics after taking AP Microeconomics, AP Macroeconomics, and participating in DECA. I really like Waterloo’s co-op program and I was excited to go to Waterloo in Fall 2014.</p>
+
+<p>I didn’t take any Computer Science courses in high school, and in hindsight, I should have at least tried them out while in high school, but I did take a lot of AP courses which occupied my time. (AP Math, AP Physics, AP Microeconomics, AP Macroeconomics, AP Chemistry)</p>
+
+<h2 id="fall-2014-1a">Fall 2014 (1A)</h2>
+<figure>
+  <span>
+  <img src="/my-story/pictures/1a/1.jpg" width="40%" height="40%" />
+  <figcaption>My first picture taken in my room at V1. It was taken on the iPhone 3GS. A lot of the photos I took up until Fall 2015 were taken on the iPhone 3GS.(I later got an iPhone 4S) I'm actually amazed at some of the picture I took back then and how they turned out on a pretty mediocre camera. (The phone came out in 2009, so it is about 5 years old in 2014.)</figcaption>
+  </span>
+</figure>
+
+<p>I entered the University of Waterloo Science and Business Program with a specialization in chemistry. I was interested in both facets and I was extremely excited to be a part of the program. The only time I had ever lived away from home for a prolonged period of time was for <a href="http://www.shad.ca">Shad Valley</a>, where I went to Halifax and stayed at Dalhousie University for a month. It was an amazing experience to see the East Coast of Canada. Here’s some photos from Shad Valley:</p>
+
+<div class="floating-box">
+  <img src="/my-story/pictures/1a/s1.jpg" width="32%" height="32%" />
+</div>
+<div class="floating-box">
+  <img src="/my-story/pictures/1a/s2.jpg" width="32%" height="32%" />
+</div>
+<div class="floating-box">
+  <img src="/my-story/pictures/1a/s3.jpg" width="32%" height="32%" />
+</div>
+
+<figcaption>1. Nice view from the top of somewhere we had gone for the weekend.</figcaption>
+
+<figcaption>2. We visited some smaller towns built by the rivers. It was an interesting view since I lived in Toronto.</figcaption>
+
+<figcaption>3. Had some delicious lobster while in the East Coast. I actually ate it during our bus trip to PEI, and not in Nova Scotia or New Brunswick. </figcaption>
+
+<p><br /></p>
+
+<figure>
+<div class="floating-box">
+  <img src="/my-story/pictures/1a/2-1.jpg" width="45%" height="45%" />
+</div>
+<div class="floating-box">
+  <img src="/my-story/pictures/1a/2-2.jpg" width="45%" height="45%" />
+</div>
+  <figcaption>Science Teaching Complex and Needles Hall was still under construction in 2014, and I took some pictures of it when it was still being built. Nowadays it looks pretty amazing since it is fairly new.</figcaption>
+</figure>
+
+<h2 id="winter-2015-1b">Winter 2015 (1B)</h2>
+<figure>
+  <span>
+  <img src="/my-story/pictures/1b/2.jpg" width="40%" height="40%" />
+  <figcaption>This is was taken when I was doing a titration lab.</figcaption>
+  </span>
+</figure>
+
+<p>After doing a couple labs in science, and attending my first hackathon ever (Terrible Hack 2), I was amazed at the world of possibility in Computer Science and the future of technology. I wanted to switch into Computer Science at this point.</p>
+
+<div class="floating-box">
+  <img src="/my-story/pictures/1b/4-1.jpg" width="32%" height="32%" />
+</div>
+<div class="floating-box">
+  <img src="/my-story/pictures/1b/4-2.jpg" width="32%" height="32%" />
+</div>
+<div class="floating-box">
+  <img src="/my-story/pictures/1b/4-3.jpg" width="32%" height="32%" />
+</div>
+<figcaption>The winter was pretty snowy that year. The whole campus was covered in a blanket of snow. In the picture on the far left of these three, is a scene near EIT. In the back you can barely make out two figures, one of which is the President of the University of Waterloo, Feridun Hamdullahpur. I was surprised to see him walking out in the frigid cold.</figcaption>
+
+<p><br /></p>
+
+<div class="floating-box">
+  <img src="/my-story/pictures/1b/4-4.jpg" width="32%" height="32%" />
+</div>
+<figcaption>A Christmas tree can be seen on the top of DP Library.</figcaption>
+
+<p><br /></p>
+
+<figcaption>I was amazed at the campus covered in a thick layer of snow and I tried to take as many photos of it as possible. Here are some of the photos that I took during the term.</figcaption>
+<div class="floating-box">
+  <img src="/my-story/pictures/1b/5-1.jpg" width="32%" height="32%" />
+</div>
+<div class="floating-box">
+  <img src="/my-story/pictures/1b/5-2.jpg" width="32%" height="32%" />
+</div>
+<div class="floating-box">
+  <img src="/my-story/pictures/1b/5-3.jpg" width="32%" height="32%" />
+</div>
+<figcaption>Near the Tatham Centre and Hagey Hall.</figcaption>
+
+<p><br /></p>
+
+<div class="floating-box">
+  <img src="/my-story/pictures/1b/5-4.jpg" width="32%" height="32%" />
+</div>
+<div class="floating-box">
+  <img src="/my-story/pictures/1b/5-5.jpg" width="32%" height="32%" />
+</div>
+<div class="floating-box">
+  <img src="/my-story/pictures/1b/5-6.jpg" width="32%" height="32%" />
+</div>
+<figcaption>Beside DC and MC.</figcaption>
+
+<p><br /></p>
+
+<div class="floating-box">
+  <img src="/my-story/pictures/1b/5-7.jpg" width="32%" height="32%" />
+</div>
+<div class="floating-box">
+  <img src="/my-story/pictures/1b/5-8.jpg" width="32%" height="32%" />
+</div>
+<div class="floating-box">
+  <img src="/my-story/pictures/1b/5-9.jpg" width="32%" height="32%" />
+</div>
+<figcaption>Views of DP Library and V1 Green.</figcaption>
+
+<p><br /></p>
+
+<div class="floating-box">
+  <img src="/my-story/pictures/1b/6-1.jpg" width="32%" height="32%" />
+</div>
+<div class="floating-box">
+  <img src="/my-story/pictures/1b/6-2.jpg" width="32%" height="32%" />
+</div>
+<div class="floating-box">
+  <img src="/my-story/pictures/1b/6-3.jpg" width="32%" height="32%" />
+</div>
+<figcaption>The Science Teaching Complex and Needles Hall Expansion was still being built at the time. Here are a couple pictures of the contruction, the parking lot at night near PAC, and QNC at night.</figcaption>
+
+<p><br /></p>
+
+<figure>
+  <span>
+  <img src="/my-story/pictures/1b/3.jpg" width="40%" height="40%" />
+  <figcaption>I also participated in Model UN, and got "Best Delegate" at their first in-house committee. I really enjoyed DECA and Model UN in high school, and I continued to participate in those clubs in university. I went to UTMUN, a University of Toronto run Model UN event in Winter 2015 as well.</figcaption>
+  </span>
+</figure>
+
+<h2 id="spring-2015-break">Spring 2015 (break)</h2>
+
+<p><img src="/my-story/pictures/break/amiiboplace.png" width="20%" height="20%" /></p>
+
+<p>I spent the summer working with HTML, CSS, and Bootstrap. I worked with my friend on a website called <a href="http://amiiboplace.com/">Amiiboplace.com</a>, originally to be used for trading and selling amiibos. I decided to use a Wordpress CMS on the website, and I now use it to write and post Smash Bros related news.</p>
+
+<h2 id="fall-2015-2a">Fall 2015 (2A)</h2>
+
+<figure>
+  <span>
+  <img src="/my-story/pictures/2a/7-1.jpg" width="30%" height="30%" />
+  <figcaption>I was a Science Orientation Leader in Fall 2015. It was great since I got to help a lot of incoming first-years by answering questions, showing them around, and making them feel welcome to the UW community.</figcaption>
+  </span>
+</figure>
+
+<p><br /></p>
+
+<figure>
+<div class="floating-box">
+  <img src="/my-story/pictures/2a/8-1.jpg" width="32%" height="32%" />
+</div>
+<div class="floating-box">
+  <img src="/my-story/pictures/2a/8-2.jpg" width="32%" height="32%" />
+</div>
+<div class="floating-box">
+  <img src="/my-story/pictures/2a/16.jpg" width="32%" height="32%" />
+</div>
+  <figcaption>I attended Terrible Hack 2, my first hackathon, and I was in awe from the projects people created. My friend and I didn't make anything too spectacular, but I was motivated to learn and create things on my own. At the time I didn't know a lot of the people presenting, but I would eventually meet some of them at the Velocity Residence in Spring 2016 and become good friends.</figcaption>
+</figure>
+
+<p><br /></p>
+
+<figure>
+  <span>
+  <img src="/my-story/pictures/2a/9-1.jpg" width="40%" height="40%" />
+  <figcaption>I also was a part of the first ever Model UN in Waterloo called UWaterloo Model G20 as a assistant director of the committee.</figcaption>
+  </span>
+</figure>
+
+<p>I planned to switch into Computer Science. (The switch would take almost a year since I needed CS 116 and CS 136 and meet certain mark requirements) I met with advisors, and embarked on a long journey to transfer faculties and programs. At the time I was unsure of switching, but when brought with the choice of safety, but chemistry labs I didn’t like, or uncertainty, but doing something I enjoyed, I decided to switch programs.</p>
+
+<h2 id="winter-2016-work-term-1">Winter 2016 (Work Term 1)</h2>
+
+<figure>
+  <span>
+  <img src="/my-story/pictures/wt1/intrafinity.jpg" width="20%" height="20%" />
+  </span>
+</figure>
+
+<p>I had a co-op placement at Intrafinity (also called School Messenger since they were recently bought over by the West Corporation). While there, I migrated content from school websites. I also worked on some Javascript and regular expressions. I studied Python 3.0 on my own time, looking at the iterative structures. I was really happy that I worked there because I met a lot of amazing co-ops and workers and it really exposed me to the working nature outside of the University academic terms. I made a lot of good friends at the co-op, which I normally wouldn’t have since they were in a diverse range of faculties and programs. Now we hang out or study on campus and I’m happy that the co-op experience allowed for me to meet people I normally wouldn’t have.</p>
+
+<figure>
+  <span>
+  <img src="/my-story/pictures/wt1/10-1.jpg" width="40%" height="40%" />
+  <figcaption>While in Toronto, I was about to go to Smash at York and play in the tournament for fun. I didn't win my matches, but I met some cool people, and some people that eventually went to the University of Waterloo.</figcaption>
+  </span>
+</figure>
+
+<h2 id="spring-2016-2b">Spring 2016 (2B)</h2>
+
+<p>I arrived back for an academic term in the spring. I took CLAS 104, CS 116, Math 135, and Stat 230. I loved CS 116 and the logical application of solving questions using Python. Although Math 135’s math proofs were a bit rocky I ended up doing pretty well in the course and by the end I enjoyed the content overall. (Mod and complex-numbers and n-th roots were my favourite concepts taught in the course)</p>
+
+<div class="floating-box">
+  <img src="/my-story/pictures/2b/11-1.jpg" width="32%" height="32%" />
+</div>
+<div class="floating-box">
+  <img src="/my-story/pictures/2b/11-2.jpg" width="32%" height="32%" />
+</div>
+<div class="floating-box">
+  <img src="/my-story/pictures/2b/11-3.jpg" width="34%" height="34%" />
+</div>
+
+<figcaption>I stayed at the Velocity Residence this term. The events were awesome there, and I recommend anyone even slightly interested in entrepreneurship to stay for a term and see if it is right for them. The dinner events where we could talk to start-ups and other speakers was my favourite part of the residence. I really hope I can stay there for more terms in the future. (As of Fall 2016) </figcaption>
+<figcaption>The first photo is my velocity sweater I got for staying in the residence. The middle one is a picture of the Communitech sign when I went to their office for a big Velocity dinner, and the last one is a mural of the Google logo, since Communitech moved into Google's old building a lot of paintings were left there.</figcaption>
+
+<p><br /></p>
+
+<figure>
+  <span>
+  <img src="/my-story/pictures/2b/11-4.jpg" width="40%" height="40%" />
+  <figcaption>This is what it looks like inside of the Communitech office.</figcaption>
+  </span>
+</figure>
+
+<p><br /></p>
+
+<figure>
+  <span>
+  <img src="/my-story/pictures/2b/11-5.jpg" width="40%" height="40%" />
+  <figcaption>I also attended Eng-Hack and worked in a team with some of my friends. We worked on a chatbot that gave Google Maps directions when you put in a location.</figcaption>
+  </span>
+</figure>
+
+<h2 id="fall-2016-2b">Fall 2016 (2B)</h2>
+
+<p>I switched my co-op stream around, so I was supposed to be on co-op during this term, but I wanted to take CS 136 and get into the CS program. I took Math 136, Stat 231, CS 136, ENGL 109, and Music 100. It is a little heftier of a term since it has 5 courses instead of 4 courses last term, but overall  a manageable courseload.</p>
+
+<figure>
+  <span>
+  <img src="/my-story/pictures/2b/12-1.jpg" width="40%" height="40%" />
+  <figcaption>I went to UWP Hacks and I appeared in one of their photos. I didn't have much time to make a project since I was volunteering for Hack the North 2016, but I did follow some Unity tutorials to make a simple game.</figcaption>
+  </span>
+</figure>
+
+<h2 id="mhacks8">MHacks8</h2>
+<p><img src="/my-story/pictures/2b/13-1.jpg" width="20%" height="20%" />
+<br />
+I had a TON of pictures so here they are: <a href="/mhacks8/">Link</a><br />
+(I have now a dedicated tab for Hackathon photos that way the load times on this page don’t get too massive.)  </p>
+
+<p>This was my first experience outside of the country for a hackathon. It took place at Detroit, Michigan at the Masonic Temple. I walked in with a view of Hack the North, but got a different style of hackathon. The venue was a bit run down, but the interaction from people from University of Michigan and other universities was amazing.</p>
+
+<h2 id="terriblehacks5">TerribleHacks5</h2>
+<p><img src="/my-story/pictures/2b/14-1.jpg" width="40%" height="40%" />
+<br />
+The parody hackathon.
+I compiled photos from the event here: <a href="/th5/">Link</a>  </p>
+
+<h2 id="local-hack-day">Local Hack Day</h2>
+<p><img src="/my-story/pictures/2b/15.png" width="40%" height="40%" />
+<br />
+I also participated in the University of Waterloo Local Hack Day.
+<br /></p>
+
+<h2 id="winter-2017-work-term-2">Winter 2017 (Work Term 2)</h2>
+<p><img src="/my-story/pictures/wt2/surfeasy.png" width="40%" height="40%" />
+<br />
+I worked at SurfEasy VPN as a QA Analyst. It is an awesome startup with great culture and talented individuals that believe in their product quality first and foremost. I learned about the development cycle of software in a real work setting, worked in a tight knit team on logging and investigating bugs, and coded some of the iOS mobile automation tests during my time there.</p>
+
+<p>It grew in size, got a new office, and expanded their product line, so the company was doing amazingly well, and I was happy to be able to make a meaningful impact to the company during a time of high growth.</p>
+
+<h2 id="hackathons-and-hackathons">Hackathons and Hackathons</h2>
+<p>I tried to code as much as I could during the term and go to as many hackathons as I could.
+<img src="/my-story/pictures/wt2/uofthacks.png" width="40%" height="40%" />
+<img src="/my-story/pictures/wt2/qhacks.png" width="40%" height="40%" />
+<br />
+<img src="/my-story/pictures/wt2/mhacks9.png" width="40%" height="40%" />
+<img src="/my-story/pictures/wt2/hackprinceton.png" width="40%" height="40%" />
+<br /></p>
+
+<p>There were way too many photos, and it was an amazing experience. Mhacks and hackPrinceton were amazing hackathons in the US, and I highly recommend them to anyone. I actually didn’t even get accept to HackPrinceton, but I still decided to try to get on the bus to try and work on programming as much as I could, and see Princeton University. I went and luckily they let me in. From that point onwards, I think after HackPrinceton, I truly understood my love for hackathons and creating ideas/projects/solutions through coding.</p>
+
+<p>Small summary of photos from UofTHacks, QHacks, MHacks9, and HackPrinceton:<br />
+<img src="/my-story/pictures/wt2/1.png" width="40%" height="40%" />
+<img src="/my-story/pictures/wt2/2.png" width="40%" height="40%" />
+<br />
+<img src="/my-story/pictures/wt2/3.png" width="40%" height="40%" />
+<img src="/my-story/pictures/wt2/4.png" width="40%" height="40%" />
+<br />
+<img src="/my-story/pictures/wt2/5.png" width="40%" height="40%" />
+<img src="/my-story/pictures/wt2/6.png" width="40%" height="40%" />
+<br />
+<img src="/my-story/pictures/wt2/7.png" width="40%" height="40%" />
+<img src="/my-story/pictures/wt2/8.png" width="40%" height="40%" />
+<br /></p>
+
+<p><strong>UPDATE: I uploaded separate pages for MHacks9 and HackPrinceton2017. Check it out here:</strong>
+<a href="/mhacks9/">MHacks9</a>
+<a href="/hackprinceton2017/">HackPrinceton2017</a></p>
+
+<h2 id="spring-2017-present">Spring 2017 (Present)</h2>
+
+<p>Back in school after a refreshing co-op experience. Unfortunately there aren’t many hackathons happening around spring (what normal people call summertime). That being said this term I’m planning on focusing on learning NodeJs and some more web development tools for backend dev. I’ve done mostly QA co-op jobs and I’d like to also try out some dev jobs to compare and contrast the two.</p>
+
+<h2 id="future">Future</h2>
+
+<p>Keep pushing forward.</p>
+
+</div>
+</html>
+
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+          
+          <li>
+            <a href="https://github.com/jonathantsang" title="GitHub">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+		  
+		  
+          <li>
+            <a href="mailto:j26tsang@gmail.com" title="Email me">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+		  
+		  
+		  
+        </ul>
+        <p class="copyright text-muted">
+		  This site is updated by Jonathan Tsang
+		  &nbsp;&bull;&nbsp;
+		  2017
+
+		  
+		  &nbsp;&bull;&nbsp;
+		  <a href="http://jonathantsang.github.io">jonathantsang.github.io</a>
+		  
+	    </p>
+	        <!-- Please don't remove this, keep my open source work credited :) -->
+		<p class="theme-by text-muted">
+		  <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
+		</p>
+      </div>
+    </div>
+  </div>
+
+
+    <!-- everything has to be repeated twice because on 2016-02-01 GitHub pages migrated to jekyll 3; see bug https://github.com/jekyll/jekyll/issues/4439 -->
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+      	  document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/main.js"></script>
+    
+  
+
+
+
+
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-84758502-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+  </body>
+</html>

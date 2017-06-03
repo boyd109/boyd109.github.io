@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Apollo and Artemis</title>
+
+  <meta name="author" content="Jonathan Tsang" />
+
+  
+
+  <link rel="alternate" type="application/rss+xml" title="Jonathan Tsang - A journey through Waterloo" href="/feed.xml" />
+
+ <!-- everything has to be repeated twice because on 2016-02-01 GitHub pages migrated to jekyll 3; see bug https://github.com/jekyll/jekyll/issues/4439 -->
+
+  
+    
+      <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
+    
+  
+  
+
+  
+    
+      <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/css/main.css" />
+    
+  
+  
+
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  <!-- Facebook OpenGraph tags -->
+  <meta property="og:title" content="Apollo and Artemis" />
+  <meta property="og:type" content="website" />
+
+  
+  <meta property="og:url" content="http://jonathantsang.github.io/2016-05-18-clas104_3//" />
+  
+
+  
+  <meta property="og:image" content="" />
+  
+
+</head>
+
+
+  <body>
+
+    <!-- "navbar-custom" in nav below this to have expanding navbar like it originally had-->
+<nav class="navbar navbar-default navbar-fixed-top navbar-custom no-transition">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://jonathantsang.github.io">Jonathan Tsang</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/aboutme">About Me</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/resume">Resume</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/projects">Projects</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/blog">Blog</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/notes">Notes</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/my-story">My Story</a>
+
+          </li>
+        
+        
+        
+          <li class="navlinks-container">
+            <a class="navlinks-parent" href="javascript:void(0)">Hackthons</a>
+            <div class="navlinks-children">
+              
+                
+                  
+            
+
+
+
+
+  
+
+
+<a href="/mhacks8">MHacks8</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+  
+
+
+<a href="/th5">TerribleHacks5</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+  
+
+
+<a href="/mhacks9">Mhacks9</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+  
+
+
+<a href="/hackprinceton2017">HackPrinceton2017</a>
+
+                
+              
+            </div>
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+  
+
+
+<a href="/hobbies">Hobbies</a>
+
+          </li>
+        
+        
+      </ul>
+    </div>
+
+<!--
+	
+-->
+
+  </div>
+</nav>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">Brand</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">One more separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+
+
+    <!--
+<div class="intro-header"></div>
+-->
+<html>
+<div role="main" class="container">
+  <p>CLAS 104 Rough Notes</p>
+
+<p>Module 5 and 6</p>
+
+<p>Pg. 251-284 and 227-250</p>
+
+<h1 id="apollo-pg-251-284">Apollo Pg. 251-284</h1>
+
+<h2 id="birth-of-apollo">Birth of Apollo</h2>
+
+<ul>
+  <li>Zeus mated with Leto and conceived the twin gods Artemis and Apollo  </li>
+  <li>chorus of maidens the <strong>Deliades</strong></li>
+  <li>island of Delos was sacred to Apollo  </li>
+  <li>Anius son of Apollo</li>
+  <li>Anius had three daughters, Elais (Olive Girl), Spermo (Seed Girl), Oeno (Wine Girl)</li>
+</ul>
+
+<h2 id="other-loves-of-apollo">Other Loves of Apollo</h2>
+<ul>
+  <li>Apollo and Cassandra (daughter of Priam)</li>
+  <li>Apollo and Marpessa (daughter of Evenus, a son of Ares)</li>
+  <li>Apollo and Cyrene (bore a son named Aristaeus, Cyrene wrestled a lion)</li>
+  <li>Apollo and Daphne (Daphne means ‘laurel’ and explains why it is sacred to him)</li>
+  <li>Apollo and Hyacinthus (young man)</li>
+  <li>Apollo and Cyparissus (Cyparissus killed his stag by accident)</li>
+  <li>Apollo and Coronis (role as god of medicine, son was Asclepius)</li>
+</ul>
+
+<h2 id="asclepius-the-god-of-healing">Asclepius, the god of healing</h2>
+<ul>
+  <li>staff of Asclepius was a single serpent entwined</li>
+  <li>heroic physician</li>
+  <li>two songs Machaon and Podalirius</li>
+  <li>chief method of healing was incubation (sleeping in a holy place)</li>
+  <li>surgical operations were magically performed on sleeping patients and after the vision of god, snakes would move freely among patients providing healing by licking them</li>
+  <li>Hippocrates, a great physician from 5th century BC founded a medical school in Cos</li>
+  <li>Asclepius restored Hippolytus to life and incurred Zeus’s wrath where he was hurled into the lower world for disruption</li>
+</ul>
+
+<h4 id="apollo-music-contest-with-marsyas-and-pan">Apollo Music Contest with Marsyas and Pan</h4>
+
+<h2 id="the-nature-of-apollo">The Nature of Apollo</h2>
+<ul>
+  <li>many and complex</li>
+  <li>contradiction to tragic dilemma of human existence</li>
+</ul>
+
+<h1 id="artemis-pg-227-250">Artemis Pg. 227-250</h1>
+
+<h2 id="birth-of-artemis-and-apollo">Birth of Artemis and Apollo</h2>
+<ul>
+  <li>Leto mated with Zeus</li>
+  <li>Artemis is born first and helps deliver Apollo</li>
+  <li>one of Artemis’s functions as a goddess is childbirth</li>
+</ul>
+
+<h2 id="acteon">Acteon</h2>
+<ul>
+  <li>a hunter who lost his way and had the misfortune of seeing Artemis naked</li>
+</ul>
+
+<h2 id="callisto-and-arcas">Callisto and Arcas</h2>
+<ul>
+  <li>Callisto because the <strong>Great Bear or Ursa Major</strong> and Arcas became <strong>Little Bear or Ursa Minor</strong></li>
+</ul>
+
+<h2 id="orion">Orion</h2>
+<ul>
+  <li>tried to rape Artemis</li>
+  <li>hunter gets stung to death by Artemis’s scorpion</li>
+  <li>Orion becomes a dog, <strong>Sirius or Dog Star</strong></li>
+</ul>
+
+<h2 id="arethusa">Arethusa</h2>
+<ul>
+  <li>nymph, a follower of Artemis</li>
+</ul>
+
+<h2 id="origins-of-artemis">Origins of Artemis</h2>
+<ul>
+  <li>virgin goddess</li>
+</ul>
+
+<h2 id="artemis-selene-hecate">Artemis, Selene, Hecate</h2>
+<ul>
+  <li>as a moon goddess, Artemis is sometimes closely related to Selene or Hecate</li>
+  <li>Hecate is a cousin of Artemis</li>
+  <li>Selene in heaven, Artemis on Earth, hecate in the realm of Hades</li>
+  <li>offerings (known as <strong>Hecate’s suppers</strong>)
+ were left to placate Hecate</li>
+</ul>
+
+<h2 id="artemis-vs-aphrodite">Artemis vs. Aphrodite</h2>
+<ul>
+  <li>Aphrodite is enraged</li>
+  <li>Hippolytus will have nothing to do with Aphrodite</li>
+  <li>Phaedra the second wife of Theseus, father of Hippolytus</li>
+  <li>Phaedra commits suicide after having thoughts of love with her stepson</li>
+</ul>
+
+<h2 id="extra-tips">Extra Tips:</h2>
+<p>Pytho: “I rot”
+Niobe: her children are killed by Artemis and Apollo. The youngest girl is shielded by Niobe and Niobe is turned to stone.</p>
+
+</div>
+</html>
+
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+          
+          <li>
+            <a href="https://github.com/jonathantsang" title="GitHub">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+		  
+		  
+          <li>
+            <a href="mailto:j26tsang@gmail.com" title="Email me">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+		  
+		  
+		  
+        </ul>
+        <p class="copyright text-muted">
+		  This site is updated by Jonathan Tsang
+		  &nbsp;&bull;&nbsp;
+		  2017
+
+		  
+		  &nbsp;&bull;&nbsp;
+		  <a href="http://jonathantsang.github.io">jonathantsang.github.io</a>
+		  
+	    </p>
+	        <!-- Please don't remove this, keep my open source work credited :) -->
+		<p class="theme-by text-muted">
+		  <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
+		</p>
+      </div>
+    </div>
+  </div>
+
+
+    <!-- everything has to be repeated twice because on 2016-02-01 GitHub pages migrated to jekyll 3; see bug https://github.com/jekyll/jekyll/issues/4439 -->
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+      	  document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/main.js"></script>
+    
+  
+
+
+
+
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-84758502-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+  </body>
+</html>
