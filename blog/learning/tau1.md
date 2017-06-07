@@ -84,7 +84,7 @@ This is fairly petty if you have real world experience or side projects, but whe
 
 Within tech there is a pseudo hierarchy for co-op positions, ranging in the amount of coding done in the job.
 
-Engineer \> Developer \> QA \> IT \> Non-technical
+Engineer better than Developer better than QA better than IT better than Non-technical
 
 The most coding is usually done in engineer and least is IT and non-technical jobs. It is arguable that finding a non-technical job is harder than getting an IT or QA position. It is also usually the most difficult to get an engineer or Developer position because they ask a coding question, compared to QA or IT which are usually behavioural questions.
 
