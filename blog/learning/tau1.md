@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Things about university Co-op
+title: Things about university Co-op Streams
 permalink: /tau1/
 category: learning
 tag: learning
@@ -51,10 +51,10 @@ I tried to simplify it as best as I could, here is a [full link](https://uwaterl
 
 For most faculties it differs, engineers have these streams, and math it has some of them, but under different names.  
 Math:  
-<img height="50%" width="50%" src="/notes/learning/images/1/streams.png">
+![eng](/blog/learning/images/1/streams.png)
 
 Engineering:  
-<img height="50%" width="50%" src="/notes/learning/images/1/engineering.png">
+![eng](/blog/learning/images/1/engineering.png)
 
 4, 8, 12, and 16 stream are possible options for co-op. That being said, I think 12 stream is by far the best, then 8 and then 4 and 16. The problem is that a lot of people struggle to find a good first co-op. I did, and in the long run, every co-op counts and builds a foundation for getting the next one.
 
