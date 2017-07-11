@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Things about university Coursework and Marks
+title: Coursework and marks
 permalink: /tau2/
 category: learning
 tag: learning

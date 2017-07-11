@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Things about university Side Projects?
+title: Side projects?
 permalink: /tau3/
 category: learning
 tag: learning

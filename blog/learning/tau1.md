@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Things about university Co-op Streams
+title: Co-op streams
 permalink: /tau1/
 category: learning
 tag: learning
