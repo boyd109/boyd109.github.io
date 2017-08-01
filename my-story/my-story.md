@@ -146,7 +146,7 @@ After doing a couple labs in science, and attending my first hackathon ever (Ter
 
 <img src="/my-story/pictures/break/amiiboplace.png" width="20%" height="20%">
 
-I spent the summer working with HTML, CSS, and Bootstrap. I worked with my friend on a website called [Amiiboplace.com](http://amiiboplace.com/), originally to be used for trading and selling amiibos. I decided to use a Wordpress CMS on the website, and I now use it to write and post Smash Bros related news.
+I spent the summer working with HTML, CSS, and Bootstrap. I worked with my friend on a website called [Amiiboplace.com](#), originally to be used for trading and selling amiibos. I decided to use a Wordpress CMS on the website, and I now use it to write and post Smash Bros related news.
 
 ## Fall 2015 (2A)
 
@@ -169,7 +169,7 @@ I spent the summer working with HTML, CSS, and Bootstrap. I worked with my frien
 <div class="floating-box">
   <img src="/my-story/pictures/2a/16.jpg" width="32%" height="32%">
 </div>
-  <figcaption>I attended Terrible Hack 2, my first hackathon, and I was in awe from the projects people created. My friend and I didn't make anything too spectacular, but I was motivated to learn and create things on my own. At the time I didn't know a lot of the people presenting, but I would eventually meet some of them at the Velocity Residence in Spring 2016 and become good friends.</figcaption>
+  <figcaption>I attended Terrible Hack 2, my first hackathon, and I was in awe from the projects people created. My friend and I didn't make anything too spectacular, but I was motivated to learn and create things on my own. At the time I didn't know a lot of the people presenting. I would eventually meet some of them at the Velocity Residence in Spring 2016 and become good friends.</figcaption>
 </figure>
 
 <br>
@@ -181,7 +181,7 @@ I spent the summer working with HTML, CSS, and Bootstrap. I worked with my frien
   </span>
 </figure>
 
-I planned to switch into Computer Science. (The switch would take almost a year since I needed CS 116 and CS 136 and meet certain mark requirements) I met with advisors, and embarked on a long journey to transfer faculties and programs. At the time I was unsure of switching, but when brought with the choice of safety, but chemistry labs I didn't like, or uncertainty, but doing something I enjoyed, I decided to switch programs.
+I planned to switch into Computer Science (The switch would take almost a year since I needed CS 116 and CS 136 and meet certain mark requirements) I met with advisors, and embarked on a long journey to transfer faculties and programs. At the time I was unsure of switching, and I needed to decide between staying in chemistry, and going to CS. I decided to switch programs in the end.
 
 ## Winter 2016 (Work Term 1)
 
@@ -191,7 +191,7 @@ I planned to switch into Computer Science. (The switch would take almost a year 
   </span>
 </figure>
 
-I had a co-op placement at Intrafinity (also called School Messenger since they were recently bought over by the West Corporation). While there, I migrated content from school websites. I also worked on some Javascript and regular expressions. I studied Python 3.0 on my own time, looking at the iterative structures. I was really happy that I worked there because I met a lot of amazing co-ops and workers and it really exposed me to the working nature outside of the University academic terms. I made a lot of good friends at the co-op, which I normally wouldn't have since they were in a diverse range of faculties and programs. Now we hang out or study on campus and I'm happy that the co-op experience allowed for me to meet people I normally wouldn't have.
+I had a co-op placement at Intrafinity (also called School Messenger since they were recently bought over by the West Corporation). While there, I migrated content from school websites. I also worked on some Javascript and regular expressions. I studied Python 3.0 on my own time. I was really happy that I worked there because I met a lot of amazing co-ops and workers and it really exposed me to the working nature outside of the University academic terms. I made a lot of good friends at the co-op, which I normally wouldn't have since they were in a diverse range of faculties and programs. Now we hang out or study on campus and I'm happy that the co-op experience allowed for me to meet people I normally wouldn't have.
 
 <figure>
   <span>
