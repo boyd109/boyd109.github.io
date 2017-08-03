@@ -148,6 +148,8 @@ After doing a couple labs in science, and attending my first hackathon ever (Ter
 
 I spent the summer working with HTML, CSS, and Bootstrap. I worked with my friend on a website called [Amiiboplace.com](#), originally to be used for trading and selling amiibos. I decided to use a Wordpress CMS on the website, and I now use it to write and post Smash Bros related news.
 
+**Updated:** Amiiboplace is dead. I don't play melee that often, so I didn't keep it updated much.
+
 ## Fall 2015 (2A)
 
 <figure>
@@ -191,12 +193,12 @@ I planned to switch into Computer Science (The switch would take almost a year s
   </span>
 </figure>
 
-I had a co-op placement at Intrafinity (also called School Messenger since they were recently bought over by the West Corporation). While there, I migrated content from school websites. I also worked on some Javascript and regular expressions. I studied Python 3.0 on my own time. I was really happy that I worked there because I met a lot of amazing co-ops and workers and it really exposed me to the working nature outside of the University academic terms. I made a lot of good friends at the co-op, which I normally wouldn't have since they were in a diverse range of faculties and programs. Now we hang out or study on campus and I'm happy that the co-op experience allowed for me to meet people I normally wouldn't have.
+I had a co-op placement at Intrafinity (also called School Messenger since they were recently bought over by the West Corporation). While there, I migrated content from school websites. I also worked on some Javascript and regular expressions. I studied Python 3.0 on my own time. I was really happy that I worked there because I met a lot of amazing co-ops and workers and it really exposed me to the working nature outside of the University academic terms. I made a lot of good friends during the co-op, which I normally wouldn't have since they were from a variety of faculties and programs. Now we hang out or study on campus and I'm happy that the co-op experience allowed for me to meet people I normally wouldn't have.
 
 <figure>
   <span>
   <img src="/my-story/pictures/wt1/10-1.jpg" width="40%" height="40%">
-  <figcaption>While in Toronto, I was about to go to Smash at York and play in the tournament for fun. I didn't win my matches, but I met some cool people, and some people that eventually went to the University of Waterloo.</figcaption>
+  <figcaption>While in Toronto, I went to "Smash at York" and played in the tournament for fun. I didn't win my matches, but I met some cool people, and some people that eventually went to the University of Waterloo.</figcaption>
   </span>
 </figure>
 
@@ -250,7 +252,7 @@ I switched my co-op stream around, so I was supposed to be on co-op during this 
 <img src="/my-story/pictures/2b/13-1.jpg" width="20%" height="20%">
 <br>
 I had a TON of pictures so here they are: [Link](/mhacks8/)  
-(I have now a dedicated tab for Hackathon photos that way the load times on this page don't get too massive.)  
+(I now have a dedicated tab for Hackathon photos so the load times on this page don't get too massive.)  
 
 This was my first experience outside of the country for a hackathon. It took place at Detroit, Michigan at the Masonic Temple. I walked in with a view of Hack the North, but got a different style of hackathon. The venue was a bit run down, but the interaction from people from University of Michigan and other universities was amazing.
 
@@ -305,6 +307,12 @@ Small summary of photos from UofTHacks, QHacks, MHacks9, and HackPrinceton:
 ## Spring 2017 (Present)
 
 Back in school after a refreshing co-op experience. Unfortunately there aren't many hackathons happening around spring (what normal people call summertime). That being said this term I'm planning on focusing on learning NodeJs and some more web development tools for backend dev. I've done mostly QA co-op jobs and I'd like to also try out some dev jobs to compare and contrast the two.
+
+I took cs245, cs246, cs251, math239, spcom223. This is probably the hardest term when measuring the difficulty from the courses. I walked in expecting cs246 and math239 to be very difficult based on what people had told me beforehand. Up until this point I enjoyed every cs course I had done (which were cs116 and cs136. I did cs115 in 2014 so it is hard to exactly remember if I loved it). The term was a nice challenge for me, and I realized it will only get harder from here on out.
+
+## Fall 2017
+
+Courses I took were cs240, cs241, cs370, and co341
 
 ## Future
 
