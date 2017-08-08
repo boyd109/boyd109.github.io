@@ -30,6 +30,7 @@ navbar-links:
   Blog: "blog"
   Notes: "notes"
   My Story: "my-story"
+  Bucket List: "bucket-list"
   Hackthons:
     - MHacks8: "mhacks8"
     - TerribleHacks5: "th5"
