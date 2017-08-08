@@ -259,7 +259,7 @@ This was my first experience outside of the country for a hackathon. It took pla
 ## TerribleHacks5
 <img src="/my-story/pictures/2b/14-1.jpg" width="40%" height="40%">
 <br>
-The parody hackathon.
+The parody hackathon. I learned how to use Unity here.
 I compiled photos from the event here: [Link](/th5/)  
 
 ## Local Hack Day
@@ -310,9 +310,13 @@ Back in school after a refreshing co-op experience. Unfortunately there aren't m
 
 I took cs245, cs246, cs251, math239, spcom223. This is probably the hardest term when measuring the difficulty from the courses. I walked in expecting cs246 and math239 to be very difficult based on what people had told me beforehand. Up until this point I enjoyed every cs course I had done (which were cs116 and cs136. I did cs115 in 2014 so it is hard to exactly remember if I loved it). The term was a nice challenge for me, and I realized it will only get harder from here on out.
 
-## Fall 2017
+cs246: I would describe it as difficult as what people say it is.
 
-Courses I took were cs240, cs241, cs370, and co341
+math239: Interesting introduction to combinatorics.
+
+## Fall 2017 (Present)
+
+Courses I am taking are cs240, cs241, cs00370, and co341
 
 ## Future
 
