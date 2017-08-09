@@ -1,10 +1,10 @@
 ---
-title: My Story
+title: Bucket List
 layout: default
 permalink: /bucket-list/
 ---
 
-Inspired from [http://dzed.me/dreamlist.html](Dadi's Bucket List)
+Inspired from [Dadi's Bucket List](http://dzed.me/dreamlist.html)
 
 
 ## Bucket list
@@ -13,13 +13,11 @@ Inspired from [http://dzed.me/dreamlist.html](Dadi's Bucket List)
 Coding:
 - Win a hackathon
 - Get a developer job
-- Go to California
--
-- 
+- Get a co-op in California
+- Publish a game to Steam
 
 Hackathons:
 - Hack the North
 - HackMIT
-- </del> HackPrinceton </del> March 31 - April 2, 2017
+- ---HackPrinceton--- - April 2, 2017
 - HackHarvard
--
