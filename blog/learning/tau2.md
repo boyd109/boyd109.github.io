@@ -19,7 +19,7 @@ Even in the future, co-op employers value marks. I'm a firm believer in side pro
 
 Those are the main three, and I used to think (side projects, side projects, side projects)
 
-<![side projects](/blog/learning/images/2/sp.png)
+![side projects](/blog/learning/images/2/sp.png)
 
 There's a few reasons why I think that marks are not necessarily a good indicator of a person's intelligence or coding ability in general.
 
