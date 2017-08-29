@@ -9,10 +9,10 @@ date: 28/8/2017
 
 Switching into CS was by no means a quick or easy process. It took me almost two years from the inception that I wanted to switch into it back in Fall 2015 and it was official on my Quest transcript in Spring 2017. I switched into Computer Science before the new guidelines take effect in Fall 2017. In the past it was quoted that it was fairly simple to switch in  [source](https://www.reddit.com/r/uwaterloo/comments/61aso0/what_the_hell_is_going_on_with_upper_year_cs/). So here's some information on why I switched and what I did to switch into CS.
 
-Helpful links:
-[Trying to transfer?](https://cs.uwaterloo.ca/future-undergraduate-students/applying-admissions/transfer-students)
+Helpful links:  
+[Trying to transfer?](https://cs.uwaterloo.ca/future-undergraduate-students/applying-admissions/transfer-students)  
 
-[Internal Transfer Procedures](https://uwaterloo.ca/math/current-undergraduates/regulations-and-procedures/internal-transfers)
+[Internal Transfer Procedures](https://uwaterloo.ca/math/current-undergraduates/regulations-and-procedures/internal-transfers)  
 
 I didn't actually go into university with the plan to switch into computer science, since I joined as a "Science and Business" student in the science faculty, and I had never taken computer science in high school.
 
