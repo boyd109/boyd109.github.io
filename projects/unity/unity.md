@@ -12,7 +12,8 @@ I had some experience previously making simple games in GameMaker in middle scho
 
 <h2>Microtransaction Simulator
   <a href= "https://github.com/jonathantsang/Micro-Simulator"></h2>
-    <img src="/pictures/gcat.png" width="13%" height="13%"></a></h2><a href="http://store.steampowered.com/app/689090/Microtransaction_Simulator/"><img src="/projects/unity/pictures/steam_logo.png" width="40%"></a>
+    <img src="/pictures/gcat.png" width="13%" height="13%"></a></h2><a href="http://store.steampowered.com/app/689090/Microtransaction_Simulator/"><img src="/projects/unity/pictures/steam_logo.png" width="13%" height="13%"></a>
+    <br>
     <a href="http://store.steampowered.com/app/689090/Microtransaction_Simulator/">
     <img src="/projects/unity/pictures/capsule_lg.png" width="40%"></a>
     <br>
