@@ -11,7 +11,7 @@ Inspired from [Dadi's Bucket List](http://dzed.me/dreamlist.html)
 This is a list of things I hope to accomplish during my time at university.
 
 ## Waterloo:
-- find a job outside of WaterlooWorks
+- Find a job outside of WaterlooWorks
 - Get a developer job
 - Get a co-op in California
 
