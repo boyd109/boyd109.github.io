@@ -11,19 +11,18 @@ I had some experience previously making simple games in GameMaker in middle scho
 <br>
 
 <h2>Microtransaction Simulator
-  <a href= "https://github.com/jonathantsang/Micro-Simulator"></h2>
-    <img src="/pictures/gcat.png" width="13%" height="13%"></a></h2><a href="http://store.steampowered.com/app/689090/Microtransaction_Simulator/"><img src="/projects/unity/pictures/steam_logo.png" width="11%" height="11%"></a>
-    <br>
-    <a href="http://store.steampowered.com/app/689090/Microtransaction_Simulator/">
-    <img src="/projects/unity/pictures/capsule_lg.png" width="40%"></a>
-    <br>
-    <br>
-    <button type = "button" class = "btn btn-primary btn-lg">Made with:</button>
-    <button type = "button" class = "btn btn-primary">C#</button>
-    <button type = "button" class = "btn btn-primary">Unity</button>
-    <button type = "button" class = "btn btn-primary">Steamworks.NET</button>
-    <button type = "button" class = "btn btn-primary">Steam Developer APIs</button>
-    <p>Probability based game built on the saturated microtransaction
+<a href= "https://github.com/jonathantsang/Micro-Simulator">
+<img src="/pictures/gcat.png" width="4%" height="4%"></a><a href="http://store.steampowered.com/app/689090/Microtransaction_Simulator/"><img src="/projects/unity/pictures/steam_logo.png" width="4%" height="4%"></a></h2>
+<a href="http://store.steampowered.com/app/689090/Microtransaction_Simulator/">
+<img src="/projects/unity/pictures/capsule_lg.png" width="40%"></a>
+<br>
+<br>
+<button type = "button" class = "btn btn-primary btn-lg">Made with:</button>
+<button type = "button" class = "btn btn-primary">C#</button>
+<button type = "button" class = "btn btn-primary">Unity</button>
+<button type = "button" class = "btn btn-primary">Steamworks.NET</button>
+<button type = "button" class = "btn btn-primary">Steam Developer APIs</button>
+<p>Probability based game built on the saturated microtransaction
     market. Published as a free to play game on the Steam Store.</p>
 
 <h2>Top Down Shooter
