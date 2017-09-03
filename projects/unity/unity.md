@@ -12,7 +12,7 @@ I had some experience previously making simple games in GameMaker in middle scho
 
 <h2>Microtransaction Simulator
   <a href= "https://github.com/jonathantsang/Micro-Simulator"></h2>
-    <img src="/pictures/gcat.png" width="13%" height="13%"></a></h2><a href="http://store.steampowered.com/app/689090/Microtransaction_Simulator/"><img src="/projects/unity/pictures/steam_logo.png" width="13%" height="13%"></a>
+    <img src="/pictures/gcat.png" width="13%" height="13%"></a></h2><a href="http://store.steampowered.com/app/689090/Microtransaction_Simulator/"><img src="/projects/unity/pictures/steam_logo.png" width="11%" height="11%"></a>
     <br>
     <a href="http://store.steampowered.com/app/689090/Microtransaction_Simulator/">
     <img src="/projects/unity/pictures/capsule_lg.png" width="40%"></a>
@@ -23,8 +23,8 @@ I had some experience previously making simple games in GameMaker in middle scho
     <button type = "button" class = "btn btn-primary">Unity</button>
     <button type = "button" class = "btn btn-primary">Steamworks.NET</button>
     <button type = "button" class = "btn btn-primary">Steam Developer APIs</button>
-    <p>Probability based game built on the saturated microtransaction market. Published as a free to play game on the Steam Store.</p>
-</div>
+    <p>Probability based game built on the saturated microtransaction
+    market. Published as a free to play game on the Steam Store.</p>
 
 <h2>Top Down Shooter
 <a href= "https://github.com/jonathantsang/topdownshooter">
