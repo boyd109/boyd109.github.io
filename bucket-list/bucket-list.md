@@ -7,16 +7,17 @@ permalink: /bucket-list/
 Inspired from [Dadi's Bucket List](http://dzed.me/dreamlist.html)
 
 
-## Bucket list
+#### Bucket list
 This is a list of things I hope to accomplish during my time at university.
 
-## Waterloo:
+#### Waterloo:
 - Find a job outside of WaterlooWorks
 - Get a developer job
 - Get a co-op in California
 
 ### Hackathons:
 - Attend 20 Hackathons
+- Place top 3 at a hackathon
 - Win a hackathon
 
 #### Attend American Hackathons
@@ -26,6 +27,10 @@ This is a list of things I hope to accomplish during my time at university.
 - HackHarvard
 - <del>MHacks</del> (Completed October 7, 2016)
 - <del>PennApps</del> (Completed September 9, 2017)
+- YHack
+- HackIllinois
+- MedHacks
+
 
 #### Attend Canada Hackathons- HackWestern
 - DeltaHacks
@@ -35,10 +40,10 @@ This is a list of things I hope to accomplish during my time at university.
 - RUHacks
 - CUHacks
 
-### Game Development:
+#### Game Development:
 - Publish a game to Steam
 
-### Bonus Facts:
+#### Bonus Facts:
 
 List of all hackathons I've been to (In-order):
 - TerribleHack 2
@@ -50,6 +55,7 @@ List of all hackathons I've been to (In-order):
 - Mhacks 9
 - HackPrinceton 2017
 - EngHack 2017
+- PennApps 16
 
 Even though it looks like I've been to a lot of hackathons, here is a list of the ones where I've been rejected:
 - HackTheNorth 2015 (Waterloo)
