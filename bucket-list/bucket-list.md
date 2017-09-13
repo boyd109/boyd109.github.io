@@ -15,7 +15,7 @@ This is a list of things I hope to accomplish during my time at university.
 - Get a developer job
 - Get a co-op in California
 
-### Hackathons:
+#### Hackathons:
 - Attend 20 Hackathons
 - Place top 3 at a hackathon
 - Win a hackathon
@@ -32,7 +32,8 @@ This is a list of things I hope to accomplish during my time at university.
 - MedHacks
 
 
-#### Attend Canada Hackathons- HackWestern
+#### Attend Canada Hackathons
+- HackWestern
 - DeltaHacks
 - <del>UofTHacks</del> (Completed January 20, 2017)
 - <del>QHacks</del> (Completed February 3, 2017)
