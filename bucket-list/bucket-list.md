@@ -25,6 +25,7 @@ This is a list of things I hope to accomplish during my time at university.
 - <del>HackPrinceton</del> (Completed April 2, 2017)
 - HackHarvard
 - <del>MHacks</del> (Completed October 7, 2016)
+- <del>PennApps</del> (Completed September 9, 2017)
 
 #### Attend Canada Hackathons- HackWestern
 - DeltaHacks
