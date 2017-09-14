@@ -42,7 +42,9 @@ This is a list of things I hope to accomplish during my time at university.
 - CUHacks
 
 #### Game Development:
-- Publish a game to Steam
+- <del>Publish a game to Steam</del> (Completed September 14, 2017)
+<iframe src="http://store.steampowered.com/widget/689090/" frameborder="0" width="646" height="190"></iframe>
+
 
 #### Bonus Facts:
 
