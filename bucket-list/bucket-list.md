@@ -21,7 +21,6 @@ This is a list of things I hope to accomplish during my time at university.
 - Win a hackathon
 
 #### Attend American Hackathons
-- Hack the North
 - HackMIT
 - <del>HackPrinceton</del> (Completed April 2, 2017)
 - HackHarvard
@@ -33,6 +32,7 @@ This is a list of things I hope to accomplish during my time at university.
 
 
 #### Attend Canada Hackathons
+- <del> Hack the North</del> (Completed Sept 15, 2017)
 - HackWestern
 - DeltaHacks
 - <del>UofTHacks</del> (Completed January 20, 2017)
