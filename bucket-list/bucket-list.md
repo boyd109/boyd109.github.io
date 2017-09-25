@@ -16,9 +16,9 @@ This is a list of things I hope to accomplish during my time at university.
 - Get a co-op in California
 
 #### Hackathons:
-- Attend 20 Hackathons
+- Attend 20 Hackathons (Currently at 14)
 - Place top 3 at a hackathon
-- Win a hackathon
+- <del>Win anything at a hackathon</del> (Completed September 24, 2017 at MHacks X)
 
 #### Attend American Hackathons
 - HackMIT
