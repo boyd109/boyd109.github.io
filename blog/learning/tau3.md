@@ -5,6 +5,7 @@ permalink: /tau3/
 category: learning
 tag: learning
 date: 14/6/2017
+order: 3
 ---
 
 ## Side Projects?

@@ -5,6 +5,7 @@ permalink: /tau7/
 category: learning
 tag: learning
 date: 20/8/2017
+order: 7
 ---
 
 ## I love hackathons

@@ -5,6 +5,7 @@ permalink: /tau8/
 category: learning
 tag: learning
 date: 28/8/2017
+order: 8
 ---
 
 Switching into CS was by no means a quick or easy process. It took me almost two years from the inception that I wanted to switch into it back in Fall 2015 and it was official on my Quest transcript in Spring 2017. I switched into Computer Science before the new guidelines take effect in Fall 2017. In the past it was quoted that it was fairly simple to switch in  [source](https://www.reddit.com/r/uwaterloo/comments/61aso0/what_the_hell_is_going_on_with_upper_year_cs/). So here's some information on why I switched and what I did to switch into CS.

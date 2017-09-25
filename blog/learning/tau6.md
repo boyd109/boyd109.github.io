@@ -5,6 +5,7 @@ permalink: /tau6/
 category: learning
 tag: learning
 date: 8/8/2017
+order: 6
 ---
 
 This is a bit of a relic, but I think it'd be nice to discuss what the Jobmine glitch was. The Jobmine glitch was a Jobmine exclusive glitch (not in WaterlooWorks) that allowed students to see which employers gave them an offer BEFORE the released date for that term. This was important because sometimes people would have to wait almost a month before rankings came out, and a lot of employers "ranked" students before then. (If you are unfamiliar with Waterloo's ranking procedure see [this](https://uwaterloo.ca/co-operative-education/get-hired/ranking-matching#Ranking))

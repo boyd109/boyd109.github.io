@@ -6,9 +6,10 @@ layout: default1
 {% include extras.html %}
 <h1>Table of Contents</h1>
 <ol>
-{% for p in site.pages %}
+{% assign sorted_pages = site.pages | sort:"order" %}
+{% for p in sorted_pages %}
   {% if p.tag == page.category %}
-  <li>
+  <li id="{{ p.order }}">
     <a href="{{ p.url }}">{{ p.title }}</a>
   </li>
   {% endif %}

@@ -18,8 +18,8 @@ This is a list of things I hope to accomplish during my time at university.
 #### Hackathons:
 - Attend 20 Hackathons (Currently at 14)
 - Place top 3 at an MLH hackathon
-- <del>Win anything at a hackathon</del> (Completed September 24, 2017 at MHacks X)
-- <del>Go to three hackathons of the same series</del> (Completed September 24, 2017, MHacks 8,9,X)
+- <del> Win anything at a hackathon</del> (Completed September 24, 2017 at MHacks X)
+- <del> Go to three hackathons of the same series</del> (Completed September 24, 2017, MHacks 8,9,X)
 
 #### Attend American Hackathons
 - HackMIT

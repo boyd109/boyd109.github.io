@@ -5,6 +5,7 @@ permalink: /tau9/
 category: learning
 tag: learning
 date: 9/17/2017
+order: 9
 ---
 
 I attended Hack the North for the first time. I had been rejected in 2016 and 2015, and I was happy to get a chance to attend the coveted hackathon. It is a little more special since I am from Waterloo, and it is in my backyard and I know the area.
