@@ -17,8 +17,9 @@ This is a list of things I hope to accomplish during my time at university.
 
 #### Hackathons:
 - Attend 20 Hackathons (Currently at 14)
-- Place top 3 at a hackathon
+- Place top 3 at an MLH hackathon
 - <del>Win anything at a hackathon</del> (Completed September 24, 2017 at MHacks X)
+- <del>Go to three hackathons of the same series</del> (Completed September 24, 2017, MHacks 8,9,X)
 
 #### Attend American Hackathons
 - HackMIT
@@ -59,6 +60,8 @@ List of all hackathons I've been to (In-order):
 - HackPrinceton 2017
 - EngHack 2017
 - PennApps 16
+- Hack the North 2017
+- MHackX
 
 Even though it looks like I've been to a lot of hackathons, here is a list of the ones where I've been rejected:
 - HackTheNorth 2015 (Waterloo)
