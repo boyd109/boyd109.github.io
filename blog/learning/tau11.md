@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Winning my first hackathon (MHacksX)
-permalink: /tau10/
+permalink: /tau11/
 category: learning
 tag: learning
 date: 9/26/2017
