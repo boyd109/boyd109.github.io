@@ -8,7 +8,6 @@ date: 9/26/2017
 order: 11
 ---
 
-### Winning Part
 I was astonished when I won my first hackathon. Tons of my other friends had done it, but I was the perennial non-winner. What does it take to win a hackathon? What does winning even mean? I can't say I'm an expert at answering those questions, but I do know some things since I went to 14 hackathons in total now.
 
 ### Quick Facts  
