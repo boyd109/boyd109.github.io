@@ -20,7 +20,7 @@ Why is this so? Because each one has a fatal flaw.
 
 1. 'best hack' is personally subjective, but if you can't explain that to the judges, your best hack is not the best to them. You have to convey your idea to the judges. And the judges aren't always technical.
 2. Being technical is an asset. But if your asset is technical but lacks a use case or lacks a practical pitch, it may be forgotten. This is an unforgiving part from smart teams. You can make an amazing product, but if it is too beyond, people can't appreciate the greatness.
-3. Ideas are ideas and just that. If you can't execute on it, you have an untangible project. I have heard of times when pitches of ideas won hackathons, but I won't argue with the feasibility of that happening. Just don't expect it to work at every hackathon.
+3. Ideas are ideas and just that. If you can't execute on it, you have an intangible project. I have heard of times when pitches of ideas won hackathons, but I won't argue with the feasibility of that happening. Just don't expect it to work at every hackathon.
 4. This is similar to \#3. You can pitch well, but if they ask for a live demo or testing it out, that's not going to necessarily work.
 
 ### What does it take to win a hackathon?
