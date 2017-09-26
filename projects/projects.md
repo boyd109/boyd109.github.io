@@ -1,11 +1,9 @@
 ---
-layout: listofpages
+layout: listofprojects
 title: Projects
 permalink: /projects/
 category: projects
 tag: main-projects
 ---
-
-More information to come
 
 {{content}}

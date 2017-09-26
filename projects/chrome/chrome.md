@@ -4,6 +4,7 @@ title: Chrome Extensions
 permalink: /chrome/
 category: projects
 tag: projects
+order: 3
 ---
 
 <h2>Pocket Monitor</h2>
