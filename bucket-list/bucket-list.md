@@ -16,7 +16,7 @@ This is a list of things I hope to accomplish during my time at university.
 - Get a co-op in California
 
 #### Hackathons:
-- Attend 20 Hackathons (Currently at 14)
+- Attend 20 Hackathons (Currently at 16)
 - Place top 3 at an MLH hackathon
 - <del> Win anything at a hackathon</del> (Completed September 24, 2017 at MHacks X)
 - <del> Go to three hackathons of the same series</del> (Completed September 24, 2017, MHacks 8,9,X)
@@ -59,9 +59,10 @@ List of all hackathons I've been to (In-order):
 - Mhacks 9
 - HackPrinceton 2017
 - EngHack 2017
-- PennApps 16
-- Hack the North 2017
-- MHackX
+- PennApps 16: Sept 8-10
+- Hack the North 2017: Sept 15-17
+- MHackX: Sept 22-24
+- ETHWaterloo: Oct 13th-15th
 
 Even though it looks like I've been to a lot of hackathons, here is a list of the ones where I've been rejected:
 - HackTheNorth 2015 (Waterloo)

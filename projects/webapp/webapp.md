@@ -29,6 +29,20 @@ order: 1
 </div>
 
 <div class="col-md-4">
+  <h2>Basic Identity Token
+    <a href= "https://github.com/kaustavha/ethwaterloo-bit">
+      <img src="/pictures/gcat.png" width="13%" height="13%"></a>
+  </h2>
+      <img src="/projects/webapp/pictures/bit.png" width="100%" height="100%">
+      <p>Made with:
+      <button type = "button" class = "btn btn-primary">NodeJS</button>
+      <button type = "button" class = "btn btn-primary">React</button>
+      <button type = "button" class = "btn btn-primary">Solidity</button>
+      </p>
+      <p>Basic Identity Token: A login w/ fb button for web3.0 dapps. Built at ETHWaterloo</p>
+</div>
+
+<div class="col-md-4">
   <h2>Interest.Invest
     <a href= "https://github.com/jonathantsang/StocksForNoobs">
       <img src="/pictures/gcat.png" width="13%" height="13%"></a>
@@ -43,22 +57,5 @@ order: 1
       <button type = "button" class = "btn btn-primary">Google Finance API</button>
       </p>
       <p>Web app that acts as a simple to-do list. Built at Hack the North 2017.</p>
-</div>
-
-<div class="col-md-4">
-  <h2>TonToDo
-    <a href= "https://github.com/jonathantsang/TonToDo">
-      <img src="/pictures/gcat.png" width="13%" height="13%"></a>
-      <a href="https://databasedb-dce9a.firebaseapp.com">
-        <img src="/projects/webapp/pictures/firebase.png" width="13%" height="13%">
-      </a>
-  </h2>
-      <img src="/projects/webapp/pictures/tontodo.png" width="100%" height="100%">
-      <p>Made with:
-      <button type = "button" class = "btn btn-primary">Google Firebase Database</button>
-      <button type = "button" class = "btn btn-primary">jQuery</button>
-      <button type = "button" class = "btn btn-primary">Firebase Hosting</button>
-      </p>
-      <p>Web app that finds stocks related to the user's input and gives stock recommendations. Built at PennApps XVI.</p>
 </div>
 </div>
