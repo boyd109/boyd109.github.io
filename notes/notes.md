@@ -27,8 +27,7 @@ permalink: /notes/
  </tr>
 </table>
 
-**Notes for Later Terms will be uploaded here!**
-**Note: Most of my notes are handwritten, and I sometimes post here, but not everything is posted here. I put some of the important topics, but this is not comprehensive of the whole course**
+
 
 ## Miscellaneous Info Session and Other Notes:
 
