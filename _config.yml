@@ -27,16 +27,16 @@ navbar-links:
   About Me: "aboutme"
   Resume: "resume"
   Projects: "projects"
-  Blog: "blog"
-  Notes: "notes"
-  My Story: "my-story"
-  Bucket List: "bucket-list"
-  Hackthons:
-    - MHacks8: "mhacks8"
-    - TerribleHacks5: "th5"
-    - Mhacks9: "mhacks9"
-    - HackPrinceton2017: "hackprinceton2017"
-  Hobbies: "hobbies"
+# Blog: "blog"
+# Notes: "notes"
+# My Story: "my-story"
+# Bucket List: "bucket-list"
+# #Hackthons:
+#   - MHacks8: "mhacks8"
+#   - TerribleHacks5: "th5"
+#   - Mhacks9: "mhacks9"
+#   - HackPrinceton2017: "hackprinceton2017"
+# Hobbies: "hobbies"
 #  Resources:
 #   - Resume: "resume"
 
@@ -50,7 +50,7 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Jonathan Tsang
-  email: "j26tsang@gmail.com"
+  email: "jonathantsangemail@gmail.com"
   github: jonathantsang    # eg. boyd109
 
 # Select which links to show in the footer
