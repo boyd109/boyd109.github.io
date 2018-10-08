@@ -26,7 +26,7 @@ description: A journey through Waterloo
 navbar-links:
   About Me: "aboutme"
   Resume: "resume"
-  Projects: "projects"
+#  Projects: "projects"
 # Blog: "blog"
 # Notes: "notes"
 # My Story: "my-story"
