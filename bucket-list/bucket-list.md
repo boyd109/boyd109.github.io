@@ -33,7 +33,7 @@ This is a list of things I hope to accomplish during my time at university.
 
 
 #### Attend Canada Hackathons
-- <del> Hack the North</del> (Completed Sept 15, 2017)
+- <del>Hack the North</del> (Completed Sept 15, 2017)
 - HackWestern
 - DeltaHacks
 - <del>UofTHacks</del> (Completed January 20, 2017)
