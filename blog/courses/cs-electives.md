@@ -4,7 +4,9 @@ layout: default
 permalink: /cs-courses/
 ---
 
-My take on the cs electives I've taken. Loosely based on this: http://shinexwang.com/cs-electives-review/
+### CS Electives
+
+My take on the cs electives I've taken. Loosely based on this: [http://shinexwang.com/cs-electives-review/](http://shinexwang.com/cs-electives-review/)
 
 ### Courses I've taken
 
