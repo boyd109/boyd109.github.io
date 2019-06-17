@@ -50,7 +50,6 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Jonathan Tsang
-  email: "jonathantsangemail@gmail.com"
   github: jonathantsang    # eg. boyd109
 
 # Select which links to show in the footer
