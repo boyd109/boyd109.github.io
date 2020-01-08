@@ -4,73 +4,44 @@ layout: default
 permalink: /bucket-list/
 ---
 
-Inspired from [Dadi's Bucket List](http://dzed.me/dreamlist.html)
+Inspired from [Dadi's Bucket List](http://dzed.me/dreamlist.html) (He has since removed this link but it was something like this)
 
+Last Updated: Jan 7, 2020 (I finally got around to updating it)
 
 #### Bucket list
 This is a list of things I hope to accomplish during my time at university.
 
-#### Waterloo:
-- Find a job outside of WaterlooWorks
-- Get a developer job
-- Get a co-op in California
+#### Academics:
+[x] Take one of the big 3 (Took Graphics in Fall of 2018)
+
+[x] Finish all Bachelor of CS course requirements (Completed Fall 2018 this was done)
+
+[x] Get a Combinatorics and Optimization Minor (Completed after Winter 2019)
+
+[ ] Get on the Dean's list one term (lol)
+
+#### Jobs:
+[x] Find a job outside of WaterlooWorks (I mean I did get an offer? 2020 Jonathan is confused what 2017 Jonathan meant when I wrote this)
+
+[x] Get a developer job (Got Okta for Summer 2018)
+
+[x] Get a co-op in California (Got LinkedIn for Fall 2019)
 
 #### Hackathons:
-- Attend 20 Hackathons (Currently at 16)
-- Place top 3 at an MLH hackathon
-- <del> Win anything at a hackathon</del> (Completed September 24, 2017 at MHacks X)
-- <del> Go to three hackathons of the same series</del> (Completed September 24, 2017, MHacks 8,9,X)
+[x] Attend 20 Hackathons (Completed sometime beforeI can't remember, but I defintely went to more than 20)
 
-#### Attend American Hackathons
-- HackMIT
-- <del>HackPrinceton</del> (Completed April 2, 2017)
-- HackHarvard
-- <del>MHacks</del> (Completed October 7, 2016)
-- <del>PennApps</del> (Completed September 9, 2017)
-- YHack
-- HackIllinois
-- MedHacks
+[ ] Place top 3 at an MLH hackathon
 
+[x] Win anything at a hackathon (Completed September 24, 2017 at MHacks X)
 
-#### Attend Canada Hackathons
-- <del>Hack the North</del> (Completed Sept 15, 2017)
-- HackWestern
-- DeltaHacks
-- <del>UofTHacks</del> (Completed January 20, 2017)
-- <del>QHacks</del> (Completed February 3, 2017)
-- McHacks
-- RUHacks
-- CUHacks
+[x] Go to three hackathons of the same series (Completed September 24, 2017, MHacks 8,9,X)
 
 #### Game Development:
-- <del>Publish a game to Steam</del> (Completed September 14, 2017)
+[x] Publish a game to Steam (Completed September 14, 2017)
 <iframe src="http://store.steampowered.com/widget/689090/" frameborder="0" width="646" height="190"></iframe>
 
+#### Travel:
 
-#### Bonus Facts:
-
-List of all hackathons I've been to (In-order):
-- TerribleHack 2
-- TerribleHack 4
-- MHacks 8
-- TerribleHack 5
-- UofTHacks 2017
-- QHacks 2017
-- Mhacks 9
-- HackPrinceton 2017
-- EngHack 2017
-- PennApps 16: Sept 8-10
-- Hack the North 2017: Sept 15-17
-- MHackX: Sept 22-24
-- ETHWaterloo: Oct 13th-15th
-
-Even though it looks like I've been to a lot of hackathons, here is a list of the ones where I've been rejected:
-- HackTheNorth 2015 (Waterloo)
-- HackTheNorth 2016 (Waterloo)
-- UofTHacks 2016 (UofT)
-- RUHacks 2017 (Ryerson)
-- RoboHacks 2017 (McGill)
-- HackBrown 2017 (Brown University)
-- Hack Illinois 2017 (U of Illinois)
-- LHacks 2017 (Laurier)
-- HackPrinceton 2017 (Princeton)
+[x] Go to Vancouver for a co-op (Zenefits in Summer 2019)
+[x] Go to California for a co-op (LinkedIn in Fall 2019)
+[ ] Go to Seattle for a co-op ()

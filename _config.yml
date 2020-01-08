@@ -30,12 +30,13 @@ navbar-links:
 # Blog: "blog"
 # Notes: "notes"
 # My Story: "my-story"
-# Bucket List: "bucket-list"
-# #Hackthons:
-#   - MHacks8: "mhacks8"
-#   - TerribleHacks5: "th5"
-#   - Mhacks9: "mhacks9"
-#   - HackPrinceton2017: "hackprinceton2017"
+Bucket List: "bucket-list"
+Hackthons:
+  - General: "hackathons"
+  - MHacks8: "mhacks8"
+  - TerribleHacks5: "th5"
+  - Mhacks9: "mhacks9"
+  - HackPrinceton2017: "hackprinceton2017"
 # Hobbies: "hobbies"
 #  Resources:
 #   - Resume: "resume"

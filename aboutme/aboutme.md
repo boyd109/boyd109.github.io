@@ -7,7 +7,8 @@ permalink: /aboutme/
 My name is Jonathan Tsang. Here's a short summary about me:
 
 - I am in 4B Computer Science at the University of Waterloo
-- I go to a lot of hackathons, I've been to 20 in total
+- I've been to a lot of hackathons. I lost count.
+
 
 ## My Links
 [Devpost](https://devpost.com/jonathantsang)  
@@ -19,5 +20,3 @@ My name is Jonathan Tsang. Here's a short summary about me:
 [Codeforces](http://codeforces.com/profile/recklessinkblot)
 
 [Kattis](https://open.kattis.com/users/jonathantsang)
-
-
