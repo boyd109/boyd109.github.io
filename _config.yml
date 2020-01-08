@@ -26,17 +26,19 @@ description: A journey through Waterloo
 navbar-links:
   About Me: "aboutme"
   Resume: "resume"
+  Blog: "blog"
+  Notes: "notes"
+  Hackthons: "hackathons"
+# Bucket List: "bucket-list"
+# Hackthons:
+#   - General: "hackathons"
+#   - MHacks8: "mhacks8"
+#   - TerribleHacks5: "th5"
+#   - Mhacks9: "mhacks9"
+#   - HackPrinceton2017: "hackprinceton2017"
 # Projects: "projects"
-# Blog: "blog"
-# Notes: "notes"
+
 # My Story: "my-story"
-Bucket List: "bucket-list"
-Hackthons:
-  - General: "hackathons"
-  - MHacks8: "mhacks8"
-  - TerribleHacks5: "th5"
-  - Mhacks9: "mhacks9"
-  - HackPrinceton2017: "hackprinceton2017"
 # Hobbies: "hobbies"
 #  Resources:
 #   - Resume: "resume"
