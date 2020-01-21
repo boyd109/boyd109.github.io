@@ -2,8 +2,8 @@
 title: README
 ---
 
-# This is my website.
+####  This is my website.
 
-Navbar Currently:
-
-I plan to store notes that I take from the University of Waterloo and information about me.
+In it contains:
+- information about me
+- some organized and not organized notes that I take from the University of Waterloo

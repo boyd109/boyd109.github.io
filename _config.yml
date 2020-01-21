@@ -29,6 +29,8 @@ navbar-links:
   Blog: "blog"
   Notes: "notes"
   Hackthons: "hackathons"
+  CS Courses: "cs-courses"
+  My Story: "my-story"
 # Bucket List: "bucket-list"
 # Hackthons:
 #   - General: "hackathons"
