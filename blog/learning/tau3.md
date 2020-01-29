@@ -8,6 +8,8 @@ date: 14/6/2017
 order: 3
 ---
 
+**edit**: I made these back in 2017. I am going back in 2020 to update info/misinformation. These are just guidelines, be sure to ask your academic advisors for concrete advice.
+
 ## Side Projects?
 I think side projects are one of the most misunderstood and overrated aspects of job searching. I asked people what they thought was the key to being successful and tons of people said **side projects**. There is an obvious correlation from side projects to job offers, but it's widely believed to be a causative relationship.
 
@@ -19,6 +21,8 @@ I initially was a huge believer of doing side projects and success will pave way
 
 ## 1 Quality
 I hate it when people use school assignments as side projects. I also dislike it when people put hackathon projects that they did little to no work on but it won/was an impressive project. The basis for this is that the motivation is not behind the side project. It is literally there to hook an interview.
+
+**2020 edit**: Lol when I did I write this. I'm going to leave this salt in for comedic value.
 
 The school assignments as a side project have little to no motivation. You literally had to make that for a school assessment and if you didn't you would fail. That means in CS135, the whole class has a sudoku solver (I never took cs135, but I've heard of it) and in CS246, everyone has a chess game or some alternative in C++. The school assignments not only are contiguous to the other students, but in my opinion is just lazy placement for side projects. Of course if you have absolutely nothing, you have to put something, but I think you should at least try things to MAKE a side project, rather than port over what you already made "because you had to".
 
@@ -46,19 +50,15 @@ I'm not saying there is no causation between job search and side projects, but I
 
 (in-order)
 1. work experience (past co-op experiences)
-2. marks
-3. What term you are in (3A, 2B, etc.)
-4. side projects (x-factor)
-5. interview prep
+2. What term you are in (3A, 2B, etc.)
+3. interview prep
+4. marks
+5. side projects (x-factor)
+
+**2020 edit:** I reordered this heavily from how it was before. Originally it was work experience, marks, term, side projects, interview prep. I heavily downgraded marks and bumped up term and interview prep because those are actually the importance. Marks and side projects are tools to get the interviews (from a low-level standpoint) and work experience and term I would describe as better tools to get interviews in later stages.
 
 Now keep in mind **interview prep** is \#5, but it is incredibly essential in the job hunt, just not necessarily in gaining the interview. That part helps get the internship.
 
-The 1-4 are ordered in terms of ability to gauge quality. Work experience with Google, Facebook, Palantir. Those pop to employers. Then marks are a simple 0-100 scale. You see a 95%, you think the person is smart. Regardless of actual knowledge, you feel comfortable hiring the 95% guy if he is identical to a 60% guy. It's a quantitative metric that is clear. You have little reasoning to choose the guy with 60%, unless he makes it up in \#4.
+The 1-5 are ordered in terms of ability to gauge quality. Work experience with Google, Facebook, Palantir. Those pop to employers. Then marks are a simple 0-100 scale. You see a 95%, you think the person is smart. Regardless of actual knowledge, you feel comfortable hiring the 95% guy if he is identical to a 60% guy. It's a quantitative metric that is clear. You have little reasoning to choose the person with 60%, unless they makes it up in \#3.
 
-Even \#3 "what term you're in", is strictly age, which is a number. Employers want maturity among people they hire. Just like the marks it's a quantitative metric. You have to choose between two identical candidates. One is 3B, but one is 2A. Who do you think is more capable? Probably the 3B student. Once again the number is not truly representative of the skill of the person. **NOTE:** Some employers may choose a younger person because they can get away with paying them less. Other than that, there is not too much incentive for them to hire younger people.
-
-Side projects are the **X factor**.
-
-> X-Factor is a speed and damage boosting technique present in Marvel vs. Capcom 3: Fate of Two Worlds and Ultimate Marvel vs. Capcom 3
-
-I don't watch too much Marvel vs. Capcom 3, but I want to make this analogy. X-factor is commonly known as some special feature or quality. In this case, if marks and work experience fails you, **THEN** side projects saves you. If marks and work experience are good, you're probably good.
+\#2 "what term you're in", is underrated. A lot of employers only want students about to graduate and can hire for full time. That means if you are 2B and below you may be filtered out solely on age. Once again that is not truly representative of the skill of the person. **NOTE:** Some employers may choose a younger person because they can get away with paying them less for lower-tier places. Other than that, there is not too much incentive for them to hire younger people.

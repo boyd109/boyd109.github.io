@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Groupwork and teams
+title: Group work and teams
 permalink: /tau4/
 category: learning
 tag: learning
 date: 28/7/2017
 order: 4
 ---
+
+**edit**: I made these back in 2017. I am going back in 2020 to update info/misinformation. These are just guidelines, be sure to ask your academic advisors for concrete advice.
 
 ## Group work
 This can be some of the most frustrating type of assignments, but also applies to the real world.

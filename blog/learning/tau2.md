@@ -8,7 +8,9 @@ date: 3/6/2017
 order: 2
 ---
 
-## Marks matter... a lot
+**edit**: I made these back in 2017. I am going back in 2020 to update info/misinformation. These are just guidelines, be sure to ask your academic advisors for concrete advice.
+
+## Marks matter... somewhat
 
 Unfortunately marks matter to a lot of people/employers. University is usually a step above high school, so unless you prepared well or are just good, you will probably drop in marks. The inconsistency of high schools and mark inflation leads to oversized expectations and lackluster performances.
 
@@ -49,7 +51,7 @@ are false
 
 As much as some may find this true, the terms of "good and bad" students is not that simple. The implication that a bad student cannot get good marks or a good student cannot get bad marks is false. A bad student can do well, and a good one can do poorly. It's not necessarily always a question of character, but the circumstances in the courses. Due to personal reasons or other things you may fail a course, and failing a course never looks good on a transcript.
 
-Waterloo engineering is notorious for this. If you fail a course, you get held back a year because courses for specific engineering aren't held year round, and in a way it is sort of like punishment. Under circumstances where you happen to fail a course, your graduation is held back a year and you are stuck in a limbo state. You may just have failed one course, but now your whole life must wait a year.
+Waterloo engineering is notorious for this. If you fail a course, you get held back a year because courses for specific engineering aren't held year round, and in a way it is sort of like punishment. Under circumstances where you happen to fail a course, your graduation is held back a year and you are stuck in a limbo state. You may just have failed one course, but now your whole life must wait a year. (**2020 edit:** I think this has since changed? I'm not an engineer so don't quote me.)
 
 But looking back at the implications, a "bad" student can study last minute and get all the content they studied on the final, therefore passing with flying colours. The "good" student may study everything, but blank out on the final, doing poorly compared to the rest of the coursework. This is all an element of test taking, and the variability of professors making the exams.
 

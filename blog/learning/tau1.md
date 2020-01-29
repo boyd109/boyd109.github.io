@@ -7,6 +7,9 @@ tag: learning
 date: 3/6/2017
 order: 1
 ---
+
+**edit**: I made these back in 2017. I am going back in 2020 to update info/misinformation. These are just guidelines, be sure to ask your academic advisors for concrete advice.
+
 I'm now a third year student at Waterloo. Even though I'm in 2A CS, I still have the knowledge retained from being so old. Here's a couple things I wish I knew in the first two years of my undergrad.
 
 ## Co-op is not 90% employment rate
@@ -39,7 +42,7 @@ If you are unfamiliar with the waterloo co-op streams, there are a bunch of stre
 
 **4 stream:** You start in September, and go on co-op in winter. This means you look for co-op in the SAME term you join Waterloo.
 
-**8 stream:** You start in September, and go on co-op in spring. This means you have one school term, then look for co-op in winter (alongside being in school). Math has two variations of this in SEQ1 and SEQ2. They are pretty similar and I'll treat them as the same.
+**8 stream:** You start in September, and go on co-op in spring. This means you have one school term, then look for co-op in winter (alongside being in school). Math has two variations of this in SEQ1 and SEQ2. They are pretty similar and I'll treat them as the same. Note co-op in spring ihas the most opportunities but also is the most competitive. That is another reason why I prefer 12 stream over 8 stream.
 
 **12 stream:** You start in September, and go on co-op in fall. This means you have two school terms, then look for co-op in spring (alongside being in school)
 
