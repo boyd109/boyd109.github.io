@@ -10,25 +10,25 @@ Here's a short summary about me:
 - Summer of 2018 I worked as a software engineer intern at Okta
 
 <div class="floating-box">
-  <img src="/about-me/pictures/okta.png" width="50%" height="50%">
+  <img src="/about-me/pictures/okta.png" width="30%" height="30%">
 </div>
 <br>
 
 - Summer of 2019 I worked as a software engineer intern at Zenefits
 
 <div class="floating-box">
-  <img src="/about-me/pictures/zenefits.png" width="50%" height="50%">
+  <img src="/about-me/pictures/zenefits.png" width="30%" height="30%">
 </div>
 <br>
 
 - Fall of 2019 I worked as a software engineer intern at LinkedIn
 
 <div class="floating-box">
-  <img src="/about-me/pictures/linkedin.jpg" width="50%" height="50%">
+  <img src="/about-me/pictures/linkedin.jpg" width="30%" height="30%">
 </div>
 <br>
 
-Read more on my LinkedIn Profile: https://www.linkedin.com/in/jonathan-tsang/
+Read more on my [LinkedIn Profile](https://www.linkedin.com/in/jonathan-tsang/)
 
 ## More Links
 
