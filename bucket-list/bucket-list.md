@@ -38,10 +38,11 @@ This is a list of things I hope to accomplish during my time at university.
 
 #### Game Development:
 [x] Publish a game to Steam (Completed September 14, 2017)
-<iframe src="http://store.steampowered.com/widget/689090/" frameborder="0" width="646" height="190"></iframe>
 
 #### Travel:
 
 [x] Go to Vancouver for a co-op (Zenefits in Summer 2019)
+
 [x] Go to California for a co-op (LinkedIn in Fall 2019)
-[ ] Go to Seattle for a co-op ()
+
+[x] Go to Seattle for a co-op (TheTradeDesk in Winter 2020)
