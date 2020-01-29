@@ -24,7 +24,7 @@ description: A journey through Waterloo
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "about-me"
   Resume: "resume"
   Blog: "blog"
   Notes: "notes"
