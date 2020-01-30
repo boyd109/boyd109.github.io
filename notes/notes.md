@@ -27,7 +27,7 @@ permalink: /notes/
  </tr>
 </table>
 
-
+<br>
 
 ## Miscellaneous Info Session and Other Notes:
 
