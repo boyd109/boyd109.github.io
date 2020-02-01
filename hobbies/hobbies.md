@@ -11,13 +11,14 @@ Aside from regular coding here's some stuff I enjoy doing in my free time. I use
 I used to play a lot of Melee. I had one vod of me playing in pools at a tournament back in 2015.
 
 <a href="https://www.youtube.com/watch?v=vXZtGcuJQY0"><img src="maxresdefault.jpg"
-alt="" width="240" height="180" border="10"/></a>
+alt="" width="360" height="180" border="10"/></a>
 
 ### Pokemon Showdown
 
-Rating 1500+ for both gen7randombattle and gen8randombattle
+Rating 1500+ for both gen7randombattle and gen8randombattle (or somewhere around there)
 
 https://pokemonshowdown.com/users/modularization
+
 https://pokemonshowdown.com/users/recklessinkblot
 
 ### Clone Hero (Guitar Hero)
@@ -36,6 +37,22 @@ Favourite songs:
 - Message in a Bottle (The Police)
 - Rock this town (Stray Cats)
 
+### General Games list
+
+Games I really enjoyed playing
+
+- Deus Ex Human Revolution
+- The World Ends with You
+- Fallout New Vegas
+- Max Payne 3
+- Elder Scrolls: Skyrim
+- Bioshock 1 and 2
+- Terraria
+- Borderlands 2
+- Fire Emblem Awakening
+- Baten Kaitos Eternal Wings of the Lost Ocean
+- Elite Beat Agents
+
 ### Chess
 
 I played casually for a while with ChessTempo, chess.com, and/or lichess.org. Rating hovered around 1000.
@@ -47,3 +64,7 @@ I played:
 - Black Ops
 - MW3 (0.4 KDR lol)
 - Black Ops 2 (1.15 KDR)
+
+### Speedruns
+
+I like watching 16-star SMB64 and Super Mario Sunshine.
