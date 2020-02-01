@@ -42,4 +42,6 @@ I usually post projects I make on my Github: [Github](https://github.com/jonatha
 
 I occasionally try to do codeforces contests: [Codeforces](http://codeforces.com/profile/recklessinkblot)
 
+Some extra-curricular hobbies: [Hobbies](https://jonathantsang.github.io/hobbies)
+
 I also made a bucket list of things that I wanted to accomplish during my undergrad: [Bucket List](https://jonathantsang.github.io/bucket-list)
