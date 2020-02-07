@@ -15,11 +15,11 @@ Over 3000 IQ on Rap Genius.
 Got a verified annotation from Logic.
 
 Official annotations on albums:
-- Logic's Under Pressure
-- Eminem's ShadyXV
-- Joey Bada$$ All-Amerikkkan Bada$$
-- Flatbush Zombies BetterOffDEAD
-- Kids These Days Traphouse Rock
+- Logic, Under Pressure
+- Eminem, ShadyXV
+- Joey Bada$$, All-Amerikkkan Bada$$
+- Flatbush Zombies, BetterOffDEAD
+- Kids These Days, Traphouse Rock
 
 ### Super Smash Brothers Melee
 
