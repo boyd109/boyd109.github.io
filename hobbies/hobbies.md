@@ -6,6 +6,21 @@ permalink: "/hobbies/"
 
 Aside from regular coding here's some stuff I enjoy doing in my free time. I used to play a lot of video games. Not as frequently anymore.
 
+### (Rap) Genius site
+
+<img src="/hobbies/pictures/genius.png"/>
+
+Over 3000 IQ on Rap Genius.
+
+Got a verified annotation from Logic.
+
+Official annotations on albums:
+- Logic's Under Pressure
+- Eminem's ShadyXV
+- Joey Bada$$ All-Amerikkkan Bada$$
+- Flatbush Zombies BetterOffDEAD
+- Kids These Days Traphouse Rock
+
 ### Super Smash Brothers Melee
 
 I used to play a lot of Melee. I had one vod of me playing in pools at a tournament back in 2015.
@@ -14,6 +29,8 @@ I used to play a lot of Melee. I had one vod of me playing in pools at a tournam
 alt="" width="360" height="180" border="10"/></a>
 
 ### Pokemon Showdown
+
+<img src="/hobbies/pictures/showdown.png"/>
 
 Rating 1500+ for both gen7randombattle and gen8randombattle (or somewhere around there)
 
