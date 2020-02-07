@@ -17,7 +17,7 @@ Got a verified annotation from Logic.
 Official annotations on albums:
 - Logic, Under Pressure
 - Eminem, ShadyXV
-- Joey Bada$\$$, All-Amerikkkan Bada$\$$
+- Joey Bada$$\$$$, All-Amerikkkan Bada$$\$$$
 - Flatbush Zombies, BetterOffDEAD
 - Kids These Days, Traphouse Rock
 
