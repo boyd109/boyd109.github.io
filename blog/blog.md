@@ -30,3 +30,15 @@ permalink: /blog/
   {% endif %}
 {% endfor %}
 </ol>
+
+### General Blog Posts
+<ol>
+{% assign sorted_pages = site.pages | sort:"order" %}
+{% for p in sorted_pages %}
+  {% if p.tag == "stories" %}
+  <li id="{{ p.order }}">
+    <a href="{{ p.url }}">{{ p.title }}</a>
+  </li>
+  {% endif %}
+{% endfor %}
+</ol>
