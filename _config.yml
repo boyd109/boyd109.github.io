@@ -71,8 +71,8 @@ url-pretty: "jonathantsang.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 #-- Categories and Tags --#
 categories: [other, projects, main-other, cs116, math135, stat230, clas104, cs136, stat231, math136, engl109, music100, main-cs116, main-math135, main-stat230, main-clas104, main-cs136, main-stat231, main-math136, main-engl109, main-music100,
-cs246, cs245, cs251, math239, engl119, main-cs246, main-cs245, main-cs251, main-math239, main-engl119, learning, general]
-tags: [unity, other, projects, cs116, math135, stat230, clas104, cs136, math136, stat231, engl109, music100, learning, general]
+cs246, cs245, cs251, math239, engl119, main-cs246, main-cs245, main-cs251, main-math239, main-engl119, learning, general, stories]
+tags: [unity, other, projects, cs116, math135, stat230, clas104, cs136, math136, stat231, engl109, music100, learning, general, stories]
 
 #-- IMPORTANT --#
 # Note to self: when adding new courses you to:
