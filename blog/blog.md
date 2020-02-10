@@ -31,7 +31,7 @@ permalink: /blog/
 {% endfor %}
 </ol>
 
-### General Blog Posts
+### Stories Blog Posts
 <ol>
 {% assign sorted_pages = site.pages | sort:"order" %}
 {% for p in sorted_pages %}
