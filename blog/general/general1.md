@@ -8,7 +8,9 @@ date: 2/10/2020
 order: 1
 ---
 
-In doing research for this blog post I wanted to compile the most influential blog posts and sites that I read when I was in undergrad. Luckily enough I found a github repo listing a lot of ones that I had seen previously or had yet to discover: https://github.com/rudi-c/the-waterloo-blogger. Most are from Waterloo, but some are just general tech/life posts.
+In doing research for this blog post I wanted to compile the most influential blog posts and sites that I read when I was in undergrad. Luckily enough I found a github repo listing a lot of ones that I had seen previously or had yet to discover: [Link](https://github.com/rudi-c/the-waterloo-blogger. )
+
+Most are from Waterloo, but some are just general tech/life posts.
 
 Especially in first and second year I enjoyed reading blog posts (that were not too technical for me to understand) and ones that gave a glimpse into upper-year life at Waterloo. Here's a collection that I've read.
 
@@ -17,32 +19,48 @@ TODO: cleanup
 ### My favourites
 If I listed your blog post or linked to your site, I thoroughly enjoyed your site/blog post.
 
-https://blog.evjang.com/2016/06/my-internship-experiences-at-pixar.html
+Eric Jang post about Pixar, Google, and Two Sigma
 
-http://www.robertelder.ca/my-uw-journey/
+[Link](https://blog.evjang.com/2016/06/my-internship-experiences-at-pixar.html)
 
-https://www.geoffreyyu.com/2018/08/06/software-engineering-at-waterloo/
+Robert Elder undergrad story
 
-http://shinexwang.com/interview-strategy-guide/
+[Link](http://www.robertelder.ca/my-uw-journey/)
 
-https://bopeng.io/how-to-get-into-waterloo-engineering
+Geoffrey Yu and Soft Eng at Uwaterloo
+[Link](https://www.geoffreyyu.com/2018/08/06/software-engineering-at-waterloo/)
 
-https://anthony-zhang.me/
+Shine Wang on how to do software engineering interviews
+[Link](http://shinexwang.com/interview-strategy-guide/)
 
-http://david-hu.com/2012/09/14/why-interns-should-blog.html
+Bo Peng Waterloo Engineering Post
+[Link](https://bopeng.io/how-to-get-into-waterloo-engineering)
 
-https://profbillanderson.com/2018/09/13/chances-for-2019/
+Anthony Zhang notes
+[Link](https://anthony-zhang.me/)
 
-https://medium.com/@kaustavha/why-i-opted-out-of-uwaterloos-co-op-program-or-why-jobmine-sucks-19b6028b80a3
+David Hu on Blogging
+[Link](http://david-hu.com/2012/09/14/why-interns-should-blog.html)
 
-https://anzoteh96.wordpress.com/2018/12/26/the-independence/
+Prof Bill Anderson on UWaterloo admissions
+[Link](https://profbillanderson.com/2018/09/13/chances-for-2019/)
+
+Kaustav on Jobmine/WaterlooWorks
+[Link](https://medium.com/@kaustavha/why-i-opted-out-of-uwaterloos-co-op-program-or-why-jobmine-sucks-19b6028b80a3)
+
+Anzo Teh on UWaterloo
+[Link](https://anzoteh96.wordpress.com/2018/12/26/the-independence/)
 
 # Other cool websites
 
-https://zihao.me/
+Zhihao Zhang
+[Link](https://zihao.me/)
 
-https://valentin.tsatsk.in/
+Valentin Tsatskin
+[Link](https://valentin.tsatsk.in/)
 
-https://thume.ca/
+Tristan Hume
+[Link](https://thume.ca/)
 
-https://seanp.xyz/
+Sean Purcell
+[Link](https://seanp.xyz/)
