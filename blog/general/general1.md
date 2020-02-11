@@ -20,11 +20,9 @@ TODO: cleanup
 If I listed your blog post or linked to your site, I thoroughly enjoyed your site/blog post.
 
 Eric Jang post about Pixar, Google, and Two Sigma
-
 [Link](https://blog.evjang.com/2016/06/my-internship-experiences-at-pixar.html)
 
 Robert Elder undergrad story
-
 [Link](http://www.robertelder.ca/my-uw-journey/)
 
 Geoffrey Yu and Soft Eng at Uwaterloo
