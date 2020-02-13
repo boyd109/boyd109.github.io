@@ -37,7 +37,7 @@ I've been to a lot of hackathons traveling the US and Canada: [Devpost](https://
 
 Top 10% in Leetcode Weekly Contests, Solved Leetcode questions: [Leetcode](https://leetcode.com/jonathantsang/)
 
-Ranked top (currently) 36/50 in University of Waterloo for Kattis problems solved: [Kattis](https://open.kattis.com/users/jonathantsang)
+Ranked top (currently) 30/50 in University of Waterloo for Kattis problems solved: [Kattis](https://open.kattis.com/users/jonathantsang)
 
 I usually post projects I make on my Github: [Github](https://github.com/jonathantsang)
 
