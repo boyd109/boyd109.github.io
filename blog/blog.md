@@ -19,6 +19,18 @@ permalink: /blog/
 {% endfor %}
 </ol>
 
+### Co-op Blog Posts
+<ol>
+{% assign sorted_pages = site.pages | sort:"order" %}
+{% for p in sorted_pages %}
+  {% if p.tag == "coop" %}
+  <li id="{{ p.order }}">
+    <a href="{{ p.url }}">{{ p.title }}</a>
+  </li>
+  {% endif %}
+{% endfor %}
+</ol>
+
 ### General Blog Posts
 <ol>
 {% assign sorted_pages = site.pages | sort:"order" %}
