@@ -16,12 +16,16 @@ order: 5
 Just like any course, the co-ops you do are graded by the companies on how well you performed.
 
 From best to worst the rankings are:
-Outstanding
-Excellent
-Very Good
-Satisfactory
-Marginal
-Unsatisfactory
+- Outstanding
+- Excellent
+- Very Good
+- Satisfactory
+- Marginal
+- Unsatisfactory
+
+"95.0% of co-op students receive ratings of very good to outstanding from employers"
+
+[Link](https://uwaterloo.ca/hire/recruitment-dates-and-procedure/reports-and-evaluations)
 
 In every scenario you should strive for outstanding or excellent, and try to avoid anything else. The co-op evals are another part of the co-op process that can help or hinder your future endeavors. In co-op interviews they will almost always look at your past evaluations. Similarly how employers tend to look at grades you did poorly in, they will talk about co-op evaluations.
 
