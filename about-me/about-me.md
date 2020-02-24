@@ -33,16 +33,27 @@ Read more on my [LinkedIn Profile](https://www.linkedin.com/in/jonathan-tsang/)
 
 ## More Links
 
+#### Devpost
 I've been to a lot of hackathons traveling the US and Canada: [Devpost](https://devpost.com/jonathantsang)  
 
+#### Leetcode
 Top 10% in Leetcode Weekly Contests, Solved Leetcode questions: [Leetcode](https://leetcode.com/jonathantsang/)
 
-Ranked top (currently) 30/50 in University of Waterloo for Kattis problems solved: [Kattis](https://open.kattis.com/users/jonathantsang)
+#### Kattis
+Ranked 27th in University of Waterloo
 
+Ranked 49th in Ontario
+
+[Kattis](https://open.kattis.com/users/jonathantsang)
+
+#### GitHub
 I usually post projects I make on my Github: [Github](https://github.com/jonathantsang)
 
+#### Codeforces
 I occasionally try to do codeforces contests: [Codeforces](http://codeforces.com/profile/recklessinkblot)
 
+#### Hobbies
 Some extra-curricular hobbies: [Hobbies](https://jonathantsang.github.io/hobbies)
 
+#### Bucket List
 I also made a bucket list of things that I wanted to accomplish during my undergrad: [Bucket List](https://jonathantsang.github.io/bucket-list)
