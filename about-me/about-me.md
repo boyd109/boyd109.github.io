@@ -7,25 +7,25 @@ permalink: /about-me/
 Here's a short summary about me:
 
 - I am in 4B Computer Science at the University of Waterloo
-- Summer of 2018 I worked as a software engineer intern at Okta
+- Summer 2018 I worked as a software engineer intern at Okta
 
 <br>
 <div class="floating-box">
-  <img src="/about-me/pictures/okta.png" width="30%" height="30%">
+  <img src="/about-me/pictures/okta.png" width="20%" height="20%">
 </div>
 <br>
 
-- Summer of 2019 I worked as a software engineer intern at Zenefits
+- Summer 2019 I worked as a software engineer intern at Zenefits
 
 <div class="floating-box">
-  <img src="/about-me/pictures/zenefits.png" width="30%" height="30%">
+  <img src="/about-me/pictures/zenefits.png" width="20%" height="20%">
 </div>
 <br>
 
-- Fall of 2019 I worked as a software engineer intern at LinkedIn
+- Fall 2019 I worked as a software engineer intern at LinkedIn
 
 <div class="floating-box">
-  <img src="/about-me/pictures/linkedin.jpg" width="30%" height="30%">
+  <img src="/about-me/pictures/linkedin.jpg" width="20%" height="20%">
 </div>
 <br>
 
@@ -40,9 +40,9 @@ I've been to a lot of hackathons traveling the US and Canada: [Devpost](https://
 Top 10% in Leetcode Weekly Contests, Solved Leetcode questions: [Leetcode](https://leetcode.com/jonathantsang/)
 
 #### Kattis
-Ranked 25th in University of [Waterloo](https://open.kattis.com/universities/uwaterloo.ca)
+Ranked 18th in University of [Waterloo](https://open.kattis.com/universities/uwaterloo.ca)
 
-Ranked 43th in [Ontario](https://open.kattis.com/countries/CAN/ON)
+Ranked 33th in [Ontario](https://open.kattis.com/countries/CAN/ON)
 
 [Kattis](https://open.kattis.com/users/jonathantsang)
 
