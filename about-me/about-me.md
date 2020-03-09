@@ -10,7 +10,6 @@ Here's a short summary about me:
 
 {% include jobsfp.html %}
 
-
 Read more on my [LinkedIn Profile](https://www.linkedin.com/in/jonathan-tsang/)
 
 ## More Links
