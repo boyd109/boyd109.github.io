@@ -7,27 +7,9 @@ permalink: /about-me/
 Here's a short summary about me:
 
 - I am in 4B Computer Science at the University of Waterloo
-- Summer 2018 I worked as a software engineer intern at Okta
 
-<br>
-<div class="floating-box">
-  <img src="/about-me/pictures/okta.png" width="20%" height="20%">
-</div>
-<br>
+{% include jobsfp.html %}
 
-- Summer 2019 I worked as a software engineer intern at Zenefits
-
-<div class="floating-box">
-  <img src="/about-me/pictures/zenefits.png" width="20%" height="20%">
-</div>
-<br>
-
-- Fall 2019 I worked as a software engineer intern at LinkedIn
-
-<div class="floating-box">
-  <img src="/about-me/pictures/linkedin.jpg" width="20%" height="20%">
-</div>
-<br>
 
 Read more on my [LinkedIn Profile](https://www.linkedin.com/in/jonathan-tsang/)
 
