@@ -8,6 +8,7 @@ permalink: /blog/
 
 ### Learning Blog Posts
 
+Blog posts aimed towards undergrads with some useful information.
 <ol>
 {% assign sorted_pages = site.pages | sort:"order" %}
 {% for p in sorted_pages %}
@@ -20,6 +21,8 @@ permalink: /blog/
 </ol>
 
 ### Co-op Blog Posts
+
+Blog posts focused mainly on the Waterloo co-op program.
 <ol>
 {% assign sorted_pages = site.pages | sort:"order" %}
 {% for p in sorted_pages %}
@@ -32,6 +35,9 @@ permalink: /blog/
 </ol>
 
 ### General Blog Posts
+
+Blog posts with non-academic topics.
+
 <ol>
 {% assign sorted_pages = site.pages | sort:"order" %}
 {% for p in sorted_pages %}
@@ -43,7 +49,10 @@ permalink: /blog/
 {% endfor %}
 </ol>
 
-### Stories Blog Posts
+### Stories
+
+Longer stories from my undergrad.
+
 <ol>
 {% assign sorted_pages = site.pages | sort:"order" %}
 {% for p in sorted_pages %}
