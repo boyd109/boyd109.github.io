@@ -21,9 +21,9 @@ I've been to a lot of hackathons traveling the US and Canada: [Devpost](https://
 Top 10% in Leetcode Weekly Contests, Solved Leetcode questions: [Leetcode](https://leetcode.com/jonathantsang/)
 
 #### Kattis
-Ranked 18th in University of [Waterloo](https://open.kattis.com/universities/uwaterloo.ca)
+Ranked 15th in University of [Waterloo](https://open.kattis.com/universities/uwaterloo.ca)
 
-Ranked 33th in [Ontario](https://open.kattis.com/countries/CAN/ON)
+Ranked 27th in [Ontario](https://open.kattis.com/countries/CAN/ON)
 
 [Kattis](https://open.kattis.com/users/jonathantsang)
 

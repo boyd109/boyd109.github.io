@@ -4,6 +4,14 @@ layout: default
 permalink: /hackathons/
 ---
 
+Interested in photos from some of the events I went to? Check it out here:
+
+# Photos from Hackthons:
+- [MHacks8](https://jonathantsang.github.io/mhacks8)
+- [TerribleHack5](https://jonathantsang.github.io/th5)
+- [MHacks9](https://jonathantsang.github.io/mhacks9)
+- [HackPrinceton2017](https://jonathantsang.github.io/hackprinceton2017)
+
 List of all hackathons I've been to (In-order):
 
 ##### 2016:
@@ -41,15 +49,6 @@ List of all hackathons I've been to (In-order):
 As you can see I've definitely slowed down in the number of hackathons I've gone to.
 
 Total: ~20
-
-Interested in photos from some of the events I went to? Check it out here:
-
-# Photos from Hackthons:
-- [MHacks8](https://jonathantsang.github.io/mhacks8)
-- [TerribleHack5](https://jonathantsang.github.io/th5)
-- [MHacks9](https://jonathantsang.github.io/mhacks9)
-- [HackPrinceton2017](https://jonathantsang.github.io/hackprinceton2017)
-
 
 Even though it looks like I've been to a lot of hackathons, here is a list of the ones where I've been rejected:
 - HackTheNorth 2015 (Waterloo)
