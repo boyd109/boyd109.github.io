@@ -18,7 +18,7 @@ Read more on my [LinkedIn Profile](https://www.linkedin.com/in/jonathan-tsang/)
 I've been to a lot of hackathons traveling the US and Canada: [Devpost](https://devpost.com/jonathantsang)  
 
 #### Leetcode
-Top 10% in Leetcode Weekly Contests, Solved Leetcode questions: [Leetcode](https://leetcode.com/jonathantsang/)
+Top 8% in Leetcode Weekly Contests, 350+ Solved Leetcode questions: [Leetcode](https://leetcode.com/jonathantsang/)
 
 #### Kattis
 Ranked 15th in University of [Waterloo](https://open.kattis.com/universities/uwaterloo.ca)
