@@ -454,19 +454,19 @@ Job hunting was also very stressful. I had the most interviews up until my Water
 
 Then I got to continuous round with 9 interviews total.
 
-One company interviewed me and did not ask me a coding question it was all behavioural stuff. Up into this point not only had no company given me an offer but I was feeling nervous would I even get a developer job (as a 3A student nonetheless). I was applying externally and trying to find other avenues as well since WaterlooWorks wasn't looking so hot. They ended up giving me an offer on WaterlooWorks in continuous round. I was skeptical of the job and decided to rank it a 4 (by not giving it a 1, someone who was ranked giving it a 1 means they got the job). I was not matched with the job. After this decision many people were stating that me throwing away the only offer. I had around 8 interviews, all rejections and to throw away the only thing I had was crazy. Personally, I felt that the job did not nearly impress me in the same way an interview should have a company be impressed by you. So I rejected them.
+One company interviewed me and did not ask me a coding question it was all behavioural stuff. Up into this point not only had no company given me an offer but I was feeling nervous would I even get a developer job (as a 3A student nonetheless). I was applying externally and trying to find other avenues as well since WaterlooWorks wasn't looking so hot. They ended up giving me an offer on WaterlooWorks in continuous round. I was skeptical of the job and decided to rank it a 4 (by not giving it a 1, someone who was ranked giving it a 1 means they got the job). I was not matched with the job. After this decision many people were stating that me throwing away the only offer. I had around 8 interviews, all rejections and to throw away the only offer I had was crazy. Personally, I felt that the job did not nearly impress me in the same way an interview should have a company be impressed by you. So I rejected them.
 
 I always tried to abide by two principles:
-- never gamble more than you can handle (stress-wise), but when you get the chance gamble
-- always bet on your abilities to do something remarkable
+- never gamble more than you can handle (stress-wise)
+- gamble when you get the chance and always bet on your abilities to do something remarkable
 
-I have a belief that you need to put in work and dedicate your time to continuously improving yourself to challenge what you can accomplish. In this case I got lucky, and I gambled. Sometimes it doesn't work out this way. And when people ask sometimes how it happened, I guess I was willing to take risks. It was incredibly difficult though after tossing out the only offer I had **AND THEN** go back to failing interviews in WaterlooWorks for jobs I wanted.
+I have the belief that you need to put in work and dedicate your time to continuously improving yourself to challenge what you can accomplish. In this case I got lucky, and I gambled. Sometimes it doesn't work out this way. And when people ask sometimes how it happened, I guess I was willing to take risks. It was incredibly difficult though after tossing out the only offer I had **AND THEN** go back to failing interviews in WaterlooWorks for jobs I wanted. You feel incredible remorse after that.
 
 In a later week, 200 people applied for Okta on WaterlooWorks. They interviewed 3 people. The interview was 3 hours long. It was filled with technical rounds and behavioural questions. Two days before exams I got the offer from Okta. That is how late in continuous round I found the job. And with that, I secured my first ever developer internship.
 
 ## Spring 2018
 
-This term I worked at Okta in Toronto. This was a great experience as my first developer job. Okta in Toronto was an unbelievable place to work at compared to previous co-ops in terms of the development environment, my role in the development team, and the overall perks and intern program. I really enjoyed it thoroughly. I won at their intern hackathon and won their smash 4 tournament. Small feat but still tons of fun during the internship.
+This term I worked at Okta in Toronto. This was a great experience as my first developer job. Okta in Toronto was an unbelievable place to work at compared to previous co-ops in terms of the development environment, my role in the development team, and the overall perks and intern program. I won at their intern hackathon and won their smash 4 tournament. Small feat but still tons of fun during the internship.
 
 <div class="floating-box">
   <img src="/my-story/pictures/s18/1.JPG" width="32%" height="32%">
@@ -530,7 +530,7 @@ In regards to the second point, I felt rushed. Most students have 6 co-ops terms
 
 ## Fall 2018
 
-This term I took cs489 (graphics), cs343 (concurrency), and cs456 (networks). Just those three threw me for a loop. I wanted to do at least one of the big 3, because it was a long enough journey to reach the upper year cs electives. I wanted to challenge myself. It was challenging, but graphics is probably the easiest of the big 3 (cs444 compilers, and cs452 trains being the other two). I still recommend people taking it for a challenge even if you most likely will never be making a ray tracer or using OpenGL on a low level in your full time work. Continuously push yourself.
+This term I took cs488 (graphics), cs343 (concurrency), and cs456 (networks). Just those three threw me for a loop. I wanted to do at least one of the big 3, because it was a long enough journey to reach the upper year cs electives. I wanted to challenge myself. It was challenging, but graphics is probably the easiest of the big 3 (cs444 compilers, and cs452 trains being the other two). I still recommend people taking it for a challenge even if you most likely will never be making a ray tracer or using OpenGL on a low level in your full time work. Continuously push yourself.
 
 Concurrency (cs343) was also a valuable course. It is in micro c++, Peter Buhr's custom C++ with concurrency. I really liked the course. The blog that sparked my interest in it? Robert Elder's blog [link](http://www.robertelder.ca/my-uw-journey/) You will most likely never use micro c++ on the job, but the concurrency concepts challenge you in a similar way to full time. You are given assignment specs 4-5 pages long and you need to decipher the information and do the assignments. Details are sometimes murky, you need to clarify things, but that is software engineering once you delve more into it.
 
