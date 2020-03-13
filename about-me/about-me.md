@@ -4,37 +4,41 @@ title: About Me
 permalink: /about-me/
 ---
 
-Here's a short summary about me:
+<div class="text-center">
+  {% include jobsfp.html %}
+  <p>Read more on my <a href="https://www.linkedin.com/in/jonathan-tsang/">LinkedIn Profile</a></p>
+</div>
 
-- I am in 4B Computer Science at the University of Waterloo
+### More Links
 
-{% include jobsfp.html %}
+<img src="/about-me/pictures/devpost.png" width="40%" height="40%"/>
 
-Read more on my [LinkedIn Profile](https://www.linkedin.com/in/jonathan-tsang/)
-
-## More Links
-
-#### Devpost
 I've been to a lot of hackathons traveling the US and Canada: [Devpost](https://devpost.com/jonathantsang)  
 
-#### Leetcode
+<img src="/about-me/pictures/leetcode.png" width="40%" height="40%"/>
+
 Top 8% in Leetcode Weekly Contests, 350+ Solved Leetcode questions: [Leetcode](https://leetcode.com/jonathantsang/)
 
-#### Kattis
+<img src="/about-me/pictures/kattis.png" width="40%" height="40%"/>
+
+Kattis is an online problem archive.
+
 Ranked 15th in University of [Waterloo](https://open.kattis.com/universities/uwaterloo.ca)
 
 Ranked 27th in [Ontario](https://open.kattis.com/countries/CAN/ON)
 
-[Kattis](https://open.kattis.com/users/jonathantsang)
+[My Kattis Page](https://open.kattis.com/users/jonathantsang)
 
-#### GitHub
+<img src="/about-me/pictures/github.png" width="30%" height="30%"/>
+
 I usually post projects I make on my Github: [Github](https://github.com/jonathantsang)
 
-#### Codeforces
+<img src="/about-me/pictures/codeforces.png" width="40%" height="40%"/>
+
 I occasionally try to do codeforces contests: [Codeforces](http://codeforces.com/profile/recklessinkblot)
 
-#### Hobbies
+#### Even More Links
+
 Some extra-curricular hobbies: [Hobbies](https://jonathantsang.github.io/hobbies)
 
-#### Bucket List
 I also made a bucket list of things that I wanted to accomplish during my undergrad: [Bucket List](https://jonathantsang.github.io/bucket-list)
