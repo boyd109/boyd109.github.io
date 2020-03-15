@@ -7,10 +7,19 @@ permalink: /hackathons/
 Interested in photos from some of the events I went to? Check it out here:
 
 # Photos from Hackthons:
-- [MHacks8](https://jonathantsang.github.io/mhacks8)
-- [TerribleHack5](https://jonathantsang.github.io/th5)
-- [MHacks9](https://jonathantsang.github.io/mhacks9)
-- [HackPrinceton2017](https://jonathantsang.github.io/hackprinceton2017)
+- [MHacks8](/mhacks8)
+- [TerribleHack5](/th5)
+- [MHacks9](/mhacks9)
+- [HackPrinceton2017](/hackprinceton2017)
+- [PennApps XVI](/pennappsxvi)
+- [Hack the North 2017](/hackthenorth)
+- [MhacksX](/mhacksx)
+- [ETHWaterloo](/ethwaterloo)
+- [PennApps XVII](/pennappsxvii)
+- [HackPrinceton2018](/hackprinceton2018)
+- [RedBull Adrenalan](/redbulladrenalan)
+- [PennApps XVIII](/pennappsxviii)
+- [Mhacks11](/mhacks11)
 
 List of all hackathons I've been to (In-order):
 
@@ -26,17 +35,17 @@ List of all hackathons I've been to (In-order):
 - Mhacks 9: Mar 24-26
 - HackPrinceton 2017: Mar 31-Apr2
 - EngHack 2017: May 26-27
-- PennApps 16: Sept 8-10
+- PennApps xvi: Sept 8-10
 - Hack the North 2017: Sept 15-17
 - MHackX: Sept 22-24
 - ETHWaterloo: Oct 13-15
 
 ##### 2018:
-- PennApps 17: Jan 19-21
+- PennApps xvii: Jan 19-21
 - HackPrinceton: Mar 30-Apr1
 - Redbull Adrenalan: July 27-29
 - PennApps xviii: Sept 7-9
-- MHacks: Oct 11-12
+- MHacks 11: Oct 11-12
 
 ##### 2019:
 

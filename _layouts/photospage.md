@@ -28,7 +28,7 @@ div.desc {
 .responsive {
     padding: 0 6px;
     float: left;
-    width: 24.99999%;
+    width: 49.99999%;
 }
 
 @media only screen and (max-width: 700px){
@@ -51,6 +51,7 @@ div.desc {
 }
 </style>
 
+<h1>{{ page.title }} Photos</h1>
 
 {% for image in site.static_files %}
     {% if image.path contains page.tag %}
