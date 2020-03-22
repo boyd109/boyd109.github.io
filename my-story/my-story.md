@@ -33,7 +33,7 @@ I didn't take any Computer Science courses in high school, and in hindsight, I s
 ## Fall 2014 (1A)
 <figure>
   <span>
-  <img src="/my-story/pictures/1a/1.jpg" width="40%" height="40%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1a/1.jpg" width="40%" height="40%">
   <figcaption>My first picture taken in my room at Village 1 the on-campus residence. It was taken on my phone at the time the iPhone 3GS. A lot of the photos I took up until Fall 2015 were taken on the iPhone 3GS.(I later got an iPhone 4S) I'm actually amazed at some of the picture I took back then and how they turned out on a pretty mediocre camera. (The phone came out in 2009, so it is about 5 years old in 2014.)</figcaption>
   </span>
 </figure>
@@ -41,13 +41,13 @@ I didn't take any Computer Science courses in high school, and in hindsight, I s
 I entered the University of Waterloo Science and Business Program with a specialization in chemistry. I was interested in both facets and I was extremely excited to be a part of the program. The only time I had ever lived away from home for a prolonged period of time was for [Shad Valley](http://www.shad.ca), where I went to Halifax and stayed at Dalhousie University for a month. It was an amazing experience to see the (far) east coast of Canada. Here's some photos from Shad Valley:
 
 <div class="floating-box">
-  <img src="/my-story/pictures/1a/s1.jpg" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1a/s1.jpg" width="32%" height="32%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/1a/s2.jpg" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1a/s2.jpg" width="32%" height="32%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/1a/s3.jpg" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1a/s3.jpg" width="32%" height="32%">
 </div>
 
 <figcaption>1. Nice view from the top of somewhere we had gone for the weekend.</figcaption>
@@ -60,10 +60,10 @@ I entered the University of Waterloo Science and Business Program with a special
 
 <figure>
 <div class="floating-box">
-  <img src="/my-story/pictures/1a/2-1.jpg" width="45%" height="45%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1a/2-1.jpg" width="45%" height="45%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/1a/2-2.jpg" width="45%" height="45%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1a/2-2.jpg" width="45%" height="45%">
 </div>
   <figcaption>Science Teaching Complex and Needles Hall was still under construction in 2014, and I took some pictures of it when it was still being built.</figcaption>
 </figure>
@@ -71,7 +71,7 @@ I entered the University of Waterloo Science and Business Program with a special
 ## Winter 2015 (1B)
 <figure>
   <span>
-  <img src="/my-story/pictures/1b/2.jpg" width="40%" height="40%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1b/2.jpg" width="40%" height="40%">
   <figcaption>This is was taken when I was doing a titration lab.</figcaption>
   </span>
 </figure>
@@ -79,20 +79,20 @@ I entered the University of Waterloo Science and Business Program with a special
 After doing a couple labs in science, (realizing maybe I wasn't so good at chemistry labs) and attending my first hackathon ever (Terrible Hack 2), I was amazed at the world of possibility in Computer Science. I wanted to switch into Computer Science at this point.
 
 <div class="floating-box">
-  <img src="/my-story/pictures/1b/4-1.jpg" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1b/4-1.jpg" width="32%" height="32%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/1b/4-2.jpg" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1b/4-2.jpg" width="32%" height="32%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/1b/4-3.jpg" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1b/4-3.jpg" width="32%" height="32%">
 </div>
 <figcaption>The winter was pretty snowy that year. The whole campus was covered in a blanket of snow. In the picture on the far left of these three, is a scene near EIT. In the back you can barely make out two figures, one of which is the President of the University of Waterloo, Feridun Hamdullahpur. I was surprised to see him walking out in the frigid cold.</figcaption>
 
 <br>
 
 <div class="floating-box">
-  <img src="/my-story/pictures/1b/4-4.jpg" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1b/4-4.jpg" width="32%" height="32%">
 </div>
 <figcaption>A Christmas tree can be seen on the top of DP Library.</figcaption>
 
@@ -100,52 +100,52 @@ After doing a couple labs in science, (realizing maybe I wasn't so good at chemi
 
 <figcaption>The campus covered in a thick layer of snow and I took some photos of it. Here are some of the photos that I took during the term.</figcaption>
 <div class="floating-box">
-  <img src="/my-story/pictures/1b/5-1.jpg" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1b/5-1.jpg" width="32%" height="32%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/1b/5-2.jpg" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1b/5-2.jpg" width="32%" height="32%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/1b/5-3.jpg" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1b/5-3.jpg" width="32%" height="32%">
 </div>
 <figcaption>Near the Tatham Centre and Hagey Hall.</figcaption>
 
 <br>
 
 <div class="floating-box">
-  <img src="/my-story/pictures/1b/5-4.jpg" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1b/5-4.jpg" width="32%" height="32%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/1b/5-5.jpg" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1b/5-5.jpg" width="32%" height="32%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/1b/5-6.jpg" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1b/5-6.jpg" width="32%" height="32%">
 </div>
 <figcaption>Beside DC and MC.</figcaption>
 
 <br>
 
 <div class="floating-box">
-  <img src="/my-story/pictures/1b/5-7.jpg" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1b/5-7.jpg" width="32%" height="32%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/1b/5-8.jpg" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1b/5-8.jpg" width="32%" height="32%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/1b/5-9.jpg" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1b/5-9.jpg" width="32%" height="32%">
 </div>
 <figcaption>Views of DP Library and V1 Green.</figcaption>
 
 <br>
 
 <div class="floating-box">
-  <img src="/my-story/pictures/1b/6-1.jpg" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1b/6-1.jpg" width="32%" height="32%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/1b/6-2.jpg" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1b/6-2.jpg" width="32%" height="32%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/1b/6-3.jpg" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1b/6-3.jpg" width="32%" height="32%">
 </div>
 <figcaption>The Science Teaching Complex and Needles Hall Expansion was still being built at the time. Here are a couple pictures of the construction, the parking lot at night near PAC, and QNC at night.</figcaption>
 
@@ -153,7 +153,7 @@ After doing a couple labs in science, (realizing maybe I wasn't so good at chemi
 
 <figure>
   <span>
-  <img src="/my-story/pictures/1b/3.jpg" width="40%" height="40%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1b/3.jpg" width="40%" height="40%">
   <figcaption>I also participated in Model UN, and got "Best Delegate" at their first in-house committee. I really enjoyed DECA and Model UN in high school, and I continued to participate in those clubs in university. I went to UTMUN, a University of Toronto run Model UN event in Winter 2015 as well.</figcaption>
   </span>
 </figure>
@@ -161,7 +161,7 @@ After doing a couple labs in science, (realizing maybe I wasn't so good at chemi
 
 ## Spring 2015 (break)
 
-<img src="/my-story/pictures/break/amiiboplace.png" width="20%" height="20%">
+<img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/break/amiiboplace.png" width="20%" height="20%">
 
 I spent the summer working with HTML, CSS, and Bootstrap. I worked with my friend on a website called [Amiiboplace.com](#), originally to be used for trading and selling amiibos. I decided to use a Wordpress CMS on the website, and I now use it to write and post Smash Bros related news.
 
@@ -171,7 +171,7 @@ I spent the summer working with HTML, CSS, and Bootstrap. I worked with my frien
 
 <figure>
   <span>
-  <img src="/my-story/pictures/2a/7-1.jpg" width="30%" height="30%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/2a/7-1.jpg" width="30%" height="30%">
   <figcaption>I was a Science Orientation Leader in Fall 2015. It was great since I got to help a lot of incoming first-years by answering questions, showing them around, and making them feel welcome to the UW community.</figcaption>
   </span>
 </figure>
@@ -180,13 +180,13 @@ I spent the summer working with HTML, CSS, and Bootstrap. I worked with my frien
 
 <figure>
 <div class="floating-box">
-  <img src="/my-story/pictures/2a/8-1.jpg" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/2a/8-1.jpg" width="32%" height="32%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/2a/8-2.jpg" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/2a/8-2.jpg" width="32%" height="32%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/2a/16.jpg" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/2a/16.jpg" width="32%" height="32%">
 </div>
   <figcaption>I attended Terrible Hack 2, my first hackathon, and I was in awe from the projects people created. My friend and I didn't make anything too spectacular, but I was motivated to learn and create things on my own. At the time I didn't know a lot of the people presenting. I would eventually meet some of them at the Velocity Residence in Spring 2016.</figcaption>
 </figure>
@@ -195,7 +195,7 @@ I spent the summer working with HTML, CSS, and Bootstrap. I worked with my frien
 
 <figure>
   <span>
-  <img src="/my-story/pictures/2a/9-1.jpg" width="40%" height="40%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/2a/9-1.jpg" width="40%" height="40%">
   <figcaption>I also was a part of the first ever Model UN in Waterloo called UWaterloo Model G20 as a assistant director of the committee.</figcaption>
   </span>
 </figure>
@@ -206,7 +206,7 @@ I planned to switch into Computer Science (The switch would take almost a year s
 
 <figure>
   <span>
-  <img src="/my-story/pictures/wt1/intrafinity.jpg" width="20%" height="20%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/wt1/intrafinity.jpg" width="20%" height="20%">
   </span>
 </figure>
 
@@ -214,7 +214,7 @@ I had a co-op placement at Intrafinity (also called School Messenger since they 
 
 <figure>
   <span>
-  <img src="/my-story/pictures/wt1/10-1.jpg" width="40%" height="40%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/wt1/10-1.jpg" width="40%" height="40%">
   <figcaption>While in Toronto, I went to "Smash at York" and played in the tournament for fun. You feel awestruck seeing the players in tournaments online and see them in person.</figcaption>
   </span>
 </figure>
@@ -224,13 +224,13 @@ I had a co-op placement at Intrafinity (also called School Messenger since they 
 I arrived back for an academic term in the spring. I took CLAS 104, CS 116, Math 135, and Stat 230. I loved CS 116 and the logical application of solving questions using Python. Although Math 135's math proofs were a bit rocky I ended up doing pretty well in the course and by the end I enjoyed the content overall. (Mod and complex-numbers and n-th roots were my favourite concepts taught in the course)
 
 <div class="floating-box">
-  <img src="/my-story/pictures/2b/11-1.jpg" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/2b/11-1.jpg" width="32%" height="32%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/2b/11-2.jpg" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/2b/11-2.jpg" width="32%" height="32%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/2b/11-3.jpg" width="34%" height="34%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/2b/11-3.jpg" width="34%" height="34%">
 </div>
 
 <figcaption>I stayed at the Velocity Residence this term. The events were awesome there, and I recommend anyone even slightly interested in entrepreneurship to stay for a term and see if it is right for them. The dinner events where we could talk to start-ups and other speakers was my favourite part of the residence. I really hope I can stay there for more terms in the future.</figcaption>
@@ -242,7 +242,7 @@ I arrived back for an academic term in the spring. I took CLAS 104, CS 116, Math
 
 <figure>
   <span>
-  <img src="/my-story/pictures/2b/11-4.jpg" width="40%" height="40%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/2b/11-4.jpg" width="40%" height="40%">
   <figcaption>This is what it looks like inside of the Communitech office.</figcaption>
   </span>
 </figure>
@@ -251,7 +251,7 @@ I arrived back for an academic term in the spring. I took CLAS 104, CS 116, Math
 
 <figure>
   <span>
-  <img src="/my-story/pictures/2b/11-5.jpg" width="40%" height="40%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/2b/11-5.jpg" width="40%" height="40%">
   <figcaption>I also attended Eng-Hack and worked in a team with some of my friends. We worked on a chatbot that gave Google Maps directions when you put in a location.</figcaption>
   </span>
 </figure>
@@ -262,13 +262,13 @@ I switched my co-op stream around, so I was supposed to be on co-op during this 
 
 <figure>
   <span>
-  <img src="/my-story/pictures/2b/12-1.jpg" width="40%" height="40%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/2b/12-1.jpg" width="40%" height="40%">
   <figcaption>I went to UWP Hacks and I appeared in one of their photos. I didn't have much time to make a project since I was volunteering for Hack the North 2016, but I did follow some Unity tutorials to make a simple game.</figcaption>
   </span>
 </figure>
 
 ## MHacks8
-<img src="/my-story/pictures/2b/13-1.jpg" width="20%" height="20%">
+<img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/2b/13-1.jpg" width="20%" height="20%">
 <br>
 I had a TON of pictures from Mhacks: [Link](/mhacks8/)  
 (I now have a dedicated tab for Hackathon photos so the load times on this page don't get too massive.)  
@@ -276,19 +276,19 @@ I had a TON of pictures from Mhacks: [Link](/mhacks8/)
 This was my first experience outside of the country for a hackathon. It took place at Detroit, Michigan at the Masonic Temple. I walked in with a view of Hack the North, but got a different style of hackathon. The venue was a bit run down, but the interaction from people from University of Michigan and other universities was amazing.
 
 ## TerribleHacks5
-<img src="/my-story/pictures/2b/14-1.jpg" width="40%" height="40%">
+<img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/2b/14-1.jpg" width="40%" height="40%">
 <br>
 The parody hackathon. I learned how to use Unity here.
 I compiled photos from the event here: [Link](/th5/)  
 
 ## Local Hack Day
-<img src="/my-story/pictures/2b/15.png" width="40%" height="40%">
+<img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/2b/15.png" width="40%" height="40%">
 <br>
 I also participated in the University of Waterloo Local Hack Day.
 <br>
 
 ## Winter 2017 (Work Term 2)
-<img src="/my-story/pictures/wt2/surfeasy.png" width="40%" height="40%">
+<img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/wt2/surfeasy.png" width="40%" height="40%">
 <br>
 I worked at SurfEasy VPN as a QA Analyst. It is an awesome startup with great culture and talented individuals that believe in their product quality first and foremost. I learned about the development cycle of software in a real work setting, worked in a tight knit team on logging and investigating bugs, and coded some of the iOS mobile automation tests during my time there.
 
@@ -297,27 +297,27 @@ It grew in size, got a new office, and expanded their product line, so the compa
 ## Hackathons and Hackathons
 I tried to code as much as I could during the term and go to as many hackathons as I could.
 
-<img src="/my-story/pictures/wt2/uofthacks.png" width="40%" height="40%">
-<img src="/my-story/pictures/wt2/qhacks.png" width="40%" height="40%">
+<img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/wt2/uofthacks.png" width="40%" height="40%">
+<img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/wt2/qhacks.png" width="40%" height="40%">
 <br>
-<img src="/my-story/pictures/wt2/mhacks9.png" width="40%" height="40%">
-<img src="/my-story/pictures/wt2/hackprinceton.png" width="40%" height="40%">
+<img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/wt2/mhacks9.png" width="40%" height="40%">
+<img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/wt2/hackprinceton.png" width="40%" height="40%">
 <br>
 
 There were way too many photos, and it was an amazing experience. Mhacks and hackPrinceton were amazing hackathons in the US, and I highly recommend them to anyone. I actually didn't even get accept to HackPrinceton, but I still decided to try to get on the bus to try and work on programming as much as I could, and see Princeton University. I went and luckily they let me in (begrudgingly but we take those). From that point onwards, I think after HackPrinceton, I truly understood my love for hackathons and creating ideas/projects/solutions through coding.
 
 Small summary of photos from UofTHacks, QHacks, MHacks9, and HackPrinceton:  
-<img src="/my-story/pictures/wt2/1.png" width="40%" height="40%">
-<img src="/my-story/pictures/wt2/2.png" width="40%" height="40%">
+<img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/wt2/1.png" width="40%" height="40%">
+<img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/wt2/2.png" width="40%" height="40%">
 <br>
-<img src="/my-story/pictures/wt2/3.png" width="40%" height="40%">
-<img src="/my-story/pictures/wt2/4.png" width="40%" height="40%">
+<img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/wt2/3.png" width="40%" height="40%">
+<img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/wt2/4.png" width="40%" height="40%">
 <br>
-<img src="/my-story/pictures/wt2/5.png" width="40%" height="40%">
-<img src="/my-story/pictures/wt2/6.png" width="40%" height="40%">
+<img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/wt2/5.png" width="40%" height="40%">
+<img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/wt2/6.png" width="40%" height="40%">
 <br>
-<img src="/my-story/pictures/wt2/7.png" width="40%" height="40%">
-<img src="/my-story/pictures/wt2/8.png" width="40%" height="40%">
+<img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/wt2/7.png" width="40%" height="40%">
+<img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/wt2/8.png" width="40%" height="40%">
 <br>
 
 **UPDATE: I uploaded separate pages for MHacks9 and HackPrinceton2017. Check it out here:**
@@ -336,7 +336,7 @@ math239: Interesting introduction to combinatorics.
 
 <figure>
   <span>
-  <img src="/my-story/pictures/s17/1.JPG" width="50%" height="50%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/s17/1.JPG" width="50%" height="50%">
   <figcaption>Class photo from spcom223. spcom223 is a good course.</figcaption>
   </span>
 </figure>
@@ -354,68 +354,68 @@ This was the term I tried to go to as many hackathons as possible. I went to Pen
 
 #### PennApps
 <div class="floating-box">
-  <img src="/my-story/pictures/f17/1.JPG" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/f17/1.JPG" width="32%" height="32%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/f17/2.JPG" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/f17/2.JPG" width="32%" height="32%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/f17/3.JPG" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/f17/3.JPG" width="32%" height="32%">
 </div>
 <figcaption>1. Pennsylvania Sign</figcaption>
 <figcaption>2. My team at PennApps.</figcaption>
 <figcaption>3. A team wearing matching jerseys which I found funny. The team was so coordinated to try and win prizes at this hackathon that they came in a whole costume.</figcaption>
 <br>
 <div class="floating-box">
-  <img src="/my-story/pictures/f17/4.JPG" width="45%" height="45%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/f17/4.JPG" width="45%" height="45%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/f17/5.JPG" width="45%" height="45%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/f17/5.JPG" width="45%" height="45%">
 </div>
 <figcaption>1. Campfire at PennApps</figcaption>
 <figcaption>2. University of Pennsylvania Sign</figcaption>
 <br>
 <div class="floating-box">
-  <img src="/my-story/pictures/f17/6.JPG" width="33%" height="33%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/f17/6.JPG" width="33%" height="33%">
 </div>
 <figcaption>Skating activity at PennApps. p.s. Americans may or may not know how to skate.</figcaption>
 <br>
 #### Hack the North
 <div class="floating-box">
-  <img src="/my-story/pictures/f17/7.JPG" width="50%" height="50%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/f17/7.JPG" width="50%" height="50%">
 </div>
 <figcaption>Prime Minister Trudeau at Hack the North</figcaption>
 <br>
 
 #### MhacksX
-MHacksX was the 13th hackathon I ever attended and the first hackathon I ever won anything at. I should probably make dedicated pages for each hackathon since I took tons of photos at every one on my grand hackathon tour.
+MHacksX was the 13th hackathon I ever attended and the first hackathon I ever won anything at. To go to the dedicated pages for each hackathon from my [grand hackathon tour](/hackathons).
 <div class="floating-box">
-  <img src="/my-story/pictures/f17/8.JPG" width="40%" height="40%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/f17/8.JPG" width="40%" height="40%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/f17/9.JPG" width="40%" height="40%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/f17/9.JPG" width="40%" height="40%">
 </div>
 <figcaption>1. MHacks opening ceremonies</figcaption>
 <figcaption>2. MHacksX in glowsticks</figcaption>
 <br>
 <div class="floating-box">
-  <img src="/my-story/pictures/f17/10.JPG" width="40%" height="40%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/f17/10.JPG" width="40%" height="40%">
 </div>
 <figcaption>MLH photo of us winning at MhacksX</figcaption>
 <br>
 <div class="floating-box">
-  <img src="/my-story/pictures/f17/11.JPG" width="40%" height="40%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/f17/11.JPG" width="40%" height="40%">
 </div>
 <figcaption>Hoarding bottles of free Soylent</figcaption>
 <br>
 #### ETHWaterloo
 <div class="floating-box">
-  <img src="/my-story/pictures/f17/12.JPG" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/f17/12.JPG" width="32%" height="32%">
 </div>
 <figcaption>Photo of me with Vitalik Buterin, (who seemed very happy to take a photo with me) founder of Ethereum, at ETHWaterloo</figcaption>
 <br>
 <div class="floating-box">
-  <img src="/my-story/pictures/f17/13.JPG" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/f17/13.JPG" width="32%" height="32%">
 </div>
 <figcaption>Me using Google Glass at the Velocity Residence</figcaption>
 
@@ -431,22 +431,22 @@ cs350 really makes you work for the assignments and understand what is going on 
 
 #### HackPrinceton 2018
 <div class="floating-box">
-  <img src="/my-story/pictures/w18/1.JPG" width="50%" height="50%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/w18/1.JPG" width="50%" height="50%">
 </div>
 <figcaption>Princeton campus</figcaption>
 <br>
 <div class="floating-box">
-  <img src="/my-story/pictures/w18/2.JPG" width="50%" height="50%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/w18/2.JPG" width="50%" height="50%">
 </div>
 <figcaption>Passing through New York state</figcaption>
 <br>
 <div class="floating-box">
-  <img src="/my-story/pictures/w18/3.JPG" width="50%" height="50%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/w18/3.JPG" width="50%" height="50%">
 </div>
 <figcaption>Winning at HackPrinceton 2018</figcaption>
 <br>
 <div class="floating-box">
-  <img src="/my-story/pictures/w18/4.JPG" width="50%" height="50%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/w18/4.JPG" width="50%" height="50%">
 </div>
 <figcaption>Sunset? or Sunrise? I can't remember</figcaption>
 
@@ -464,31 +464,31 @@ I have the belief that you need to put in work and dedicate your time to continu
 
 In a later week, 200 people applied for Okta on WaterlooWorks. They interviewed 3 people. The interview was 3 hours long. It was filled with technical rounds and behavioural questions. Two days before exams I got the offer from Okta. That is how late in continuous round I found the job. And with that, I secured my first ever developer internship.
 
-## Spring 2018
+## Spring 2018 (Work Term 3)
 
 This term I worked at Okta in Toronto. This was a great experience as my first developer job. Okta in Toronto was an unbelievable place to work at compared to previous co-ops in terms of the development environment, my role in the development team, and the overall perks and intern program. I won at their intern hackathon and won their smash 4 tournament. Small feat but still tons of fun during the internship.
 
 <div class="floating-box">
-  <img src="/my-story/pictures/s18/1.JPG" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/s18/1.JPG" width="32%" height="32%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/s18/2.JPG" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/s18/2.JPG" width="32%" height="32%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/s18/3.JPG" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/s18/3.JPG" width="32%" height="32%">
 </div>
 <figcaption>1. Okta office</figcaption>
 <figcaption>2. Okta office event at Blue Jay's game</figcaption>
 <figcaption>3. Watching Deadpool 2 with other Okta interns.</figcaption>
 <br>
 <div class="floating-box">
-  <img src="/my-story/pictures/s18/4.JPG" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/s18/4.JPG" width="32%" height="32%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/s18/5.JPG" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/s18/5.JPG" width="32%" height="32%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/s18/6.JPG" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/s18/6.JPG" width="32%" height="32%">
 </div>
 <figcaption>1. Axe throwing as a company event.</figcaption>
 <figcaption>2. Playing smash at the Okta office</figcaption>
@@ -497,22 +497,22 @@ This term I worked at Okta in Toronto. This was a great experience as my first d
 I also attended a hackathon called "RedBull Adrenalan". It was a crazy gaming tournament and hackathon crossover. The photos I got were pretty sick.
 
 <div class="floating-box">
-  <img src="/my-story/pictures/s18/7.JPG" width="50%" height="50%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/s18/7.JPG" width="50%" height="50%">
 </div>
 <figcaption>Gaming setups at the tournament</figcaption>
 <br>
 <div class="floating-box">
-  <img src="/my-story/pictures/s18/8.JPG" width="50%" height="50%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/s18/8.JPG" width="50%" height="50%">
 </div>
 <figcaption>Lots of lights at the venue</figcaption>
 <br>
 <div class="floating-box">
-  <img src="/my-story/pictures/s18/9.JPG" width="50%" height="50%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/s18/9.JPG" width="50%" height="50%">
 </div>
 <figcaption>I'm riding a guy's homemade boosted board</figcaption>
 <br>
 <div class="floating-box">
-  <img src="/my-story/pictures/s18/10.JPG" width="40%" height="40%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/s18/10.JPG" width="40%" height="40%">
 </div>
 <figcaption>Playing Overwatch on some of the intense gaming rigs</figcaption>
 
@@ -538,61 +538,61 @@ Networks was just simple and solid. Not too much happening but that was probably
 
 In terms of hackathons I only attended PennApps XVIII and MHacks 11.
 <div class="floating-box">
-  <img src="/my-story/pictures/f18/0.JPG" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/f18/0.JPG" width="32%" height="32%">
 </div>
 <figcaption>Skating again at PennApps</figcaption>
 <br>
 <div class="floating-box">
-  <img src="/my-story/pictures/f18/1.JPG" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/f18/1.JPG" width="32%" height="32%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/f18/2.JPG" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/f18/2.JPG" width="32%" height="32%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/f18/3.JPG" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/f18/3.JPG" width="32%" height="32%">
 </div>
 <figcaption>1. Mhacks 11 auditorium</figcaption>
 <figcaption>2. Food at Mhacks 11</figcaption>
 <figcaption>3. Alex and I at Mhacks 11. We teamed at MhacksX and both interned at Okta over the summer. He was at the SF office and I was at the Toronto office. Our team also won at the Okta intern hackathon.</figcaption>
 <br>
 <div class="floating-box">
-  <img src="/my-story/pictures/f18/4.JPG" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/f18/4.JPG" width="32%" height="32%">
 </div>
 <figcaption>Riding Bird scooters around Ann Arbor. Bird Scooter (before I was subsequently banned for not having a driver's license)</figcaption>
 <br>
 <div class="floating-box">
-  <img src="/my-story/pictures/f18/5.JPG" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/f18/5.JPG" width="32%" height="32%">
 </div>
 <figcaption>UMichigan shirt motto</figcaption>
 
 I was also interviewing at this time. I wanted to get a summer 2019 internship preferably in the states. So I applied externally since I did not have WaterlooWorks access until Winter 2019. None of my interviews worked out. One interview I had to fly out to London, England for an onsite (which I unfortunately failed) in the last few weeks of the term when the final projects for graphics, concurrency, and networks were all due. I would have loved to stay longer in London, but time did not allow me. (I spent less than 24 hours in London. This includes sleep hours and the interview time)
 
 <div class="floating-box">
-  <img src="/my-story/pictures/f18/6.JPG" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/f18/6.JPG" width="32%" height="32%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/f18/7.JPG" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/f18/7.JPG" width="32%" height="32%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/f18/8.JPG" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/f18/8.JPG" width="32%" height="32%">
 </div>
 <figcaption>1. Flying to London</figcaption>
 <figcaption>2. London streets</figcaption>
 <figcaption>3. Improbable office</figcaption>
 <br>
 <div class="floating-box">
-  <img src="/my-story/pictures/f18/9.JPG" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/f18/9.JPG" width="32%" height="32%">
 </div>
 <figcaption>Metro sign in London</figcaption>
 <br>
 <div class="floating-box">
-  <img src="/my-story/pictures/f18/10.JPG" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/f18/10.JPG" width="32%" height="32%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/f18/11.JPG" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/f18/11.JPG" width="32%" height="32%">
 </div>
 <div class="floating-box">
-  <img src="/my-story/pictures/f18/12.JPG" width="32%" height="32%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/f18/12.JPG" width="32%" height="32%">
 </div>
 <figcaption>1. Liverpool St. Station</figcaption>
 <figcaption>2. Flying back</figcaption>
@@ -601,22 +601,22 @@ I was also interviewing at this time. I wanted to get a summer 2019 internship p
 After this term I had completed ALL my course requirements for the Bachelor of CS. Luckily I did not fail graphics because it was close. The ray tracer demanded more time than I gave it.
 
 <div class="floating-box">
-  <img src="/my-story/pictures/f18/13.JPG" width="40%" height="40%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/f18/13.JPG" width="40%" height="40%">
 </div>
 <figcaption>I also got to try out Lime scooters for the pilot in Waterloo</figcaption>
 <br>
 <div class="floating-box">
-  <img src="/my-story/pictures/f18/14.JPG" width="50%" height="50%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/f18/14.JPG" width="50%" height="50%">
 </div>
 <figcaption>It got snowy one day</figcaption>
 <br>
 <div class="floating-box">
-  <img src="/my-story/pictures/f18/15.JPG" width="50%" height="50%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/f18/15.JPG" width="50%" height="50%">
 </div>
 <figcaption>I was winding down playing melee competitively but I went to one last tournament at Crossroads near Laurier. I placed 9th out of 13 people. Hilariously this may be my best placing ever at an official tournament.</figcaption>
 <br>
 <div class="floating-box">
-  <img src="/my-story/pictures/f18/16.JPG" width="40%" height="40%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/f18/16.JPG" width="40%" height="40%">
 </div>
 <figcaption>TnT opened in Waterloo and I lined up opening day. I also like getting Taiyaki.</figcaption>
 
@@ -625,12 +625,12 @@ After this term I had completed ALL my course requirements for the Bachelor of C
 This term I took cs454 (distributed systems), econ212 (game theory), and co353 (computational discrete optimization). This term I took distributed out of interest, econ212 for fun, and co353 to finish my combinatorics minor. I liked econ212 cause you play game and test out your game theory strategies. I did much better in cs454 compared to cs350 despite it being similar working at the OS level. This time I didn't skip assignments to go to hackathons.
 
 <div class="floating-box">
-  <img src="/my-story/pictures/w19/1.JPG" width="60%" height="60%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/w19/1.JPG" width="60%" height="60%">
 </div>
 <figcaption>I attended one of Dave Tompkin's Reddit meet ups! I've been meaning to attend one for a while but I was never in Waterloo at the time. I'm not a reddit celebrity but I met a few notable names in person.</figcaption>
 <br>
 <div class="floating-box">
-  <img src="/my-story/pictures/w19/3.JPG" width="60%" height="60%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/w19/3.JPG" width="60%" height="60%">
 </div>
 <figcaption>My friend David was helping out at an algorithm prep session held by the CS Club. (or something like that) Mostly 1st and 2nd years were there but it was a great way to try and help out people with technical interview prep.</figcaption>
 
@@ -644,52 +644,52 @@ I interviewed externally with a California company and I passed the interview. T
 
 This time I passed Zenefits' interview. So for the first time I was headed to Vancouver for a co-op.
 
-## Spring 2019
+## Spring 2019 (Work Term 4)
 
 I worked at Zenefits in Vancouver this term. This was probably the best accidental experience ever. I was really aiming for California but Vancouver was amazing. I loved the UBC area, Vancouver downtown, and everything that made Vancouver different from Toronto.
 
 <div class="floating-box">
-  <img src="/my-story/pictures/s19/1.JPG" width="60%" height="60%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/s19/1.JPG" width="60%" height="60%">
 </div>
 <figcaption>Sunset at the UBC beach</figcaption>
 <br>
 <div class="floating-box">
-  <img src="/my-story/pictures/s19/2.JPG" width="60%" height="60%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/s19/2.JPG" width="60%" height="60%">
 </div>
 <figcaption>UBC campus at night illuminated by blue lights</figcaption>
 <br>
 <div class="floating-box">
-  <img src="/my-story/pictures/s19/3.JPG" width="60%" height="60%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/s19/3.JPG" width="60%" height="60%">
 </div>
 <figcaption>Garibaldi Lake near Whistler, BC</figcaption>
 <br>
 <div class="floating-box">
-  <img src="/my-story/pictures/s19/4.JPG" width="40%" height="40%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/s19/4.JPG" width="40%" height="40%">
 </div>
 <figcaption>Zenefits fridge. I love LaCroix.</figcaption>
 <br>
 <div class="floating-box">
-  <img src="/my-story/pictures/s19/5.JPG" width="60%" height="60%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/s19/5.JPG" width="60%" height="60%">
 </div>
 <figcaption>Garden at UBC with mountains in the back</figcaption>
 <br>
 <div class="floating-box">
-  <img src="/my-story/pictures/s19/6.JPG" width="60%" height="60%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/s19/6.JPG" width="60%" height="60%">
 </div>
 <figcaption>Another photo of Garibaldi Lake near Whistler, BC</figcaption>
 <br>
 <div class="floating-box">
-  <img src="/my-story/pictures/s19/7.JPG" width="60%" height="60%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/s19/7.JPG" width="60%" height="60%">
 </div>
 <figcaption>Zenefits quarterly event, kayaking at Deep Cove</figcaption>
 <br>
 <div class="floating-box">
-  <img src="/my-story/pictures/s19/8.JPG" width="60%" height="60%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/s19/8.JPG" width="60%" height="60%">
 </div>
 <figcaption>My Uncle's shiba inu named "Yoshi"</figcaption>
 <br>
 <div class="floating-box">
-  <img src="/my-story/pictures/s19/9.JPG" width="60%" height="60%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/s19/9.JPG" width="60%" height="60%">
 </div>
 <figcaption>A huge spider I found in my sublet. That was about the size of the palm of my hand.</figcaption>
 
@@ -698,17 +698,17 @@ I continued to interview for internships (common theme) at Zenefits (since techn
 I used WaterlooWorks. Officially I wasn't in Waterloo so I couldn't even go to the Tatham Centre for interviews. I had 0 official interviews. I had 3 interviews scheduled externally. I passed two of them. I passed the Amazon interview but they said they "ran out of spots". So I went with the only offer I had which was LinkedIn for UI Engineer intern. UI wasn't my specialty, but I wanted to walk in with an open mind to learn as much as I could.
 
 <div class="floating-box">
-  <img src="/my-story/pictures/s19/10.JPG" width="40%" height="40%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/s19/10.JPG" width="40%" height="40%">
 </div>
 <figcaption>Mango bingsoo from Snowy Village. It might be my favourite dessert place ever. (Salt and Straw and Rain or Shine are so good too. Too hard to decide.) **Side Note:** Vancouver is my favourite food place on Earth. I love the ramen and sushi in Vancouver. So much good food and isn't expensive like Cali or Seattle.</figcaption>
 <br>
 <div class="floating-box">
-  <img src="/my-story/pictures/s19/11.JPG" width="40%" height="40%">
+  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/s19/11.JPG" width="40%" height="40%">
 </div>
 <figcaption>Danny Green (NBA player) came and did a fan signing at a London Drugs that was opening in the Point Grey/Dunbar area</figcaption>
 <br>
 
-## Fall 2019
+## Fall 2019 (Work Term 5)
 
 After many years of grinding for interviews, I had gotten a developer job in California. Was the feeling as gratifying as I had always hoped it would be? It wasn't. If anything I had felt it was disappointing with how I envisioned the gradiose nature of getting it would be. You yearn for something so long and idolize it as a goal and when it is in the palm of your hand you are almost disappointed it is a mortal reality. Something hyped up that much really puts in the meaning to "never meet your heroes, you'll only be disappointed".
 

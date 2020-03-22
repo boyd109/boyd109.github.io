@@ -59,17 +59,6 @@ As you can see I've definitely slowed down in the number of hackathons I've gone
 
 Total: ~20
 
-Even though it looks like I've been to a lot of hackathons, here is a list of the ones where I've been rejected:
-- HackTheNorth 2015 (Waterloo)
-- HackTheNorth 2016 (Waterloo)
-- UofTHacks 2016 (UofT)
-- RUHacks 2017 (Ryerson)
-- RoboHacks 2017 (McGill)
-- HackBrown 2017 (Brown University)
-- Hack Illinois 2017 (U of Illinois)
-- LHacks 2017 (Laurier)
-- HackPrinceton 2017 (Princeton)
-
 A list of hackathons I wanted to go to previously.
 
 #### Attend American Hackathons
