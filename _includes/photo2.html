@@ -1,0 +1,22 @@
+<div class="floating-box">
+  <a href="{{ include.img1 }}">
+    <img src="/assets/lazy/lazy.png" data-echo="{{ include.img1 }}" width="45%" height="45%">
+  </a>
+</div>
+<div class="floating-box">
+  <a href="{{ include.img2 }}">
+    <img src="/assets/lazy/lazy.png" data-echo="{{ include.img2 }}" width="45%" height="45%">
+  </a>
+</div>
+
+{% if include.caption %}
+  <figcaption>{{ include.caption }}</figcaption>
+{% endif %}
+{% if include.caption1 %}
+  <figcaption>1. {{ include.caption1 }}</figcaption>
+{% endif %}
+
+{% if include.caption2 %}
+  <figcaption>1. {{ include.caption2 }}</figcaption>
+{% endif %}
+<br>

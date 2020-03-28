@@ -10,7 +10,7 @@ permalink: /my-story/
 - [Winter 2015 (1B)](#winter-2015-1b)
 - [Spring 2015 (Break)](#spring-2015-break)
 - [Fall 2015 (2A)](#fall-2015-2a)
-- [Winter 2016 (Work Term \#1)](#winter-2016-work-term-1)
+- [Winter 2016 (Work Term \#1 at Intrafinity)](#winter-2016-work-term-1)
 - [Spring 2016 (2B)](#spring-2016-2b)
 - [Fall 2016 (2B)](#fall-2016-2b)
 - [Winter 2017 (Work Term \#2 at SurfEasy)](#winter-2017-work-term-2)
@@ -20,8 +20,8 @@ permalink: /my-story/
 - [Spring 2018 (Work Term \#3 at Okta)](#spring-2018)
 - [Fall 2018](#fall-2018)
 - [Winter 2019](#winter-2019)
-- [Spring 2019](#spring-2019)
-- [Fall 2019](#fall-2019)
+- [Spring 2019 (Work Term \#4 at Zenefits)](#spring-2019)
+- [Fall 2019 (Work Term \#5 at LinkedIn)](#fall-2019)
 - [Winter 2020](#winter-2020-present)
 
 # My Story
@@ -36,21 +36,7 @@ I didn't take any Computer Science courses in high school, and in hindsight, I s
 
 I entered the University of Waterloo Science and Business Program with a specialization in chemistry. I was interested in both facets and I was extremely excited to be a part of the program. The only time I had ever lived away from home for a prolonged period of time was for [Shad Valley](http://www.shad.ca), where I went to Halifax and stayed at Dalhousie University for a month. It was an amazing experience to see the (far) east coast of Canada. Here's some photos from Shad Valley:
 
-<div class="floating-box">
-  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1a/s1.jpg" width="32%" height="32%">
-</div>
-<div class="floating-box">
-  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1a/s2.jpg" width="32%" height="32%">
-</div>
-<div class="floating-box">
-  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1a/s3.jpg" width="32%" height="32%">
-</div>
-
-<figcaption>1. Nice view from the top of somewhere we had gone for the weekend.</figcaption>
-
-<figcaption>2. We visited some smaller towns built by the rivers. It was an interesting view since I lived in Toronto which by comparison was not small-town like this.</figcaption>
-
-<figcaption>3. Had some delicious lobster while in the east coast. I actually ate it at a place in PEI, and not in Nova Scotia or New Brunswick. </figcaption>
+{% include photo3.html img1="/my-story/pictures/1a/s1.jpg" img2="/my-story/pictures/1a/s2.jpg" img3="/my-story/pictures/1a/s3.jpg" caption1="Nice view from the top of somewhere we had gone for the weekend." caption2= "We visited some smaller towns built by the rivers. It was an interesting view since I lived in Toronto which by comparison was not small-town like this." caption3="Had some delicious lobster while in the east coast. I actually ate it at a place in PEI, and not in Nova Scotia or New Brunswick." %}
 
 <br>
 
@@ -69,62 +55,25 @@ I entered the University of Waterloo Science and Business Program with a special
 
 After doing a couple labs in science, (realizing maybe I wasn't so good at chemistry labs) and attending my first hackathon ever (Terrible Hack 2), I was amazed at the world of possibility in Computer Science. I wanted to switch into Computer Science at this point.
 
-<div class="floating-box">
-  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1b/4-1.jpg" width="32%" height="32%">
-</div>
-<div class="floating-box">
-  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1b/4-2.jpg" width="32%" height="32%">
-</div>
-{% include photo.html img="/my-story/pictures/1b/4-3.jpg" size="32%" height="32%" caption="The winter was pretty snowy that year. The whole campus was covered in a blanket of snow. In the picture on the far left of these three, is a scene near EIT. In the back you can barely make out two figures, one of which is the President of the University of Waterloo, Feridun Hamdullahpur." %}
-
-<br>
+{% include photo3.html img1="/my-story/pictures/1b/4-1.jpg" img2="/my-story/pictures/1b/4-2.jpg" img3="/my-story/pictures/1b/4-3.jpg" caption="The winter was pretty snowy that year. The whole campus was covered in a blanket of snow. In the picture on the far left of these three, is a scene near EIT. In the back you can barely make out two figures, one of which is the President of the University of Waterloo, Feridun Hamdullahpur." %}
 
 {% include photo.html img="/my-story/pictures/1b/4-4.jpg" size="40%" caption="A Christmas tree can be seen on the top of DP Library." %}
 
 <figcaption>The campus covered in a thick layer of snow and I took some photos of it.</figcaption>
-<div class="floating-box">
-  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1b/5-1.jpg" width="32%" height="32%">
-</div>
-<div class="floating-box">
-  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1b/5-2.jpg" width="32%" height="32%">
-</div>
-{% include photo.html img="/my-story/pictures/1b/5-3.jpg" size="32%" height="32%" caption="Near the Tatham Centre and Hagey Hall." %}
 
-<br>
+{% include photo3.html img1="/my-story/pictures/1b/5-1.jpg" img2="/my-story/pictures/1b/5-2.jpg"  img3="/my-story/pictures/1b/5-3.jpg" caption="Near the Tatham Centre and Hagey Hall." %}
 
-<div class="floating-box">
-  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1b/5-4.jpg" width="32%" height="32%">
-</div>
-<div class="floating-box">
-  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1b/5-5.jpg" width="32%" height="32%">
-</div>
-{% include photo.html img="/my-story/pictures/1b/5-6.jpg" size="32%" height="32%" caption="Beside DC and MC." %}
+{% include photo3.html img1="/my-story/pictures/1b/5-4.jpg" img2="/my-story/pictures/1b/5-5.jpg" img3="/my-story/pictures/1b/5-6.jpg" caption="Beside DC and MC." %}
 
-<br>
+{% include photo3.html img1="/my-story/pictures/1b/5-7.jpg" img2="/my-story/pictures/1b/5-8.jpg" img3="/my-story/pictures/1b/5-9.jpg" caption="Views of DP Library and V1 Green." %}
 
-<div class="floating-box">
-  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1b/5-7.jpg" width="32%" height="32%">
-</div>
-<div class="floating-box">
-  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1b/5-8.jpg" width="32%" height="32%">
-</div>
-{% include photo.html img="/my-story/pictures/1b/5-9.jpg" size="32%" height="32%" caption="Views of DP Library and V1 Green." %}
-
-<div class="floating-box">
-  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1b/6-1.jpg" width="32%" height="32%">
-</div>
-<div class="floating-box">
-  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/1b/6-2.jpg" width="32%" height="32%">
-</div>
-{% include photo.html img="/my-story/pictures/1b/6-3.jpg" size="32%" height="32%" caption="The Science Teaching Complex and Needles Hall Expansion were still being built at the time. The parking lot at night near PAC, and QNC at night." %}
+{% include photo3.html img1="/my-story/pictures/1b/6-1.jpg" img2="/my-story/pictures/1b/6-2.jpg" img3="/my-story/pictures/1b/6-3.jpg" size="32%" height="32%" caption="The Science Teaching Complex and Needles Hall Expansion were still being built at the time. The parking lot at night near PAC, and QNC at night." %}
 
 {% include photo.html img="/my-story/pictures/1b/3.jpg" size="40%" caption="I also participated in Model UN, and got 'Best Delegate' at their first in-house committee. I really enjoyed DECA and Model UN in high school, and I continued to participate in those clubs in university. I went to UTMUN, a University of Toronto run Model UN event in Winter 2015 as well." %}
 
 ## Spring 2015 (break)
 
-{% include photo.html img="/my-story/pictures/break/amiiboplace.png" size="20%" %}
-
-I spent the summer working with HTML, CSS, and Bootstrap. I worked with my friend on a website called [Amiiboplace.com](#), originally to be used for trading and selling amiibos. I decided to use a Wordpress CMS on the website, and I now use it to write and post Smash Bros related news.
+{% include photo.html img="/my-story/pictures/break/amiiboplace.png" size="20%" caption="I spent the summer working with HTML, CSS, and Bootstrap. I worked with my friend on a website called 'Amiiboplace.com', originally to be used for trading and selling amiibos. I decided to use a Wordpress CMS on the website, and I now use it to write and post Smash Bros related news." %}
 
 **Updated:** Didn't renew the domain and I haven't kept up with melee as much so yeah.
 
@@ -132,19 +81,7 @@ I spent the summer working with HTML, CSS, and Bootstrap. I worked with my frien
 
 {% include photo.html img="/my-story/pictures/2a/7-1.jpg" size="30%" caption="I was a Science Orientation Leader in Fall 2015." %}
 
-<figure>
-<div class="floating-box">
-  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/2a/8-1.jpg" width="32%" height="32%">
-</div>
-<div class="floating-box">
-  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/2a/8-2.jpg" width="32%" height="32%">
-</div>
-<div class="floating-box">
-  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/2a/16.jpg" width="32%" height="32%">
-</div>
-  <figcaption>I attended Terrible Hack 2, my first hackathon, and I was intrigued by the projects created. My friend and I didn't make anything too spectacular, but I was motivated to learn and create things on my own. At the time I didn't know a lot of the people presenting. I would eventually meet some of them at the Velocity Residence in Spring 2016.</figcaption>
-</figure>
-
+{% include photo3.html img1="/my-story/pictures/2a/8-1.jpg" img2="/my-story/pictures/2a/8-2.jpg" img3="/my-story/pictures/2a/16.jpg" caption="I attended Terrible Hack 2, my first hackathon, and I was intrigued by the projects created. My friend and I didn't make anything too spectacular, but I was motivated to learn and create things on my own. At the time I didn't know a lot of the people presenting. I would eventually meet some of them at the Velocity Residence in Spring 2016." %}
 
 {% include photo.html img="/my-story/pictures/2a/9-1.jpg" size="40%" caption="I was part of the first ever Model UN in Waterloo called UWaterloo Model G20 as a assistant director of the committee." %}
 
@@ -166,25 +103,9 @@ I had a co-op placement at Intrafinity (also called School Messenger since they 
 
 I arrived back for an academic term in the spring. I took CLAS 104, CS 116, Math 135, and Stat 230. I loved CS 116 and the logical application of solving questions using Python. Although Math 135's math proofs were a bit rocky I ended up doing pretty well in the course and by the end I enjoyed the content overall. (Mod and complex-numbers and n-th roots were my favourite concepts taught in the course)
 
-<div class="floating-box">
-  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/2b/11-1.jpg" width="32%" height="32%">
-</div>
-<div class="floating-box">
-  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/2b/11-2.jpg" width="32%" height="32%">
-</div>
-<div class="floating-box">
-  <img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/2b/11-3.jpg" width="34%" height="34%">
-</div>
-
-<figcaption>I stayed at the Velocity Residence this term. The events were awesome there, and I recommend anyone even slightly interested in entrepreneurship to stay for a term and see if it is right for them. The dinner events where we could talk to start-ups and other speakers was my favourite part of the residence.</figcaption>
-<figcaption>1. The first photo is my velocity sweater I got for staying in the residence.</figcaption>
-<figcaption>2. The middle one is a picture of the Communitech sign when I went to their office for a big Velocity dinner.</figcaption>
-<figcaption>3. mural of the Google logo, since Communitech moved into Google's old building a lot of paintings were left there.</figcaption>
-
-<br>
+{% include photo3.html img1="/my-story/pictures/2b/11-1.jpg" img2="/my-story/pictures/2b/11-2.jpg" img3="/my-story/pictures/2b/11-3.jpg" caption="I stayed at the Velocity Residence this term. The events were awesome there, and I recommend anyone even slightly interested in entrepreneurship to stay for a term and see if it is right for them. The dinner events where we could talk to start-ups and other speakers was my favourite part of the residence" caption1="My velocity sweater I got for staying in the residence." caption2="The middle one is a picture of the Communitech sign when I went to their office for a big Velocity dinner." caption3="Mural of the Google logo, since Communitech moved into Google's old building a lot of paintings were left there."%}
 
 {% include photo.html img="/my-story/pictures/2b/11-4.jpg" size="40%" caption="This is what it looks like inside of the Communitech office." %}
-
 
 {% include photo.html img="/my-story/pictures/2b/11-5.jpg" size="40%" caption="I also attended EngHack and worked in a team with some of my friends. We worked on a chatbot that gave Google Maps directions when you put in a location." %}
 
@@ -208,33 +129,22 @@ This was my first experience outside of the country for a hackathon. It took pla
 ## Winter 2017 (Work Term 2)
 {% include photo.html img="/my-story/pictures/wt2/surfeasy.png" size="40%" caption="I worked at SurfEasy VPN as a QA Analyst. It is an awesome startup with great culture and talented individuals that believe in their product quality first and foremost. I learned about the development cycle of software in a real work setting, worked in a tight knit team on logging and investigating bugs, and coded some of the iOS mobile automation tests during my time there." %}
 
-It grew in size, got a new office, and expanded their product line, so the company was doing amazingly well, and I was happy to be able to make a meaningful impact to the company during a time of high growth. (SurfEasy has since been bought by Symantec)[https://www.marketwatch.com/story/symantec-acquires-vpn-provider-surfeasy-2017-11-06]
+It grew in size, got a new office, and expanded their product line, so the company was doing amazingly well, and I was happy to be able to make a meaningful impact to the company during a time of high growth. [SurfEasy has since been bought by Symantec](https://www.marketwatch.com/story/symantec-acquires-vpn-provider-surfeasy-2017-11-06)
 
 ## Hackathons and Hackathons
 I tried to code as much as I could during the term and go to as many hackathons as I could.
 
-<img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/wt2/uofthacks.png" width="40%" height="40%">
-<img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/wt2/qhacks.png" width="40%" height="40%">
-<br>
-<img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/wt2/mhacks9.png" width="40%" height="40%">
-<img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/wt2/hackprinceton.png" width="40%" height="40%">
-<br>
+{% include photo2.html img1="/my-story/pictures/wt2/uofthacks.png" img2="/my-story/pictures/wt2/qhacks.png" %}
+{% include photo2.html img1="/my-story/pictures/wt2/mhacks9.png" img2="/my-story/pictures/wt2/hackprinceton.png" %}
 
 There were way too many photos, and it was an amazing experience. Mhacks and hackPrinceton were amazing hackathons in the US, and I highly recommend them to anyone. I actually didn't even get accepted to HackPrinceton, but I still decided to try to get on the bus to try and work on programming as much as I could, and see Princeton University. I went and luckily they let me in (begrudgingly but we take those). From that point onwards, I think after HackPrinceton, I truly understood my love for hackathons and creating ideas/projects/solutions through coding.
 
-Small summary of photos from UofTHacks, QHacks, MHacks9, and HackPrinceton:  
-<img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/wt2/1.png" width="40%" height="40%">
-<img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/wt2/2.png" width="40%" height="40%">
-<br>
-<img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/wt2/3.png" width="40%" height="40%">
-<img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/wt2/4.png" width="40%" height="40%">
-<br>
-<img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/wt2/5.png" width="40%" height="40%">
-<img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/wt2/6.png" width="40%" height="40%">
-<br>
-<img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/wt2/7.png" width="40%" height="40%">
-<img src="/assets/lazy/lazy.png" data-echo="/my-story/pictures/wt2/8.png" width="40%" height="40%">
-<br>
+Small summary of photos from UofTHacks, QHacks, MHacks9, and HackPrinceton:
+{% include photo2.html img1="/my-story/pictures/wt2/1.png" img2="/my-story/pictures/wt2/2.png" %}
+
+{% include photo2.html img1="/my-story/pictures/wt2/3.png" img2="/my-story/pictures/wt2/4.png" %}
+
+{% include photo2.html img1="/my-story/pictures/wt2/5.png" img2="/my-story/pictures/wt2/6.png" %}
 
 **UPDATE: I uploaded separate pages for MHacks9 and HackPrinceton2017. Check it out here:**
 <a href="/mhacks9/">MHacks9</a>
