@@ -17,11 +17,11 @@ permalink: /my-story/
 - [Spring 2017](#spring-2017)
 - [Fall 2017](#fall-2017)
 - [Winter 2018](#winter-2018)
-- [Spring 2018 (Work Term \#3 at Okta)](#spring-2018)
+- [Spring 2018 (Work Term \#3 at Okta)](#spring-2018-work-term-3)
 - [Fall 2018](#fall-2018)
 - [Winter 2019](#winter-2019)
-- [Spring 2019 (Work Term \#4 at Zenefits)](#spring-2019)
-- [Fall 2019 (Work Term \#5 at LinkedIn)](#fall-2019)
+- [Spring 2019 (Work Term \#4 at Zenefits)](#spring-2019- work-term-4)
+- [Fall 2019 (Work Term \#5 at LinkedIn)](#fall-2019-work-term-5)
 - [Winter 2020](#winter-2020-present)
 
 # My Story
