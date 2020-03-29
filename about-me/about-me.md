@@ -17,7 +17,7 @@ I've been to a lot of hackathons traveling the US and Canada: [Devpost](https://
 
 <img src="/about-me/pictures/leetcode.png" width="40%" height="40%"/>
 
-Top 8% in Leetcode Weekly Contests, 350+ Solved Leetcode questions: [Leetcode](https://leetcode.com/jonathantsang/)
+Top 5% in Leetcode Weekly Contests, Rating over 1800 in Leetcode Weekly Contests, 350+ Solved Leetcode questions: [Leetcode](https://leetcode.com/jonathantsang/)
 
 <img src="/about-me/pictures/kattis.png" width="40%" height="40%"/>
 
