@@ -8,7 +8,7 @@ date: 2/10/2020
 order: 1
 ---
 
-In doing research for this blog post I wanted to compile the most influential blog posts and sites that I read when I was in undergrad. Luckily enough I found a github repo listing a lot of ones that I had seen previously or had yet to discover: [Link](https://github.com/rudi-c/the-waterloo-blogger. )
+In doing research for this blog post I wanted to compile the most influential blog posts and sites that I read when I was in undergrad. Luckily enough I found a github repo listing a lot of ones that I had seen previously or had yet to discover: [Link](https://github.com/rudi-c/the-waterloo-blogger)
 
 Most are from Waterloo, but some are just general tech/life posts.
 
