@@ -4,7 +4,7 @@ title: What do to if you don't get in Waterloo CS
 permalink:
 category: learning
 tag: learning
-date: 04/12/2020
+date: 12/4/2020
 order: 7
 ---
 
