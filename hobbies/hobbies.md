@@ -8,7 +8,7 @@ Aside from regular coding here's some stuff I enjoy doing in my free time. I use
 
 ### (Rap) Genius site
 
-<img src="/hobbies/pictures/genius.png"/>
+<img src="/hobbies/pictures/genius.png" width="40%" height="40%"/>
 
 Over 3000 IQ on Rap Genius.
 
@@ -30,13 +30,13 @@ alt="" width="360" height="180" border="10"/></a>
 
 ### Pokemon Showdown
 
-<img src="/hobbies/pictures/showdown.png"/>
+<img src="/hobbies/pictures/showdown.png" width="40%" height="40%"/>
 
 Rating 1500+ for both gen7randombattle and gen8randombattle (or somewhere around there)
 
-https://pokemonshowdown.com/users/modularization
+[modularization](https://pokemonshowdown.com/users/modularization)
 
-https://pokemonshowdown.com/users/recklessinkblot
+[recklessinkblot](https://pokemonshowdown.com/users/recklessinkblot)
 
 ### Clone Hero (Guitar Hero)
 
