@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Competitive Programming
-permalink: /acp/
+permalink: /cp/
 ---
 
 ### Leetcode Contest Ranks
@@ -11,6 +11,8 @@ permalink: /acp/
 `1973` Rating
 
 `1907 / 89732` Global Ranking
+
+<img src="graph.png"/>
 
 **last updated: April 14th, 2020**
 - weekly-contest-184 411/13663 Top `3.00%`
