@@ -23,6 +23,8 @@ I've been to a lot of hackathons traveling the US and Canada: [Devpost](https://
 
 `400+` Solved Leetcode questions: [Leetcode](https://leetcode.com/jonathantsang/)
 
+Read more about my competitive programming [here](https://jonathantsang.github.io/cp/)
+
 <img src="/about-me/pictures/kattis.png" width="40%" height="40%"/>
 
 Kattis is an online problem archive.
