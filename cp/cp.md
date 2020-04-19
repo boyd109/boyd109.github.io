@@ -14,7 +14,9 @@ permalink: /cp/
 
 <img src="graph.png"/>
 
-**last updated: April 14th, 2020**
+**last updated: April 18th, 2020**
+- weekly-contest-185 1246/14200 Top `8.77%` (Excuse: I cut my hand making breakfast after biweekly-contest-24 and I had to do this injured)
+- biweekly-contest-24 2190/7729 Top `28.33%` (YIKES)
 - weekly-contest-184 411/13663 Top `3.00%`
 - weekly-contest-183 767/12542 Top `6.12%`
 - weekly-contest-182 162/11694 Top `1.39%`
