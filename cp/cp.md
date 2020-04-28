@@ -14,7 +14,8 @@ permalink: /cp/
 
 <img src="graph.jpg"/>
 
-**last updated: April 18th, 2020**
+**last updated: April 25th, 2020**
+- weekly-contest-186, `1559/11684` Top `13.34%` (YIKES)
 - weekly-contest-185, `1246/14200`, Top `8.77%` (Excuse: I cut my hand making breakfast after biweekly-contest-24 and I had to do this injured)
 - biweekly-contest-24, `2190/7729`, Top `28.33%` (YIKES)
 - weekly-contest-184, `411/13663`, Top `3.00%`
@@ -97,10 +98,12 @@ permalink: /cp/
 
 ### Codeforces Contests
 
-Contest rating: `1395`
+Contest rating: `1307`
 
 https://codeforces.com/contests/with/recklessinkblot
 
+- Education Codeforces Round 86 Div 2, Rank `10178`, Solved `1` (YIKES)
+- Codeforces Round \#637 Div 2, Rank `8925`, Solved `1` (YIKES)
 - Codeforces Round \#636 Div 3, Rank `3903`, Solved `3`
 - Codeforces Round \#635 Div 2, Rank `4953`, Solved `2`
 - Codeforces Round \#634 Div 3, Rank `2144`, Solved `4`
