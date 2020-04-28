@@ -117,3 +117,14 @@ https://codeforces.com/contests/with/recklessinkblot
 - Codeforces Round \#472 Div 2, Rank `1972`, Solved `1`
 - Codeforces Round \#471 Div 2, Rank `1583`, Solved `1`
 - Codeforces Round \#470 Div 2, Rank `2304`, Solved `1`
+
+### Topcoder
+
+User name:             recklessinkblot
+Rating (highest):      1156 (1156)
+Rated events:          1
+Last event:            Apr 28, 2020
+Member since:          Apr 15, 2020
+Country:               Canada
+Coder type:            Professional
+Default language:      Python
