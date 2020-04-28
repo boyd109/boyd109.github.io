@@ -120,11 +120,18 @@ https://codeforces.com/contests/with/recklessinkblot
 
 ### Topcoder
 
-User name:             recklessinkblot
-Rating (highest):      1156 (1156)
+User name:             `recklessinkblot`
+
+Rating (highest):      `1156` (1156)
+
 Rated events:          1
+
 Last event:            Apr 28, 2020
+
 Member since:          Apr 15, 2020
+
 Country:               Canada
+
 Coder type:            Professional
+
 Default language:      Python
