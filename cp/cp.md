@@ -98,10 +98,11 @@ permalink: /cp/
 
 ### Codeforces Contests
 
-Contest rating: `1307`
+Contest rating: `1352`
 
 https://codeforces.com/contests/with/recklessinkblot
 
+- Codeforces Round \#638 Div 2, Rank `5501`, Solved `2`
 - Education Codeforces Round 86 Div 2, Rank `10178`, Solved `1` (YIKES)
 - Codeforces Round \#637 Div 2, Rank `8925`, Solved `1` (YIKES)
 - Codeforces Round \#636 Div 3, Rank `3903`, Solved `3`
