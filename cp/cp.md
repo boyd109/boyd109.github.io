@@ -8,13 +8,15 @@ permalink: /cp/
 
 `78` Finished Contests
 
-`1952` Rating
+`1948` Rating
 
-`2190 / 92554` Global Ranking
+`2251 / 93873` Global Ranking
 
-<img src="graph.jpg"/>
+<img src="leetcode.jpg"/>
 
-**last updated: April 25th, 2020**
+**last updated: May 3rd, 2020**
+- weekly-contest-187 `955/12349`, Top `7.73%`
+- biweekly-contest-25, `1210/7699`, Top `15.72%`
 - weekly-contest-186, `1559/11684` Top `13.34%` (YIKES)
 - weekly-contest-185, `1246/14200`, Top `8.77%` (Excuse: I cut my hand making breakfast after biweekly-contest-24 and I had to do this injured)
 - biweekly-contest-24, `2190/7729`, Top `28.33%` (YIKES)
@@ -100,7 +102,9 @@ permalink: /cp/
 
 Contest rating: `1352`
 
-https://codeforces.com/contests/with/recklessinkblot
+<img src="codeforces.jpg"/>
+
+[https://codeforces.com/contests/with/recklessinkblot](https://codeforces.com/contests/with/recklessinkblot)
 
 - Codeforces Round \#638 Div 2, Rank `5501`, Solved `2`
 - Education Codeforces Round 86 Div 2, Rank `10178`, Solved `1` (YIKES)
@@ -125,14 +129,14 @@ User name:             `recklessinkblot`
 
 Rating (highest):      `1156` (1156)
 
-Rated events:          1
+### BinarySearch.io
 
-Last event:            Apr 28, 2020
+[https://binarysearch.io/@/recklessinkblot](https://binarysearch.io/@/recklessinkblot)
 
-Member since:          Apr 15, 2020
+Ranking `50`
 
-Country:               Canada
+Rating `1575`
 
-Coder type:            Professional
+Participated `1`
 
-Default language:      Python
+- Contest 3: `23rd` scored 7 points and solved in 28 minutes, 29 seconds
