@@ -6,7 +6,7 @@ permalink: /cp/
 
 ### Leetcode Contest Ranks
 
-`78` Finished Contests
+`82` Finished Contests
 
 `1948` Rating
 
@@ -123,12 +123,6 @@ Contest rating: `1352`
 - Codeforces Round \#471 Div 2, Rank `1583`, Solved `1`
 - Codeforces Round \#470 Div 2, Rank `2304`, Solved `1`
 
-### Topcoder
-
-User name:             `recklessinkblot`
-
-Rating (highest):      `1156` (1156)
-
 ### BinarySearch.io
 
 [https://binarysearch.io/@/recklessinkblot](https://binarysearch.io/@/recklessinkblot)
@@ -139,4 +133,11 @@ Rating `1575`
 
 Participated `1`
 
-- Contest 3: `23rd` scored 7 points and solved in 28 minutes, 29 seconds
+- Contest 5: Placed `15th` solved 3/4 scored 12 points and solved in 49 minutes, 37 seconds (Unranked due to server issues)
+- Contest 4: Placed `23rd` solved 2/4 scored 7 points and solved in 28 minutes, 29 seconds
+
+### Topcoder
+
+User name:             `recklessinkblot`
+
+Rating (highest):      `1156` (1156)
