@@ -9,6 +9,8 @@ Interested in photos from some of the events I went to? Check it out here:
 # Photos from Hackthons:
 - [MHacks8](/mhacks8)
 - [TerribleHack5](/th5)
+- [UofTHacks](/uofthacks)
+- [QHacks](/qhacks)
 - [MHacks9](/mhacks9)
 - [HackPrinceton2017](/hackprinceton2017)
 - [PennApps XVI](/pennappsxvi)
@@ -20,6 +22,8 @@ Interested in photos from some of the events I went to? Check it out here:
 - [RedBull Adrenalan](/redbulladrenalan)
 - [PennApps XVIII](/pennappsxviii)
 - [Mhacks11](/mhacks11)
+- [CalHacks](/calhacks)
+- [NWHacks](/nwhacks)
 
 List of all hackathons I've been to (In-order):
 
@@ -48,11 +52,9 @@ List of all hackathons I've been to (In-order):
 - MHacks 11: Oct 11-12
 
 ##### 2019:
-
 - Calhacks: Oct 25-27
 
 ##### 2020:
-
 - Nwhacks: Jan 11-12
 
 As you can see I've definitely slowed down in the number of hackathons I've gone to.
