@@ -10,7 +10,7 @@ order: 1
 
 This is more of a funny story and not really that serious. I just found it funny looking back. In 2017-2018 I went on a pretty long hackathon tour travelling around the US and Canada.
 
-<img src="1/hackathons.jpg"/>
+<img src="/blog/stories/1/hackathons.jpg"/>
 (Photo shows the hackathons with most recent at the top)
 
 I went to: (in-order)

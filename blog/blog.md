@@ -22,7 +22,7 @@ Blog posts aimed towards undergrads with some useful information.
 
 ### Co-op Blog Posts
 
-Blog posts focused mainly on the Waterloo co-op program.
+Blog posts focused mainly on the Waterloo co-op program and my co-op experiences.
 <ol>
 {% assign sorted_pages = site.pages | sort:"order" %}
 {% for p in sorted_pages %}
