@@ -3,18 +3,18 @@ layout: page
 title: Competitive Programming
 permalink: /cp/
 ---
+**last updated: May 6th, 2020**
 
 ### Leetcode Contest Ranks
 
-`82` Finished Contests
+`81` Finished Contests
 
-`1948` Rating
+`1955` Rating
 
-`2251 / 93873` Global Ranking
+`2226 / 96126` Global Ranking
 
 <img src="leetcode.jpg"/>
 
-**last updated: May 3rd, 2020**
 - weekly-contest-187 `955/12349`, Top `7.73%`
 - biweekly-contest-25, `1210/7699`, Top `15.72%`
 - weekly-contest-186, `1559/11684` Top `13.34%` (YIKES)
@@ -106,6 +106,7 @@ Contest rating: `1352`
 
 [https://codeforces.com/contests/with/recklessinkblot](https://codeforces.com/contests/with/recklessinkblot)
 
+- Codeforces Round \#639 Div 2, Rank `4000`, Solve `2` (Unranked due to server issues)
 - Codeforces Round \#638 Div 2, Rank `5501`, Solved `2`
 - Education Codeforces Round 86 Div 2, Rank `10178`, Solved `1` (YIKES)
 - Codeforces Round \#637 Div 2, Rank `8925`, Solved `1` (YIKES)
