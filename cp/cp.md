@@ -18,6 +18,7 @@ Started taking competitive programming seriously around March 2020.
 
 <img src="leetcode.jpg"/>
 
+- weekly-contest-188 Solved `4`, `442/12714`, Top `3.48%` (STOPPED THE SLUMP)
 - weekly-contest-187 `940/12353`, Top `7.61%`
 - biweekly-contest-25, `1210/7699`, Top `15.72%` (YIKES)
 - weekly-contest-186, `1559/11684` Top `13.34%` (YIKES)
@@ -109,7 +110,8 @@ Contest rating: `1352`
 
 [https://codeforces.com/contests/with/recklessinkblot](https://codeforces.com/contests/with/recklessinkblot)
 
-- Codeforces Round \#639 Div 2, Rank `4418`, Solve `2` (Unranked due to server issues)
+- Codeforces Round \#640 Div 4, Rank `5642`. Solved `4`
+- Codeforces Round \#639 Div 2, Rank `4418`, Solved `2` (Unranked due to server issues)
 - Codeforces Round \#638 Div 2, Rank `5501`, Solved `2`
 - Education Codeforces Round 86 Div 2, Rank `10178`, Solved `1` (YIKES)
 - Codeforces Round \#637 Div 2, Rank `8925`, Solved `1` (YIKES)
