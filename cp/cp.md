@@ -103,13 +103,13 @@ Started taking competitive programming seriously around March 2020.
 
 ### Codeforces Contests
 
-Contest rating: `1352`
+Contest rating: `1380`
 
 <img src="codeforces.jpg"/>
 
 [https://codeforces.com/contests/with/recklessinkblot](https://codeforces.com/contests/with/recklessinkblot)
 
-- Codeforces Round \#640 Div 4, Rank `5647`, Solved `4`
+- Codeforces Round \#640 Div 4, Rank `2631`, Solved `4`
 - Codeforces Round \#639 Div 2, Rank `4418`, Solved `2` (Unranked due to server issues)
 - Codeforces Round \#638 Div 2, Rank `5501`, Solved `2`
 - Education Codeforces Round 86 Div 2, Rank `10178`, Solved `1` (YIKES)
@@ -132,12 +132,13 @@ Contest rating: `1352`
 
 [https://binarysearch.io/@/recklessinkblot](https://binarysearch.io/@/recklessinkblot)
 
-Ranking `50`
+Ranking `38`
 
-Rating `1575`
+Rating `1653`
 
-Participated `1`
+Participated `3`
 
+- Contest 6: Placed `12th` solved 3/4 scored 12 points and solved in 24 minutes, 4 seconds
 - Contest 5: Placed `15th` solved 3/4 scored 12 points and solved in 49 minutes, 37 seconds (Unranked due to server issues)
 - Contest 4: Placed `23rd` solved 2/4 scored 7 points and solved in 28 minutes, 29 seconds
 
