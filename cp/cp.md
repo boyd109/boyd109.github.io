@@ -109,7 +109,8 @@ Contest rating: `1352`
 
 [https://codeforces.com/contests/with/recklessinkblot](https://codeforces.com/contests/with/recklessinkblot)
 
-- Codeforces Round \#639 Div 2, Rank `4418`, Solve `2` (Unranked due to server issues)
+- Codeforces Round \#640 Div 4, Rank `5647`, Solved `4`
+- Codeforces Round \#639 Div 2, Rank `4418`, Solved `2` (Unranked due to server issues)
 - Codeforces Round \#638 Div 2, Rank `5501`, Solved `2`
 - Education Codeforces Round 86 Div 2, Rank `10178`, Solved `1` (YIKES)
 - Codeforces Round \#637 Div 2, Rank `8925`, Solved `1` (YIKES)
