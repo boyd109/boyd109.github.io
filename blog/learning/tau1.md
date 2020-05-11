@@ -16,7 +16,7 @@ In this post I want to discuss about different co-op streams and what I think is
 
 The economic definition of `unemployed` is someone who is not working, but **is actively searching for employment**. By this definition some people can't find jobs in Jobmine/WaterlooWorks. The reasoning is a lot of factors (faculty, market demand, skills, etc.)
 
-How the "Cooperative Education & Career Action" or CECA keeps employment rates so high?
+How does the "Cooperative Education & Career Action" or CECA keeps employment rates so high?
 
 [From their site](https://uwaterloo.ca/co-operative-education/why-co-op/employment-statistics)
 ```
