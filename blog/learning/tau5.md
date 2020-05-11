@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Co-op evaluations
+title: What are Co-op evaluations?
 permalink: /tau5/
 category: learning
 tag: learning
@@ -8,7 +8,7 @@ date: 01/8/2017
 order: 5
 ---
 
-**edit**: I made these back in 2017. I am going back in 2020 to update info/misinformation. These are just guidelines, be sure to ask your academic advisors for concrete advice.
+**note:** I made these back in 2017. I am going back in 2020 to update info/misinformation. These are just guidelines, be sure to ask your academic advisors for concrete advice.
 
 **2020 edit:** This article in particular I'm not going to rewrite entirely but I don't think co-op evaluations matter at all. After a certain point no one really cares (unless you had a very bad evaluation, but even then you don't show it when applying to jobs externally), they just want to know where you worked/what you worked on.
 
