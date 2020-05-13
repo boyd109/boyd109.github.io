@@ -2,10 +2,10 @@
 layout: post
 title: Every hackathon I attended from Winter 2015 to Winter 2020
 permalink:
-category: learning
-tag: learning
-date: 9/3/2020
-order: 8
+category: stories
+tag: stories
+date: 3/9/2020
+order: 2
 ---
 
 **edit:** WIP so I don't lose progress on this lengthy post. (Like I did with another post :( )
@@ -150,7 +150,7 @@ We won the Storj api prize. I demoed the project to the Storj people and we got 
 
 #### PennApps XVII
 
-I went to Pennapps this time and was the bus coordinator. I was bus coordinator once and I don't think I'd do it again. Being responsible for 20-30 undergrads travelling across the border, making sure we don't forget people, and being logistically "in charge" is a big burden.
+I was a hackathon bus coordinator once ever (probably for good reason). I think I was the bus coordinator for this one. I realized being responsible for 20-30 university students on a bus travelling from Canada to the US and back was a huge responsibility. I don't think I'd do it again. Being responsible for 20-30 undergrads travelling across the border, making sure we don't forget people, and being logistically "in charge" is a big burden.
 
 I tried using NLP to parse crypto whitepages and explain them in an easy format. This project I tried to carry the team and the idea itself was a bit flawed both from UI and overall execution. Sometimes ideas flop and that's ok.
 
@@ -178,13 +178,25 @@ I was interning at Okta at the time and I wanted to go to RedBull AdrenaLan. Des
 
 #### PennApps XVIII
 
-I was a hackathon bus coordinator once ever (probably for good reason). I think I was the bus coordinator for this one. I realized being responsible for 20-30 university students on a bus travelling from Canada to the US and back was a huge responsibility.
+Honestly, I don't remember too much of this hackathon. 
 
+[Project](https://devpost.com/software/disaster-awareness-bot)
 
+[Photos](/pennappsxviii)
 
 #### MHacks 11
 
+I went to this hackathon in basically a chill trip to Michigan. I had just finished interning at Okta over the summer and didn't want to take the hackathon too seriously. I met up with Alex who also interned at Okt and I had teamed with at Mhacks 10.
 
+I teamed with Joseph, Igo, and Gabrielle. Igo and Gabrielle were high school students who said they knew iOS development so I trusted them to do that part.
+
+I mainly did graphic design for this project. Which looking back was extremely chill but also I stopped doing art class in grade 8.
+
+Igo had a Wish coding challenge and he asked me to do it for him. I aced it. I'm saying this cause I know Wish probably won't ever send me anything due to my marks, so yeah. It was an easy coding challenge too.
+
+[Project](https://devpost.com/software/snapflex)
+
+[Photos](/mhacks11)
 
 #### TerribleHacks XII
 
@@ -192,10 +204,18 @@ We don't talk about this lol. We tried organizing it and ~100 people signed up. 
 
 #### CalHacks 6.0
 
-I travelled out to Oakland from Sunnyvale which took ~2.5hours by Caltrain + bus. I also had work on Friday so I didn't get in until Saturday. I was so exhausted I didn't even submit a hack I just talked to sponsors.
+I was interning at LinkedIn in Sunnyvale at the time and wanted to go to UC Berkley. I travelled out to Oakland from Sunnyvale which took ~2.5hours by Caltrain + bus. I also had work on Friday so I didn't get in until Saturday. I was so exhausted I didn't even submit a hack I just talked to sponsors and got free swag.
+
+I was talking to a company called Sonder that was like Airbnb but leased out like WeWork. At the time WeWork was under financial investigation and litigious trouble. I was talking to them and I asked if their company was "like airbnb but leased out like wework". They did not like the association of their idea to wework.
+
+No project link
 
 [Photos](/calhacks)
 
 #### NWHacks 2020
+
+First time I got to fly to a hackathon. Vancouver is nice. I'm going to make a separate page on my entire nwhacks experience in the future.
+
+[Project](https://devpost.com/software/viteparking)
 
 [Photos](/nwhacks)
