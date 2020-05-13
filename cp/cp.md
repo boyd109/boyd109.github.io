@@ -10,11 +10,11 @@ Started taking competitive programming seriously around March 2020.
 
 ### Leetcode Contest Ranks
 
-`81` Finished Contests
+`82` Finished Contests
 
-`1955` Rating
+`1993` Rating
 
-`2226 / 96126` Global Ranking
+`1895 / 97698` Global Ranking
 
 <img src="leetcode.jpg"/>
 
@@ -104,12 +104,13 @@ Started taking competitive programming seriously around March 2020.
 
 ### Codeforces Contests
 
-Contest rating: `1380`
+Contest rating: `1371`
 
 <img src="codeforces.jpg"/>
 
 [https://codeforces.com/contests/with/recklessinkblot](https://codeforces.com/contests/with/recklessinkblot)
 
+- Codeforces Round \#641 Div 2, Rank `5597`, Solved `1`
 - Codeforces Round \#640 Div 4, Rank `2631`, Solved `4`
 - Codeforces Round \#639 Div 2, Rank `4418`, Solved `2` (Unranked due to server issues)
 - Codeforces Round \#638 Div 2, Rank `5501`, Solved `2`

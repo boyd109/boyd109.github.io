@@ -4,11 +4,11 @@ title: Every hackathon I attended from Winter 2015 to Winter 2020
 permalink:
 category: learning
 tag: learning
-date: 03/09/2020
+date: 9/3/2020
 order: 8
 ---
 
-**edit:** WIP so I don't lose progress on this length post. (Like I did with another post :( )
+**edit:** WIP so I don't lose progress on this lengthy post. (Like I did with another post :( )
 
 ### Long road of hackathons
 

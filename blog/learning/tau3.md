@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to make side projects?
+title: How to make side projects
 permalink: /tau3/
 category: learning
 tag: learning
