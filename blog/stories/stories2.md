@@ -1,20 +1,18 @@
 ---
 layout: post
 title: Every hackathon I attended from Winter 2015 to Winter 2020
-permalink:
+permalink: /stories2/
 category: stories
 tag: stories
-date: 3/9/2020
+date: 9/3/2020
 order: 2
 ---
 
-**edit:** WIP so I don't lose progress on this lengthy post. (Like I did with another post :( )
-
 ### Long road of hackathons
 
-I attended a fair amount of hackathons in the three year period. Some small, some large, some medium sized. I went overboard one term but generally I tried to get the opportunity to travel when I could.
+I attended a fair amount of hackathons in the three year period. Some small, some large, some medium sized. I went overboard one term but generally I tried to travel if I got the opportunity.
 
-I made a post about every job I applied for, so why not talk about every hackathon I went to. At the beginning I was bad...really bad. To the point where I had to make static html sites cause I didn't know how to make a web app.
+I'm (going to/did) make a blog post about every job I applied for, so why not talk about every hackathon I went to. At the beginning I was bad...really bad. To the point where I had to make static html sites cause I didn't know how to make a web app.
 
 ## Winter 2015
 
@@ -22,13 +20,21 @@ I made a post about every job I applied for, so why not talk about every hackath
 
 This was my first ever hackathon. I loved the low bar to entry and overall carefree environment to learn. I think we made a random joke generator. It was not nearly ironically bad enough to be funny, and not impressive in any way. I didn't even know Python at the time. Silent crowd reaction.
 
+No project link
+
+No photos
+
 ## Summer 2016
 
 #### Velocity Residence Hackathon
 
 I was struggling to learn how to use dbs like SQL and still trying to learn NodeJs at the time. I teamed with some hopefuls and I took the lead on the project. I had some really bad project made in HTML, CSS, and some Javscript. It kind of fell apart due to my lack of planning.
 
-I tried to make a joke pitch since our project was laughably bad. This time I was actually booed off the stage.
+I tried to make a joke pitch since our project was laughably bad. This time I was (nearly) actually booed off the stage.
+
+No project link
+
+No photos
 
 ## Fall 2016
 
@@ -38,11 +44,15 @@ I worked with my team on a chatbot that gave google maps directions. Was decent 
 
 No project link
 
+No photos
+
 #### UWPHacks
 
-Small hackathon hosted by the dons of UWP.
+Small hackathon hosted by the dons of UWP. I just followed some Unity tutorials.
 
 No project link
+
+No photos
 
 #### TerribleHack 4
 
@@ -53,6 +63,8 @@ I think this one was sponsored by Zynga. I made a pokemon go clone with Scratch 
 I pitched it to a small crowd at SCH. This time the laughter was at my project and not aimed at me. (which I count as progress)
 
 [Demo](https://www.youtube.com/watch?v=0MnGYXjksTc)
+
+No photos
 
 #### MHacks 8
 
@@ -84,7 +96,7 @@ No project link
 
 We had some habit app on Android. I didn't know Java at all and I was getting carried.
 
-I remember they were feeding us tiny food portions (like half a subway sub for lunch). Then the final meal was this all you can eat buffet at Leonard Hall one of the residence cafeterias at Queens. Our team and some other people balled out there.
+I remember they were feeding us tiny food portions (like half a subway sub for lunch). Then the final meal was this all you can eat buffet at Leonard Hall one of the residence cafeterias at Queens. Our team and some other people pigged out on food there.
 
 [Project](https://devpost.com/software/thehabit)
 
@@ -164,6 +176,8 @@ I got accepted to HackPrinceton this time (unlike last time just jumping on the 
 
 One thing I love about Hack Princeton is that you don't sleep on the campus, they pair you up with Princeton students and you get to sleep on their couch or mattress while at the hackathon. It is much better sleep than sleeping on the floor.
 
+I skipped the cs350 a3 (page table implementation I think worth ~15% of my mark) and just went to hackprinceton instead. Not a good decision in hindsight but I passed cs350.
+
 [Project](https://devpost.com/software/what-s-on-the-menu-d8x1lg)
 
 [Photos](/hackprinceton2018)
@@ -178,7 +192,7 @@ I was interning at Okta at the time and I wanted to go to RedBull AdrenaLan. Des
 
 #### PennApps XVIII
 
-Honestly, I don't remember too much of this hackathon. 
+Honestly, I don't remember too much of this hackathon.
 
 [Project](https://devpost.com/software/disaster-awareness-bot)
 
