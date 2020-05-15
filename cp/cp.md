@@ -16,6 +16,8 @@ Started taking competitive programming seriously around March 2020.
 
 `1895 / 97698` Global Ranking
 
+[Profile](https://leetcode.com/jonathantsang/)
+
 <img src="leetcode.jpg"/>
 
 - weekly-contest-188 `442/12716`, Top `3.48%` (STOPPED THE SLUMP)
@@ -104,12 +106,15 @@ Started taking competitive programming seriously around March 2020.
 
 ### Codeforces Contests
 
-Contest rating: `1371`
+Contest rating: `1442`
+
+Rank: `Specialist`
 
 <img src="codeforces.jpg"/>
 
-[https://codeforces.com/contests/with/recklessinkblot](https://codeforces.com/contests/with/recklessinkblot)
+[Profile](https://codeforces.com/contests/with/recklessinkblot)
 
+- Codeforces Round \#642 Div 3, Rank `1792`, Solved `4`
 - Codeforces Round \#641 Div 2, Rank `5597`, Solved `1`
 - Codeforces Round \#640 Div 4, Rank `2631`, Solved `4`
 - Codeforces Round \#639 Div 2, Rank `4418`, Solved `2` (Unranked due to server issues)
@@ -132,7 +137,7 @@ Contest rating: `1371`
 
 ### BinarySearch.io
 
-[https://binarysearch.io/@/recklessinkblot](https://binarysearch.io/@/recklessinkblot)
+[Profile](https://binarysearch.io/@/recklessinkblot)
 
 Ranking `38`
 
