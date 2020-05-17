@@ -10,7 +10,6 @@ Started taking competitive programming seriously around March 2020.
 
 {% include cp_info.html %}
 
-<img src="leetcode.jpg"/>
 - weekly-contest-189 `164/13036`, Top `1.26%`
 - weekly-contest-188 `442/12716`, Top `3.48%` (STOPPED THE SLUMP)
 - weekly-contest-187 `940/12353`, Top `7.61%`
