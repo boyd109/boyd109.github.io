@@ -19,9 +19,9 @@ I've been to a lot of hackathons traveling the US and Canada: [Devpost](https://
 
 `Top 2%` in Leetcode Weekly Contests
 
-`1950+ Rating` in Leetcode Weekly Contests
+`2000+ Rating` in Leetcode Weekly Contests
 
-`400+` Solved Leetcode questions: [Leetcode](https://leetcode.com/jonathantsang/)
+`450+` Solved Leetcode questions: [Leetcode](https://leetcode.com/jonathantsang/)
 
 Read more about my competitive programming [here](https://jonathantsang.github.io/cp/)
 
