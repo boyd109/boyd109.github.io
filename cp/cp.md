@@ -6,19 +6,13 @@ permalink: /cp/
 
 Started taking competitive programming seriously around March 2020.
 
-**last updated: May 6th, 2020**
+**last updated: May 16th, 2020**
 
-### Leetcode Contest Ranks
-
-`81` Finished Contests
-
-`1955` Rating
-
-`2226 / 96126` Global Ranking
+{% include_relative cp_info.md %}
 
 <img src="leetcode.jpg"/>
-
-- weekly-contest-188 Solved `4`, `442/12714`, Top `3.48%` (STOPPED THE SLUMP)
+- weekly-contest-189 `164/13036`, Top `1.26%`
+- weekly-contest-188 `442/12716`, Top `3.48%` (STOPPED THE SLUMP)
 - weekly-contest-187 `940/12353`, Top `7.61%`
 - biweekly-contest-25, `1210/7699`, Top `15.72%` (YIKES)
 - weekly-contest-186, `1559/11684` Top `13.34%` (YIKES)
@@ -104,13 +98,17 @@ Started taking competitive programming seriously around March 2020.
 
 ### Codeforces Contests
 
-Contest rating: `1352`
+Contest rating: `1442`
+
+Rank: `Specialist`
 
 <img src="codeforces.jpg"/>
 
-[https://codeforces.com/contests/with/recklessinkblot](https://codeforces.com/contests/with/recklessinkblot)
+[Profile](https://codeforces.com/contests/with/recklessinkblot)
 
-- Codeforces Round \#640 Div 4, Rank `5642`. Solved `4`
+- Codeforces Round \#642 Div 3, Rank `1792`, Solved `4`
+- Codeforces Round \#641 Div 2, Rank `5597`, Solved `1`
+- Codeforces Round \#640 Div 4, Rank `2631`, Solved `4`
 - Codeforces Round \#639 Div 2, Rank `4418`, Solved `2` (Unranked due to server issues)
 - Codeforces Round \#638 Div 2, Rank `5501`, Solved `2`
 - Education Codeforces Round 86 Div 2, Rank `10178`, Solved `1` (YIKES)
@@ -131,14 +129,15 @@ Contest rating: `1352`
 
 ### BinarySearch.io
 
-[https://binarysearch.io/@/recklessinkblot](https://binarysearch.io/@/recklessinkblot)
+[Profile](https://binarysearch.io/@/recklessinkblot)
 
-Ranking `50`
+Ranking `38`
 
-Rating `1575`
+Rating `1653`
 
-Participated `1`
+Participated `3`
 
+- Contest 6: Placed `12th` solved 3/4 scored 12 points and solved in 24 minutes, 4 seconds
 - Contest 5: Placed `15th` solved 3/4 scored 12 points and solved in 49 minutes, 37 seconds (Unranked due to server issues)
 - Contest 4: Placed `23rd` solved 2/4 scored 7 points and solved in 28 minutes, 29 seconds
 

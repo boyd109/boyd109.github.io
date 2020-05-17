@@ -17,13 +17,21 @@ I've been to a lot of hackathons traveling the US and Canada: [Devpost](https://
 
 <img src="/about-me/pictures/leetcode.png" width="40%" height="40%"/>
 
-`Top 2.5%` in Leetcode Weekly Contests
+`Top 2%` in Leetcode Weekly Contests
 
-`1950+ Rating` in Leetcode Weekly Contests
+`2000+ Rating` in Leetcode Weekly Contests
 
-`400+` Solved Leetcode questions: [Leetcode](https://leetcode.com/jonathantsang/)
+`450+` Solved Leetcode questions: [Leetcode](https://leetcode.com/jonathantsang/)
 
 Read more about my competitive programming [here](https://jonathantsang.github.io/cp/)
+
+<img src="/about-me/pictures/codeforces.png" width="40%" height="40%"/>
+
+`1400+ Rating` in Codeforces
+
+`Specialist` Rank
+
+[Codeforces Link](http://codeforces.com/profile/recklessinkblot)
 
 <img src="/about-me/pictures/kattis.png" width="40%" height="40%"/>
 
@@ -38,10 +46,6 @@ Ranked 27th in [Ontario](https://open.kattis.com/countries/CAN/ON)
 <img src="/about-me/pictures/github.png" width="30%" height="30%"/>
 
 I usually post projects I make on my Github: [Github](https://github.com/jonathantsang)
-
-<img src="/about-me/pictures/codeforces.png" width="40%" height="40%"/>
-
-I occasionally try to do codeforces contests: [Codeforces](http://codeforces.com/profile/recklessinkblot)
 
 #### Even More Links
 
