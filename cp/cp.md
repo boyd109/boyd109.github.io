@@ -130,12 +130,13 @@ Rank: `Specialist`
 
 [Profile](https://binarysearch.io/@/recklessinkblot)
 
-Ranking `38`
+Ranking `20`
 
-Rating `1653`
+Rating `1746`
 
-Participated `3`
+Participated `4`
 
+- Contest 7: Placed `10th` solved 3/5 scored 12 points and solved in 39 minutes, 19 seconds
 - Contest 6: Placed `12th` solved 3/4 scored 12 points and solved in 24 minutes, 4 seconds
 - Contest 5: Placed `15th` solved 3/4 scored 12 points and solved in 49 minutes, 37 seconds (Unranked due to server issues)
 - Contest 4: Placed `23rd` solved 2/4 scored 7 points and solved in 28 minutes, 29 seconds
