@@ -141,6 +141,19 @@ Participated `4`
 - Contest 5: Placed `15th` solved 3/4 scored 12 points and solved in 49 minutes, 37 seconds (Unranked due to server issues)
 - Contest 4: Placed `23rd` solved 2/4 scored 7 points and solved in 28 minutes, 29 seconds
 
+### Local Waterloo ACM Contests
+
+[Local Waterloo ACM Contests](https://uwaterloo.ca/international-collegiate-programming-contest/past-local-contest-results)
+
+Previous results:
+- `34/51` Solved 2 in [Winter 2018](http://acm.student.cs.uwaterloo.ca/~acm00/180210score.html)
+- `25/31` Solved 2 in [Spring 2018](http://acm.student.cs.uwaterloo.ca/~acm00/180616score.html)
+- `49/73` Solved 1 in [Fall 2018](http://acm.student.cs.uwaterloo.ca/~acm00/180930score.html)
+- `27/43` Solved 1 in [Winter 2019](http://acm.student.cs.uwaterloo.ca/~acm00/190209score.html)
+- `n/a` Solved 0 in [Spring 2019](http://acm.student.cs.uwaterloo.ca/~acm00/190622score.html)
+- `n/a` skipped Fall 2019 contest
+- `n/a` Solved 0 in [Winter 2020](http://acm.student.cs.uwaterloo.ca/~acm00/200201score.html)
+
 ### Topcoder
 
 User name:             `recklessinkblot`
