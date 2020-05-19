@@ -4,7 +4,7 @@ title: Quarantine Thoughts - Competitive programming - Hitting the (inevitable) 
 permalink: /general4/
 category: general
 tag: general
-date: 5/18/2020
+date: 18/5/2020
 order: 2
 ---
 
