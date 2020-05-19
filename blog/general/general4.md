@@ -37,9 +37,9 @@ Needless to say I was out of practice. I hadn't solved a question in a local acm
 
 **p.s.** I look forward to Spring 2020 contest.
 
-At the start I had a rating of `1693` on Leetcode Weekly Contests (which I deemed admirable but could be improved upon) and (an abysmal) `1139` on Codeforces. Initially I said I would probably get to `1800` on Leetcode as a very attainable goal and get out of `newbie` grey land on Codeforces. (which is a place no one wants to dwell)
+At the start I had a rating of `1693` on leetcode weekly contests (which I deemed admirable but could be improved upon) and (an abysmal) `1139` on codeforces. Initially I said I would probably get to `1800` on leetcode as a very attainable goal and get out of `newbie` grey land on codeforces. (which is below 1200, a place no one wants to dwell)
 
-`
+
 #### Initial Leetcode Graph
 
 <img src="/blog/general/4/lc_before.png">
