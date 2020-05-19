@@ -4,7 +4,7 @@ title: Blog post about my favourite blog posts
 permalink: /general1/
 category: general
 tag: general
-date: 2/10/2020
+date: 10/2/2020
 order: 1
 ---
 
