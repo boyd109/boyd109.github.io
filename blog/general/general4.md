@@ -81,11 +81,11 @@ I acknowledged that I needed more practice. (and I still need more practice) So 
 
 I talked a lot about ratings and numbers here. I think ratings are nice indicators but they only tell part of the story. I focused on solving techniques. If I didn't get a problem, I would learn what I did wrong, and how to solve it. So next time there was **NO** way I was not going to not be able to solve it again. I was not here memorizing problems for the sake of interviews hopefully having frequent questions. Similar questions occur but the basis of solving shouldn't be hinged on familiarity.
 
-What happened eventually was I kept trying despite my stagnation. If you were to ask me I think my ratings are currently a little inflated. At the time of writing this my Leetcode contest rating is `2000` (TBA) and Codeforces is `1442`. Due to a strong performance in the most recent contests in both I reached `2000`+ in leetcode and `1400`+ in codeforces. They will probably drop in the near future. But a drop isn't the end of the world. I cherish the hard work I put in. I acknowledge that I am happy with what I accomplished but there I want to achieve more. I know that the drop means there is more to learn. Because there is always more to learn. My extended goals are top 1% in leetcode contests (top 1000, currently somewhere around 1500) and `1600`+ in codeforces the next rank which is `expert` aka blue. Both are immmensely challenging and daunting goals. But **why** do we consistenly challenge ourselves? To see how far we can push ourselves.
+What happened eventually was I kept trying despite my stagnation. If you were to ask me I think my ratings are currently a little inflated. At the time of writing this my Leetcode contest rating is `2056` and Codeforces is `1442`. Due to a strong performance in the most recent contests in both I reached `2000`+ in leetcode and `1400`+ in codeforces. They will probably drop in the near future. But a drop isn't the end of the world. I cherish the hard work I put in. I acknowledge that I am happy with what I accomplished but there I want to achieve more. I know that the drop means there is more to learn. Because there is always more to learn. My extended goals are top 1% in leetcode contests (top 1000, currently somewhere around 1500) and `1600`+ in codeforces the next rank which is `expert` aka blue. Both are immmensely challenging and daunting goals. But **why** do we consistenly challenge ourselves? To see how far we can push ourselves.
 
 ### Current Leetcode Graph
 
-<img src="/blog/general/4/lc_after.png"> (TBA)
+<img src="/blog/general/4/lc_after.png">
 
 ### Current Codeforces Graph
 
