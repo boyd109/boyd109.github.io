@@ -10,6 +10,7 @@ Started taking competitive programming seriously around March 2020.
 
 {% include cp_info.html %}
 
+- weekly-contest-190 `1361/11840`, Top `12.5%` (YIKES, but solved 4/4 so that is a consolation)
 - weekly-contest-189 `164/13036`, Top `1.26%`
 - weekly-contest-188 `442/12716`, Top `3.48%` (STOPPED THE SLUMP)
 - weekly-contest-187 `940/12353`, Top `7.61%`
