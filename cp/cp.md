@@ -6,7 +6,7 @@ permalink: /cp/
 
 Started taking competitive programming seriously around March 2020.
 
-**last updated: May 16th, 2020**
+**last updated: May 24th, 2020**
 
 {% include cp_info.html %}
 
@@ -131,12 +131,13 @@ Rank: `Specialist`
 
 [Profile](https://binarysearch.io/@/recklessinkblot)
 
-Ranking `20`
+Ranking `15`
 
-Rating `1746`
+Rating `1812`
 
-Participated `4`
+Participated `5`
 
+- Contest 8: Placed `18th` solved 2/4 scored 7 points and solved in 14 minutes, 57 seconds
 - Contest 7: Placed `10th` solved 3/5 scored 12 points and solved in 39 minutes, 19 seconds
 - Contest 6: Placed `12th` solved 3/4 scored 12 points and solved in 24 minutes, 4 seconds
 - Contest 5: Placed `15th` solved 3/4 scored 12 points and solved in 49 minutes, 37 seconds (Unranked due to server issues)
