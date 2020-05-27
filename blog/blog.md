@@ -26,7 +26,7 @@ Blog posts focused mainly on the Waterloo co-op program and my co-op experiences
 <ol>
 {% assign sorted_pages = site.pages | sort:"order" %}
 {% for p in sorted_pages %}
-  {% if p.tag == "coop" %}
+  {% if p.tag == "coop" and p.finished == "yes" %}
   <li id="{{ p.order }}">
     <a href="{{ p.url }}">{{ p.title }}</a>
   </li>
