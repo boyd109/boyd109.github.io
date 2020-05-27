@@ -4,7 +4,7 @@ title: Every single place I interviewed at from Winter 2018 to Winter 2020
 permalink: /co-op2/
 category: co-op
 tag: co-op
-date: 3/01/2020
+date: 27/5/2020
 order: 2
 finished: no
 ---

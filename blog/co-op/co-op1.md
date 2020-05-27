@@ -4,7 +4,7 @@ title: A deeper dive at my 6 co-ops
 permalink: /co-op1/
 category: co-op
 tag: co-op
-date: 1/7/2020
+date: 27/5/2020
 order: 1
 finished: no
 ---
