@@ -6,7 +6,7 @@ category: co-op
 tag: co-op
 date: 27/5/2020
 order: 1
-finished: no
+finished: yes
 ---
 
 **note:** A bit frustrating but I wrote this entire thing then deleted it without committing it. So I wrote this twice.
