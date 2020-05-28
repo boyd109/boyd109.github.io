@@ -6,7 +6,7 @@ category: co-op
 tag: co-op
 date: 27/5/2020
 order: 3
-finished: no
+finished: yes
 ---
 After applying/interviewing for 4 years straight I have some opinions on tech interviews. I think it is a largely broken system that is very poorly optimized. The fallacy is that the most qualified and most intelligent person is hired but that is rarely the case. I would like to think that I am going up against them person against person in a battle of skills and who can handle pressure, but that isn't true.
 
