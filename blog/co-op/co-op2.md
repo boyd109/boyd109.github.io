@@ -6,7 +6,7 @@ category: co-op
 tag: co-op
 date: 27/5/2020
 order: 2
-finished: no
+finished: false
 ---
 
 Loosely based on Robert Elder's [post](https://blog.robertelder.org/50-interviews-with-facebook-twitter-amazon-others/).
