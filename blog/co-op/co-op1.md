@@ -10,7 +10,7 @@ finished: no
 ---
 
 **note:** A bit frustrating but I wrote this entire thing then deleted it without committing it. So I wrote this twice.
-**note2:** These are my thoughts only.
+**note2:** These are my thoughts only. I don't represent anyone else.
 
 My inspiration is Eric Jang's post talking about his internships [here](https://blog.evjang.com/2016/06/my-internship-experiences-at-pixar.html).
 
@@ -18,7 +18,7 @@ Waterloo's co-op program allows you to do 6 co-op experiences at (usually) diffe
 
 In a more concise manner than [My-Story](https://jonathantsang.github.io/my-story) I want to delve into each co-op experience and give an honest take on each one. There is a lot to discuss in each one, as I grew as a software engineer, and what I liked/didn't like.
 
-Gonna look at things like:
+Going to look at things like:
 - Perks
 - Work
 - Culture

@@ -8,9 +8,14 @@ date: 27/5/2020
 order: 3
 finished: no
 ---
-After applying/interviewing for 4 years straight I have some opinions on tech interviews. I think it is a largely broken system that is very poorly optimized. The fallacy is that the most qualified and most intelligent person is hired but that is rarely the case. I would like to think that I am going up against them person against person in a battle of skills and who can handle pressure but that isn't true.
+After applying/interviewing for 4 years straight I have some opinions on tech interviews. I think it is a largely broken system that is very poorly optimized. The fallacy is that the most qualified and most intelligent person is hired but that is rarely the case. I would like to think that I am going up against them person against person in a battle of skills and who can handle pressure, but that isn't true.
 
-Equating it to regular jobs, it is similar cases where it hinges on `WHO` you know rather than you know. And the referrals can go a long way or straight up be duds. Sometimes job hunting and interviewing just feels like blindly throwing darts at a dartboard.
+Equating it to regular jobs, it hinges more on `WHO` you know rather than what you know. And the referrals can go a long way or straight up be duds. Sometimes job hunting and interviewing just feels like blindly throwing darts at a dartboard.
+
+<img src="/blog/co-op/3/nv.png" width="50%" height="50%">
+
+> "Truth is...the game was rigged from the start."
+> - Benny, Fallout New Vegas
 
 ### Problems of interviewing (summarized)
 - resume screening is a broken process
@@ -39,12 +44,12 @@ I’m looking for super smart engineers like yourself to join our team.
 
 Firstly he called me "John" which isn't "Jonathan" or "Jon" but I'll overlook that. I make mistakes in people's names sometimes.
 
-I'm not sure how much more general you can get. He only mentions my LinkedIn intership and then talks about his company. He mentions ex-Googlers and ex-Amazon employees and a fairly vague company description. It probably is a copy-and-pasted headhunt message but this shows the lack of depth into person research they sometimes do. If I asked what they liked about my internship at LinkedIn, or why they reached out to me, I'm not sure I'd get a well-thought out answer.
+I'm not sure how much more general you can get. He only mentions my LinkedIn intership and then talks about his company. He mentions ex-Googlers and ex-Amazon employees and a fairly vague company description. It probably is a copy-and-pasted headhunt message but this shows the lack of depth into person research they sometimes do. If I asked what they liked about my internship at LinkedIn, or why they reached out to me, I'm not sure I'd get a well-thought out answer. They cannot tell my actual impact from just glancing briefly at my LinekdIn profile.
 
 ### Memorizing questions
 Sites like leetcode got popular by memorizing specific questions companies would ask. This always frustrated me because questions like "reversing a linked list" is really dumb but I got asked it 3-4 times. I've been asked "coin change" 4-5 times, "kth largest number" 5-6 times, "2d-islands" or some variant 3-4 times, etc.
 
-**I did not go out and attempt to memorize these questions**. There is a lack of creativity and curation of a question bank. Making questions that test problem solving skills, data-structures and algorithms, and making it the right difficulty is hard. A lot of companies ask textbook questions in interviews hoping to litmus test candidates on this, and feel pressured due to big tech companies following same procedures. (A few are moving away from this, but more on that later)
+**I did not go out and attempt to memorize these questions**. There is a lack of creativity and curation of a question bank. Making questions that test problem solving skills, data-structures and algorithms, and making it the right difficulty is hard. A lot of companies ask textbook questions in interviews hoping to litmus test candidates on this, and feel pressured due to big tech companies following same procedures. (A few are moving away from this, but more on that later).
 
 If everyone is going out and memorizing questions on how to find cycles in linked lists, two sum, and largest contiguous subarray why should I ask this. I am just playing game of what do you know and what have your studied previously.
 
@@ -84,14 +89,14 @@ This doesn't always indicate you know how to solve the question or if you even d
 
 Even awice trying out solutions and having a fairly low acceptance rate shows that he actually tries stuff out. If you have a high acceptance rate it doesn't mean anything. For all we know you could be resubmitting your two sum solution 50+ times to normalize getting a LC medium incorrect. The top tier talent have closer to 50-80% acceptance rate. You don't become a top tier talent by having a high acceptance rate and having a high acceptance rate doesn't make you a top tier talent.
 
-The number solved versus contest rating is also an interesting comparison. When I see 1000+ (or a fair amount) solved and a low contest ranking that raises some red flags. Just like an assignment is an indicator for the midterm. At the University of Waterloo I scored **BELOW** average on assignments in cs341 (algorithms) usually getting ~70s where class averages were high 80s to 90s. Then when the midterm rolled around I got 88%, one of the best marks in the class, but we had a class average of ~40% on that midterm. If people were really doing much better than me on assignments, where were they when they had the midterm which had similar content? Pressure and time constraints on one thing, but the class was averaging near aces on the assignments and couldn't even do a simple DP algorithm on the midterm? That is the exact same thing here. You can do an obscenely large number of leetcode questions but if you aren't learning concepts and fundamentals you're going to do poorly on the contests. You can't cheat your way into memorizing questions or looking up solutions on the contests. That's why I trust the contest ratings more thoroughly than "how many leetcode questions you have solved".
+The number solved versus contest rating is also an interesting comparison. When I see 1000+ (or a fair amount) solved and a low contest ranking that raises some red flags. Just like an assignment is an indicator for the midterm. At the University of Waterloo I scored **BELOW** average on assignments in cs341 (algorithms) usually getting ~70s where class averages were high 80s to 90s. I was going to office hours every week and continuously trying to solve the assignments and learn the concepts. Then when the midterm rolled around I got 88%, but we had a class average of ~40% on that midterm. If people were really doing much better than me on assignments, where were they when they had the midterm which had similar content? Pressure and time constraints are one thing, but the class was averaging near 90% on the assignments and couldn't even do a simple DP algorithm on the midterm? That is the exact same thing here. You can do an obscenely large number of leetcode questions but if you aren't learning concepts and fundamentals you're going to do poorly on the contests. You can't cheat your way into memorizing questions or looking up solutions on the contests. That's why I trust the contest ratings more thoroughly than "how many leetcode questions you have solved".
 
 ### Expecting perfection in interviews
 I always felt it was weird how KMP string matching was a technical report paper in 1970, but it is now expected in some interviews to derive it. If it took extremely smart computer scientists time to create it, why would I regurgitate something I memorized purely for the sake of memorizing it.
 
 Even worse is expecting perfection in answers for technical interviews. I have never passed an interview where I did not code a problem (or in the case of multiple rounds, every round) to 100% perfection. Even places where I coded to 100% perfection they would still say no. It transcends perfection.
 
-One place I got asked 2sum (trivial), 3sum (harder but still trivial), and 4sum (n^3 is trivial. Looking back ok it isn't even that hard. But interviewer didn't nudge me in that direction) Since I didn't solve all 3 questions optimally in 45 minutes I got rejected. That's tight constraints. You need perfection in all facets.
+One place I got asked 2sum (trivial), 3sum (harder but still trivial), and 4sum (n^3 is trivial. Looking back ok it isn't even that hard. But interviewer didn't nudge me in that direction). Since I didn't solve all 3 questions optimally in 45 minutes I got rejected. That's tight constraints. You need perfection in all facets.
 
 ### Explaining code to interviewer
 If an interviewer asks me a question I hope they understand the question.
@@ -108,7 +113,7 @@ On the off-chance, sometimes interviewers were flat-out terrible. I've had ones 
 ### Quotas
 I am not going to touch on this in depth but the system is not fair and probably rigged against you. You often say "____ got an interview/offer and I didn't. I'm much more qualified". Whether or not if that is actually true recruiters/interviewers make mistakes in who they choose. I've had it happen both ways.
 
-Back when I was in science and business there was a certain group that had specific avenues that increased their chances. They weren't actually a minority but being a majority if you really calculated the numbers. Despite that, collectives of that group would still take advantage of that because when you're all fighting for jobs you will take any advantage you can get because you're looking for yourself out there. When the cards favoured them they took it upon themselves to deem what was fair.
+Back when I was in science and business there was a certain group that had specific avenues that increased their chances. They weren't actually a minority but being a majority if you really calculated the numbers. Despite that, people of that group would still take advantage of that because when you're all fighting for jobs you will take any advantage you can get because you're looking for yourself out there. When the cards favoured them they took it upon themselves to deem what was fair.
 
 ## The Future of Interviewing
 Where I think interviewing is going. Hopefully in a positive direction, but there is still a lot to fix in the very broken process.
@@ -121,7 +126,7 @@ I've had places say "ok now we can't load it all in memory, what can we do if...
 ### System Design
 I think the future of tech interviews lies in system design questions. They are less memoizable with leetcode and other dedicated problem sites. I think leetcode questions may be obsolete in a few years due to the bar being that "people just memorize questions". It has come to the point where you just read CTCI (cracking the coding interview) and hope a big name overlaps a question with one you saw in the book.
 
-System design (which even I have areas to improve on it) encompasses object-orientated design, real-world distributed system constraints, and a lot more fluidity for thought from backend and frontend. I think the negative aspect is that it pushes more towards generalists that need to be familiar with all facets, but also means you need to understand how your API webhook fits into the giant landscape of the product. There are negatives and positives to basing cs knowledge on system design more and more. (which becomes more prevalent as your move upwards)
+System design (which even I have areas to improve on it) encompasses object-orientated design, real-world distributed system constraints, and a lot more fluidity for thought from backend and frontend. I think the negative aspect is that it pushes more towards generalists that need to be familiar with all facets, but also means you need to understand how your API webhook fits into the giant landscape of the product. There are negatives and positives to basing cs knowledge on system design more and more. (which becomes more prevalent as your move upwards).
 
 ## Final Thoughts
 These are just my thoughts after doing interviews for a few years. I could be wrong but this is what I've seen from my experiences.
