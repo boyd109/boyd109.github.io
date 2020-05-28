@@ -12,7 +12,7 @@ After applying/interviewing for 4 years straight I have some opinions on tech in
 
 Equating it to regular jobs, it hinges more on `WHO` you know rather than what you know. And the referrals can go a long way or straight up be duds. Sometimes job hunting and interviewing just feels like blindly throwing darts at a dartboard.
 
-<img src="/blog/co-op/3/nv1.png" width="75%" height="75%">
+<img src="/blog/co-op/3/nv1.png">
 
 > "Truth is...the game was rigged from the start."
 > - Benny, Fallout New Vegas
