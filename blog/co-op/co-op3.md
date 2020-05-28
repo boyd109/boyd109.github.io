@@ -12,7 +12,7 @@ After applying/interviewing for 4 years straight I have some opinions on tech in
 
 Equating it to regular jobs, it hinges more on `WHO` you know rather than what you know. And the referrals can go a long way or straight up be duds. Sometimes job hunting and interviewing just feels like blindly throwing darts at a dartboard.
 
-<img src="/blog/co-op/3/nv.png" width="50%" height="50%">
+<img src="/blog/co-op/3/nv.png" width="75%" height="75%">
 
 > "Truth is...the game was rigged from the start."
 > - Benny, Fallout New Vegas
@@ -67,7 +67,7 @@ There is a lot of trivia that I do know by virtue of general use. I got asked ab
 ### leetcode gripes
 Contrived example: (showing leetcode gripes)
 
-**leetcode Profile for superdupercoder123**
+**leetcode profile for superdupercoder123**
 
 **Contest Rating:** ~1500 (depends but anything below 1600 is imo roughly weak/needs practice)
 
