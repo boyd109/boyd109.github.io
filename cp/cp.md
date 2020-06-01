@@ -6,10 +6,12 @@ permalink: /cp/
 
 Started taking competitive programming seriously around March 2020.
 
-**last updated: May 24th, 2020**
+**last updated: May 31th, 2020**
 
 {% include cp_info.html %}
 
+- weekly-contest-191 `1419/9597`, Top `14.79%` (YIKES)
+- biweekly-contest-27 `1010/7924`, Top `12.5%`
 - weekly-contest-190 `1361/11840`, Top `12.5%` (YIKES, but solved 4/4 so that is a consolation)
 - weekly-contest-189 `164/13036`, Top `1.26%`
 - weekly-contest-188 `442/12716`, Top `3.48%` (STOPPED THE SLUMP)
@@ -98,7 +100,7 @@ Started taking competitive programming seriously around March 2020.
 
 ### Codeforces Contests
 
-Contest rating: `1442`
+Contest rating: `1463`
 
 Rank: `Specialist`
 
@@ -106,6 +108,7 @@ Rank: `Specialist`
 
 [Profile](https://codeforces.com/contests/with/recklessinkblot)
 
+- Codeforces Round \#646 Div 2, Rank `4482`, Solved `2`
 - Codeforces Round \#642 Div 3, Rank `1792`, Solved `4`
 - Codeforces Round \#641 Div 2, Rank `5597`, Solved `1`
 - Codeforces Round \#640 Div 4, Rank `2631`, Solved `4`
@@ -131,12 +134,15 @@ Rank: `Specialist`
 
 [Profile](https://binarysearch.io/@/recklessinkblot)
 
-Ranking `15`
+Ranking `12`
 
-Rating `1812`
+Rating `1958`
+
+Max Rating `1958`
 
 Participated `5`
 
+- Contest 9: Placed `16th` solved 3/4 scored 12 points and solved in 51 minutes, 0 seconds
 - Contest 8: Placed `18th` solved 2/4 scored 7 points and solved in 14 minutes, 57 seconds
 - Contest 7: Placed `10th` solved 3/5 scored 12 points and solved in 39 minutes, 19 seconds
 - Contest 6: Placed `12th` solved 3/4 scored 12 points and solved in 24 minutes, 4 seconds
