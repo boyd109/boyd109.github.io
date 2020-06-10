@@ -145,7 +145,7 @@ Max Rating `1564`
 
 Participated `6`
 
-- Contest 10: Placed `10th` solved 4/4 scored 18 points and solved in 79 minutes, 28 seconds
+- Contest 10: Placed `8th` solved 4/4 scored 18 points and solved in 79 minutes, 28 seconds
 - Contest 9: Placed `16th` solved 3/4 scored 12 points and solved in 51 minutes, 0 seconds
 - Contest 8: Placed `18th` solved 2/4 scored 7 points and solved in 14 minutes, 57 seconds
 - Contest 7: Placed `10th` solved 3/5 scored 12 points and solved in 39 minutes, 19 seconds
