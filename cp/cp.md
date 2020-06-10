@@ -10,16 +10,17 @@ Started taking competitive programming seriously around March 2020.
 
 {% include cp_info.html %}
 
-- weekly-contest-191 `1833/13283`, Top `13.8%` (YIKES)
+- weekly-contest-192 `1252/13805`, Top `9.07`
+- weekly-contest-191 `1833/13283`, Top `13.8%`
 - biweekly-contest-27 `1010/7924`, Top `12.5%` (Still kind of bad, but so far best biweekly contest performance so far)
-- weekly-contest-190 `1361/11840`, Top `12.5%` (YIKES, but solved 4/4 so that is a consolation)
+- weekly-contest-190 `1361/11840`, Top `12.5%`
 - weekly-contest-189 `164/13036`, Top `1.26%`
 - weekly-contest-188 `442/12716`, Top `3.48%` (STOPPED THE SLUMP)
 - weekly-contest-187 `940/12353`, Top `7.61%`
-- biweekly-contest-25, `1210/7699`, Top `15.72%` (YIKES)
-- weekly-contest-186, `1559/11684` Top `13.34%` (YIKES)
+- biweekly-contest-25, `1210/7699`, Top `15.72%`
+- weekly-contest-186, `1559/11684` Top `13.34%`
 - weekly-contest-185, `1246/14200`, Top `8.77%` (Excuse: I cut my hand making breakfast after biweekly-contest-24 and I had to do this injured)
-- biweekly-contest-24, `2190/7729`, Top `28.33%` (YIKES)
+- biweekly-contest-24, `2190/7729`, Top `28.33%`
 - weekly-contest-184, `411/13663`, Top `3.00%`
 - weekly-contest-183, `767/12542`, Top `6.12%`
 - weekly-contest-182, `162/11694`, Top `1.39%`
@@ -100,7 +101,7 @@ Started taking competitive programming seriously around March 2020.
 
 ### Codeforces Contests
 
-Contest rating: `1463`
+Contest rating: `1437`
 
 Rank: `Specialist`
 
@@ -108,14 +109,16 @@ Rank: `Specialist`
 
 [Profile](https://codeforces.com/contests/with/recklessinkblot)
 
+- Codeforces Round \#648 Div 2, Rank `9782`, Solved `1`
+- Codeforces Round \#647 Div 2, Rank `5251`, Solved `3`
 - Codeforces Round \#646 Div 2, Rank `4482`, Solved `2`
 - Codeforces Round \#642 Div 3, Rank `1792`, Solved `4`
 - Codeforces Round \#641 Div 2, Rank `5597`, Solved `1`
 - Codeforces Round \#640 Div 4, Rank `2631`, Solved `4`
 - Codeforces Round \#639 Div 2, Rank `4418`, Solved `2` (Unranked due to server issues)
 - Codeforces Round \#638 Div 2, Rank `5501`, Solved `2`
-- Education Codeforces Round 86 Div 2, Rank `10178`, Solved `1` (YIKES)
-- Codeforces Round \#637 Div 2, Rank `8925`, Solved `1` (YIKES)
+- Education Codeforces Round 86 Div 2, Rank `10178`, Solved `1`
+- Codeforces Round \#637 Div 2, Rank `8925`, Solved `1`
 - Codeforces Round \#636 Div 3, Rank `3903`, Solved `3`
 - Codeforces Round \#635 Div 2, Rank `4953`, Solved `2`
 - Codeforces Round \#634 Div 3, Rank `2144`, Solved `4`
@@ -134,14 +137,15 @@ Rank: `Specialist`
 
 [Profile](https://binarysearch.io/@/recklessinkblot)
 
-Ranking `12`
+Ranking `7th`
 
-Rating `1958`
+Rating `1564`
 
-Max Rating `1958`
+Max Rating `1564`
 
-Participated `5`
+Participated `6`
 
+- Contest 10: Placed `10th` solved 4/4 scored 18 points and solved in 79 minutes, 28 seconds
 - Contest 9: Placed `16th` solved 3/4 scored 12 points and solved in 51 minutes, 0 seconds
 - Contest 8: Placed `18th` solved 2/4 scored 7 points and solved in 14 minutes, 57 seconds
 - Contest 7: Placed `10th` solved 3/5 scored 12 points and solved in 39 minutes, 19 seconds
