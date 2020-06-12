@@ -101,7 +101,7 @@ Started taking competitive programming seriously around March 2020.
 
 ### Codeforces Contests
 
-Contest rating: `1437`
+Contest rating: `1414`
 
 Rank: `Specialist`
 
@@ -109,6 +109,7 @@ Rank: `Specialist`
 
 [Profile](https://codeforces.com/contests/with/recklessinkblot)
 
+- Educational Codeforces Round 89 Div 2, Rank `3102`, Solved `3`
 - Codeforces Round \#648 Div 2, Rank `9782`, Solved `1`
 - Codeforces Round \#647 Div 2, Rank `5251`, Solved `3`
 - Codeforces Round \#646 Div 2, Rank `4482`, Solved `2`
@@ -117,7 +118,7 @@ Rank: `Specialist`
 - Codeforces Round \#640 Div 4, Rank `2631`, Solved `4`
 - Codeforces Round \#639 Div 2, Rank `4418`, Solved `2` (Unranked due to server issues)
 - Codeforces Round \#638 Div 2, Rank `5501`, Solved `2`
-- Education Codeforces Round 86 Div 2, Rank `10178`, Solved `1`
+- Educational Codeforces Round 86 Div 2, Rank `10178`, Solved `1`
 - Codeforces Round \#637 Div 2, Rank `8925`, Solved `1`
 - Codeforces Round \#636 Div 3, Rank `3903`, Solved `3`
 - Codeforces Round \#635 Div 2, Rank `4953`, Solved `2`
