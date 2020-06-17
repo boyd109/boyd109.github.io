@@ -12,7 +12,7 @@ I did a rewatch of ATLAB (alongside Korra) during the quarantine break and my op
 
 ### The Best Episodes imo
 
-**Honourable Mention:**
+**Honourable Mentions:**
 - The Blind Bandit
 - Bitter Work
 - The Ember Island Players
