@@ -33,10 +33,10 @@ The final agni kai between Zuko and Azula is legendary. I would even parallel it
 
 #### 3. The Crossroads of Destiny
 <div class="floating-box">
-  <img src="/blog/general/7/3.jpg" width="50%"/>
+  <img src="/blog/general/7/3.jpg" width="45%"/>
 </div>
 <div class="floating-box">
-  <img src="/blog/general/7/3-1.jpg" width="50%" />
+  <img src="/blog/general/7/3-1.jpg" width="45%" />
 </div>
 Zuko is at the crossroads of destiny just as much as Zuko was.
 
