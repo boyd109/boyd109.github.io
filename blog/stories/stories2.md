@@ -6,6 +6,7 @@ category: stories
 tag: stories
 date: 9/3/2020
 order: 2
+finished: true
 ---
 
 ### Long road of hackathons

@@ -6,6 +6,7 @@ category: learning
 tag: learning
 date: 3/6/2017
 order: 1
+finished: true
 ---
 
 **note:** I made this back in 2017. I am going back in 2020 to update info/misinformation. These are just guidelines, be sure to ask your academic advisors for concrete advice. Also I have to rehaul this entire thing cause uw changed urls of some pages, changed the sequence names, and revamped some of the sequence plans.

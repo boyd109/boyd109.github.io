@@ -6,6 +6,7 @@ category: learning
 tag: learning
 date: 12/4/2020
 order: 7
+finished: true
 ---
 
 **I'm not an academic advisor. Consult what you think is best for your future. This is to be used as a rough guideline based on my experience.**

@@ -6,6 +6,7 @@ category: general
 tag: general
 date: 18/5/2020
 order: 2
+finished: true
 ---
 
 ### Quarantine Thoughts

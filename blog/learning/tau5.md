@@ -6,6 +6,7 @@ category: learning
 tag: learning
 date: 01/8/2017
 order: 5
+finished: true
 ---
 
 **note:** I made these back in 2017. I am going back in 2020 to update info/misinformation. These are just guidelines, be sure to ask your academic advisors for concrete advice.

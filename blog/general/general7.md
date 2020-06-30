@@ -6,6 +6,7 @@ category: general
 tag: general
 date: 17/6/2020
 order: 7
+finished: true
 ---
 
 I did a rewatch of ATLAB (alongside Korra) during the quarantine break and my opinion on the series changed since my first watch back in grade 12 year of highschool (2014). The show is remarkably well paced and very memorable throughout. Here's my top 5 episodes from the entire series.

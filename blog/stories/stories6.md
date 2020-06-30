@@ -6,6 +6,7 @@ category: stories
 tag: stories
 date: 5/6/2020
 order: 6
+finished: true
 ---
 
 I went to NwHacks 2020 and submitted [Vite Parking](https://devpost.com/software/viteparking)

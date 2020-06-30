@@ -6,6 +6,7 @@ category: learning
 tag: learning
 date: 01/29/2020
 order: 6
+finished: true
 ---
 
 A long overdue post but an interesting topic for me to write about. What is a hackathon? Why you should/shouldn't go to them?

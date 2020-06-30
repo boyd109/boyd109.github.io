@@ -12,7 +12,7 @@ Blog posts aimed towards undergrads with some useful information.
 <ol>
 {% assign sorted_pages = site.pages | sort:"order" %}
 {% for p in sorted_pages %}
-  {% if p.tag == "learning" %}
+  {% if p.tag == "learning" and p.finished %}
   <li id="{{ p.order }}">
     <a href="{{ p.url }}">{{ p.title }}</a>
   </li>
@@ -41,7 +41,7 @@ Blog posts with non-academic topics.
 <ol>
 {% assign sorted_pages = site.pages | sort:"order" %}
 {% for p in sorted_pages %}
-  {% if p.tag == "general" %}
+  {% if p.tag == "general" and p.finished %}
   <li id="{{ p.order }}">
     <a href="{{ p.url }}">{{ p.title }}</a>
   </li>
@@ -56,7 +56,7 @@ Longer stories from my undergrad.
 <ol>
 {% assign sorted_pages = site.pages | sort:"order" %}
 {% for p in sorted_pages %}
-  {% if p.tag == "stories" %}
+  {% if p.tag == "stories" and p.finished %}
   <li id="{{ p.order }}">
     <a href="{{ p.url }}">{{ p.title }}</a>
   </li>

@@ -6,6 +6,7 @@ category: stories
 tag: stories
 date: 5/6/2020
 order: 1
+finished: true
 ---
 
 This is more of a funny story and not really that serious. I just found it funny looking back. In 2017-2018 I went on a pretty long hackathon tour travelling around the US and Canada.
