@@ -11,6 +11,8 @@ finished: false
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fMHtwEliAEk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+I am on my way to Neptune. The zero G and the extended duration of the journey is affecting me, both physically and mentally. I am alone. Something I always believed I preferred. But I confess, it’s wearing on me. I’ve let so many people down.
+
 > Have you done EVERYTHING to improve?
 
 - consistent practice
