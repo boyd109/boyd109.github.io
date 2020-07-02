@@ -154,7 +154,9 @@ Max Rating `1594`
 
 Participated `9`
 
-- Contest 13: Placed `10th` solved 2/3 scored 7 points and solved in 14 minutes, 25 seconds
+Weekly Contest Rankings:
+
+- Contest 13: Placed `10th` solved 2/4 scored 7 points and solved in 14 minutes, 25 seconds
 - Contest 12: Placed `8th` solved 3/4 scored 12 points and solved in 22 minutes, 44 seconds
 - Contest 11: Placed `15th` solved 2/4 scored 7 points and solved in 17 minutes, 43 seconds
 - Contest 10: Placed `8th` solved 4/4 scored 18 points and solved in 79 minutes, 28 seconds
@@ -164,6 +166,13 @@ Participated `9`
 - Contest 6: Placed `12th` solved 3/4 scored 12 points and solved in 24 minutes, 4 seconds
 - Contest 5: Placed `15th` solved 3/4 scored 12 points and solved in 49 minutes, 37 seconds (Unranked due to server issues)
 - Contest 4: Placed `23rd` solved 2/4 scored 7 points and solved in 28 minutes, 29 seconds
+
+Educational Unranked Contests:
+
+- [Contest 4](https://binarysearch.io/room/Educational-Contest-4-22602), Ranked 5th
+- [Contest 3](https://binarysearch.io/room/Educational-Contest-4-21230), Ranked 9th
+- [Contest 2](https://binarysearch.io/room/Educational-Contest-2-20046), Ranked 9th
+- [Contest 1](https://binarysearch.io/room/Educational-Contest-1-18196/), Dunno but solved all 4
 
 ### Local Waterloo ACM Contests
 
