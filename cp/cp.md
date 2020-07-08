@@ -146,16 +146,17 @@ Rank: `Specialist`
 
 [Profile](https://binarysearch.io/@/recklessinkblot)
 
-Ranking `8th`
+Ranking `6th`
 
-Rating `1594`
+Rating `1604`
 
-Max Rating `1594`
+Max Rating `1604`
 
-Participated `9`
+Participated `10`
 
 Weekly Contest Rankings:
 
+- Contest 14: Placed `7th` solved 3/4 scored 12 points and solved in 44 minutes, 55 seconds
 - Contest 13: Placed `10th` solved 2/4 scored 7 points and solved in 14 minutes, 25 seconds
 - Contest 12: Placed `8th` solved 3/4 scored 12 points and solved in 22 minutes, 44 seconds
 - Contest 11: Placed `15th` solved 2/4 scored 7 points and solved in 17 minutes, 43 seconds
