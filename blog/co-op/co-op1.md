@@ -17,7 +17,7 @@ My inspiration is Eric Jang's post talking about his internships [here](https://
 
 Waterloo's co-op program allows you to do 6 co-op experiences at (usually) different companies. I really enjoy this aspect because it lets you experience different companies, teams, tech stacks, and more. Switching into CS from Science I was granted 5 co-op terms from the co-op office. I asked the co-op office if I could do 6 co-ops. They said no. I asked if I paid the co-op fee the requisite number of times could I do 6 co-ops. They said no. I asked why I couldn't get 6 co-ops and the unsatisfactory answer was that since I switched in at around 2A and I had spent the summer off in the science faculty (built into my sequence back in science) they did not let me get 6 co-ops. Nonetheless I took an off-term to do my 6th co-op and I actually graduated that term as well. (which would not have been possible had it been an official co-op term, since you need to end on an academic term)
 
-In a more concise manner than [My-Story](https://jonathantsang.github.io/my-story) I want to delve into each co-op experience and give an honest take on each one. There is a lot to discuss in each one, as I grew as a software engineer, and what I liked/didn't like.
+In a more concise manner than [My-Story](/my-story) I want to delve into each co-op experience and give an honest take on each one. There is a lot to discuss in each one, as I grew as a software engineer, and what I liked/didn't like.
 
 Going to look at things like:
 - Perks
