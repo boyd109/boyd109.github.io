@@ -154,4 +154,4 @@ This is a subjective field based on my interest, work required, and overall expe
 
 ## Final Thoughts
 
-I tried to objectively compare the 4 developer co-ops as best as I could but they each occurred at a different stage of my career and each brought different things to the table. The most unfair comparison is theTradeDesk where I had to deal with coronavirus quarantine during ~4 months of the 6 months I was there.
+I tried to objectively compare the 4 developer co-ops as best as I could but they each occurred at a different stage of my career and each brought different things to the table. The most unfair comparison is theTradeDesk where I had to deal with coronavirus quarantine during ~4 months of the 6 months I was there. I was incredibly fortunate to get real-world experience before graduating and being able to be a part of many great teams. It gave me insight into development at large, medium, and small companies.
