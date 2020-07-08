@@ -10,6 +10,7 @@ finished: true
 ---
 
 **note:** I wrote this entire thing then deleted it without committing it. So I wrote this twice.
+
 **note2:** These are my thoughts only. I don't represent anyone.
 
 My inspiration is Eric Jang's post talking about his internships [here](https://blog.evjang.com/2016/06/my-internship-experiences-at-pixar.html).
@@ -143,10 +144,13 @@ LinkedIn had the most comprehensive intern program with ~40 interns. Okta had a 
 
 This is a subjective field based on my interest, work required, and overall experience with my assigned intern project.
 
-Okta: Full-stack web app for monitoring internal infrastructure.
-Zenefits: Terraform migration at the infrastructure level working with AWS resources and CI.
-LinkedIn: Integrating Storybook (Open source ui component explorer) with Glimmer
-TheTradeDesk: Code generating C# code with Avro schemas
+**Okta:** Full-stack web app for monitoring internal infrastructure.
+
+**Zenefits:** Terraform migration at the infrastructure level working with AWS resources and CI.
+
+**LinkedIn:** Integrating Storybook (Open source ui component explorer) with Glimmer
+
+**TheTradeDesk:** Code generating C# code with Avro schemas
 
 ## Final Thoughts
 
