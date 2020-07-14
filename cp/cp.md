@@ -6,10 +6,12 @@ permalink: /cp/
 
 Started taking competitive programming seriously around March 2020.
 
-**last updated: June 14th, 2020**
+**last updated: July 11th, 2020**
 
 {% include cp_info.html %}
 
+- weekly-contest-197 `170/13832`, Top `1.23%`
+- biweekly-contest-30 `1415/8174`, Top `17.3%`
 - weekly-contest-194 `1328/13806`, Top `9.61%`
 - weekly-contest-193 `2240/13794`, Top `16.24%`
 - weekly-contest-192 `1252/13805`, Top `9.07`
@@ -146,16 +148,17 @@ Rank: `Specialist`
 
 [Profile](https://binarysearch.io/@/recklessinkblot)
 
-Ranking `6th`
+Ranking `7th`
 
-Rating `1604`
+Rating `1624`
 
-Max Rating `1604`
+Max Rating `1627`
 
-Participated `10`
+Participated `11`
 
 Weekly Contest Rankings:
 
+- Contest 15: Placed `20th` solved 2/4 scored 9 points and solved in 24 minutes, 32 seconds
 - Contest 14: Placed `7th` solved 3/4 scored 12 points and solved in 44 minutes, 55 seconds
 - Contest 13: Placed `10th` solved 2/4 scored 7 points and solved in 14 minutes, 25 seconds
 - Contest 12: Placed `8th` solved 3/4 scored 12 points and solved in 22 minutes, 44 seconds
@@ -170,6 +173,8 @@ Weekly Contest Rankings:
 
 Educational Unranked Contests:
 
+- [Contest 6](https://binarysearch.io/room/Educational-Contest-6-24957)
+- [Contest 5](https://binarysearch.io/room/Educational-Contest-5-23771/), Ranked 20th
 - [Contest 4](https://binarysearch.io/room/Educational-Contest-4-22602), Ranked 5th
 - [Contest 3](https://binarysearch.io/room/Educational-Contest-4-21230), Ranked 9th
 - [Contest 2](https://binarysearch.io/room/Educational-Contest-2-20046), Ranked 9th
