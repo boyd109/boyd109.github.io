@@ -10,6 +10,7 @@ Started taking competitive programming seriously around March 2020.
 
 {% include cp_info.html %}
 
+- weekly-contest-198 `689/15151`, Top `4.55%`
 - weekly-contest-197 `170/13832`, Top `1.23%`
 - biweekly-contest-30 `1415/8174`, Top `17.3%`
 - weekly-contest-194 `1328/13806`, Top `9.61%`
@@ -105,14 +106,17 @@ Started taking competitive programming seriously around March 2020.
 
 ### Codeforces Contests
 
-Contest rating: `1451`
+Rating: `1562`
+
+Max Rating: `1562`
 
 Rank: `Specialist`
 
-<img src="codeforces.jpg"/>
+<img src="cf.png"/>
 
 [Profile](https://codeforces.com/contests/with/recklessinkblot)
 
+- Codeforces Round \#656 Div 3, Rank `423`, Solved `4`
 - Codeforces Round \#653 Div 3, Rank `1311`, Solved `5`
 - Codeforces Round \#652 Div 2, Rank `4805`, Solved `3`
 - Codeforces Round \#651 Div 2, Rank `5548`, Solved `3`
@@ -150,6 +154,8 @@ Rank: `Specialist`
 
 Ranking `7th`
 
+Peak Ranking: `6th`
+
 Rating `1624`
 
 Max Rating `1627`
@@ -158,6 +164,7 @@ Participated `11`
 
 Weekly Contest Rankings:
 
+- Contest 16: Placed `37th` solved 3/4 scored 12 points and solved in 86 minutes, 42 seconds
 - Contest 15: Placed `20th` solved 2/4 scored 9 points and solved in 24 minutes, 32 seconds
 - Contest 14: Placed `7th` solved 3/4 scored 12 points and solved in 44 minutes, 55 seconds
 - Contest 13: Placed `10th` solved 2/4 scored 7 points and solved in 14 minutes, 25 seconds
@@ -173,7 +180,7 @@ Weekly Contest Rankings:
 
 Educational Unranked Contests:
 
-- [Contest 6](https://binarysearch.io/room/Educational-Contest-6-24957)
+- [Contest 6](https://binarysearch.io/room/Educational-Contest-6-24957), Ranked 14th
 - [Contest 5](https://binarysearch.io/room/Educational-Contest-5-23771/), Ranked 20th
 - [Contest 4](https://binarysearch.io/room/Educational-Contest-4-22602), Ranked 5th
 - [Contest 3](https://binarysearch.io/room/Educational-Contest-4-21230), Ranked 9th
