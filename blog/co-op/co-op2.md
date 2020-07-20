@@ -21,7 +21,7 @@ Most companies listed here have probably changed their interview processes and/o
 
 I did roughly 70 interviews. I probably failed ~80% of them. This is solely focused on interviews. Some companies sent coding challenges first that either screen me out when I failed it, screened me out after I aced it, or moved forward with me after I aced it.
 
-I would describe myself as a medium strong candidate on interviewing with experience on links:
+I would describe myself as a medium-level candidate on interviewing with experience:
 
 Top `2%` in Leetcode Weekly Contests, `2000+` rating, `500+` solved Leetcode questions: [Leetcode](https://leetcode.com/jonathantsang/)
 
@@ -178,7 +178,7 @@ While at Zenefits I continued to interview. This was also my last time using Wat
 #### Salesforce - SF
 Emailed the recruiter. Did a coding challenge, (fairly easy) algorithmic interview, and manager interview. **Not Ranked**
 
-#### Amazon - Vancouver/Seattle?
+#### Amazon - ???
 Did a coding challenge, (fairly easy) algorithmic question and behavioural interview. **Ran out of spots (lol)** They said I passed the interview but ran out of spots. They also told me I couldn't defer it to a later term like what Google does.
 
 #### LinkedIn - Sunnyvale
@@ -255,3 +255,11 @@ Did phone screen that was all behavioural. Was asked if I could work weekends an
 
 #### What does this all mean?
 Nothing. This is just my experience. Some people get lucky with interviews, some people don't. This may seem like a lot of interviews but I applied to over 150 places for Summer 2018, 300 places for Summer 2019, and was constantly applying everywhere. If you are experiencing failure realize that we all face that same adversity. For a job, you just need one place to work out.
+
+Totals: (across all time periods)
+
+**Interviews:** 49
+
+**Rejections:** 41
+
+**Offers:** 8
