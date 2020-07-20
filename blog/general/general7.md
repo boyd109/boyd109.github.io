@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Avatar the Last Airbender - The Best Episodes...and the worst
+title: Avatar the Last Airbender - The best episodes...and the worst
 permalink: /general7/
 category: general
 tag: general
