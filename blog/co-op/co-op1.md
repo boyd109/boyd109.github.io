@@ -70,7 +70,7 @@ This was my final internship that I found externally of WaterlooWorks since CECA
 
 The office was quaint and reminded more of the Okta, Zenefits style in amenities. (meaning no more free food, but that was good cause I got to cook more) Our office played a card game called "Dominion" a lot. It is a pretty fun game.
 
-I was working on the data-processing team which dealt with logs and was working in the infrastructure layer working with logs, dbs, and schemas. My intern project specifically dealt with schematizing log files and performing code generation (in C#). This was a challenging project for a few reasons. I had to learn about C#, Avro schema format, and how it fit into the codebase. It also had hurdles of code generating
+I was working on the data-processing team which dealt with logs and was working in the infrastructure layer working with logs, dbs, and schemas. My intern project specifically dealt with schematizing log files and performing code generation (in C#). This was a challenging project for a few reasons. I had to learn about C#, Avro schema format, and how it fit into the codebase. It also had hurdles of code generating.
 
 Formally there was no "intern program" since I was the only intern among ~20 or so people in the office. I think there were other interns in other offices (Ventura, New York).
 
