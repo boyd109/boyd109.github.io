@@ -378,10 +378,20 @@ That doesn't take away from the LinkedIn internship. The attainment was disappoi
 
 I continued interviewing (continuous motif) for internships at LinkedIn.
 
-## Winter 2020 (Present)
+You think it is the best thing you ever ate, but it is just pepperoni pizza.
 
-Every villain is the hero of their own story.
+## Winter 2020
+
+I spent the winter months of January to June in Bellevue interning at a company called "TheTradeDesk".
+
+Seattle was really nice. I got to explore Seattle for January to March before covid-19 restrictions made me work from home. Our office had nice events for the ~20 people and we had catered lunch Wednesdays and Fridays alongside snacks and a stocked fridge. Reminded me a lot of Okta.
+
+Formally there was no "intern program" since I was the only intern among ~20 or so people in the office. I think there were other interns in other offices (Ventura, New York).
+
+I was working on the data-processing team which dealt with logs and was working in the infrastructure layer working with logs, dbs, and schemas. My intern project specifically dealt with schematizing log files and performing code generation (in C#). This was a challenging project for a few reasons. I had to learn about C#, Avro schema format, and how it fit into the codebase. It also had hurdles of code generating.
+
+## Spring 2020 (Present)
 
 ## Future
 
-Keep pushing forward. Work hard. Never give up.
+Keep pushing forward. Work hard.
