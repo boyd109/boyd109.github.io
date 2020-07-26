@@ -6,21 +6,23 @@ permalink: /cp/
 
 Started taking competitive programming seriously around March 2020.
 
-**last updated: July 11th, 2020**
+**last updated: July 26th, 2020**
 
 {% include cp_info.html %}
 
-- weekly-contest-198 `689/15151`, Top `4.55%`
+- weekly-contest-199 `169/14309`, Top `1.18%`
+- biweekly-contest-31 `1865/8677`, Top `21.49%`
+- weekly-contest-198 `677/15152`, Top `4.55%`
 - weekly-contest-197 `170/13832`, Top `1.23%`
 - biweekly-contest-30 `1415/8174`, Top `17.3%`
 - weekly-contest-194 `1328/13806`, Top `9.61%`
 - weekly-contest-193 `2240/13794`, Top `16.24%`
 - weekly-contest-192 `1252/13805`, Top `9.07`
 - weekly-contest-191 `1833/13283`, Top `13.8%`
-- biweekly-contest-27 `1010/7924`, Top `12.5%` (Still kind of bad, but so far best biweekly contest performance so far)
+- biweekly-contest-27 `1010/7924`, Top `12.5%`
 - weekly-contest-190 `1361/11840`, Top `12.5%`
 - weekly-contest-189 `164/13036`, Top `1.26%`
-- weekly-contest-188 `442/12716`, Top `3.48%` (STOPPED THE SLUMP)
+- weekly-contest-188 `442/12716`, Top `3.48%`
 - weekly-contest-187 `940/12353`, Top `7.61%`
 - biweekly-contest-25, `1210/7699`, Top `15.72%`
 - weekly-contest-186, `1559/11684` Top `13.34%`
@@ -116,6 +118,7 @@ Rank: `Specialist`
 
 [Profile](https://codeforces.com/contests/with/recklessinkblot)
 
+- Codeforces Round \#658 Div 2, Rank `6837`, Solved `2`
 - Codeforces Round \#656 Div 3, Rank `423`, Solved `4`
 - Codeforces Round \#653 Div 3, Rank `1311`, Solved `5`
 - Codeforces Round \#652 Div 2, Rank `4805`, Solved `3`
@@ -152,13 +155,13 @@ Rank: `Specialist`
 
 [Profile](https://binarysearch.io/@/recklessinkblot)
 
-Ranking `7th`
+Ranking `15th`
 
-Peak Ranking: `6th`
+Peak Ranking `6th`
 
-Rating `1624`
+Rating `1788`
 
-Max Rating `1627`
+Max Rating `1794`
 
 Participated `11`
 
@@ -199,6 +202,7 @@ Previous results:
 - `n/a` Solved 0 in [Spring 2019](http://acm.student.cs.uwaterloo.ca/~acm00/190622score.html)
 - `n/a` skipped Fall 2019 contest
 - `n/a` Solved 0 in [Winter 2020](http://acm.student.cs.uwaterloo.ca/~acm00/200201score.html)
+- `26/38` Solved 1 in [Spring 2020][]
 
 ### Topcoder
 
