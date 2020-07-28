@@ -202,7 +202,7 @@ Previous results:
 - `n/a` Solved 0 in [Spring 2019](http://acm.student.cs.uwaterloo.ca/~acm00/190622score.html)
 - `n/a` skipped Fall 2019 contest
 - `n/a` Solved 0 in [Winter 2020](http://acm.student.cs.uwaterloo.ca/~acm00/200201score.html)
-- `26/38` Solved 1 in [Spring 2020][]
+- `26/38` Solved 1 in [Spring 2020][http://acm.student.cs.uwaterloo.ca/~acm00/200725score.html]
 
 ### Topcoder
 
