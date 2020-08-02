@@ -14,6 +14,9 @@ Over 3000 IQ on Rap Genius.
 
 Got a verified annotation from Logic.
 
+<img src="/hobbies/pictures/logic.png" />
+
+
 Official annotations on albums:
 - Logic, Under Pressure
 - Eminem, ShadyXV

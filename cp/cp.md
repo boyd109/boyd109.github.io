@@ -118,6 +118,7 @@ Rank: `Specialist`
 
 [Profile](https://codeforces.com/contests/with/recklessinkblot)
 
+- Educational Codeforces Round 92 Div 2, Rank `11317`, Solved `1`
 - Codeforces Round \#658 Div 2, Rank `6837`, Solved `2`
 - Codeforces Round \#656 Div 3, Rank `423`, Solved `4`
 - Codeforces Round \#653 Div 3, Rank `1311`, Solved `5`
@@ -183,6 +184,7 @@ Weekly Contest Rankings:
 
 Educational Unranked Contests:
 
+- [Contest 7](https://binarysearch.io/room/Educational-Contest-7-27978), Ranked 12th
 - [Contest 6](https://binarysearch.io/room/Educational-Contest-6-24957), Ranked 14th
 - [Contest 5](https://binarysearch.io/room/Educational-Contest-5-23771/), Ranked 20th
 - [Contest 4](https://binarysearch.io/room/Educational-Contest-4-22602), Ranked 5th
