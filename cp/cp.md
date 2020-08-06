@@ -6,6 +6,8 @@ permalink: /cp/
 
 Started taking competitive programming seriously around March 2020.
 
+In-depth Stats: [https://clist.by/coder/recklessinkblot/](https://clist.by/coder/recklessinkblot/)
+
 **last updated: July 26th, 2020**
 
 {% include cp_info.html %}
@@ -118,6 +120,7 @@ Rank: `Specialist`
 
 [Profile](https://codeforces.com/contests/with/recklessinkblot)
 
+- Codeforces Round \#651 Div3, Rank `346`, Solved `4`
 - Educational Codeforces Round 92 Div 2, Rank `11317`, Solved `1`
 - Codeforces Round \#658 Div 2, Rank `6837`, Solved `2`
 - Codeforces Round \#656 Div 3, Rank `423`, Solved `4`
