@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watchmen comic and movie - my thoughts
+title: Watchmen - my thoughts
 permalink: /general10/
 category: general
 tag: general
