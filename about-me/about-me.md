@@ -27,7 +27,7 @@ Read more about my competitive programming [here](https://jonathantsang.github.i
 
 <img src="/about-me/pictures/codeforces.png" width="40%" height="40%"/>
 
-`1400+ Rating` in Codeforces
+`1500+ Rating` in Codeforces
 
 `Specialist` Rank
 
