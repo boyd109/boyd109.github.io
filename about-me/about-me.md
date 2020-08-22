@@ -17,9 +17,9 @@ I've been to a lot of hackathons traveling the US and Canada: [Devpost](https://
 
 <img src="/about-me/pictures/leetcode.png" width="40%" height="40%"/>
 
-`Top 2%` in Leetcode Weekly Contests
+`Top 1.5%` in Leetcode Weekly Contests
 
-`2000+ Rating` in Leetcode Weekly Contests
+`2100+ Rating` in Leetcode Weekly Contests
 
 `500+` Solved Leetcode questions: [Leetcode](https://leetcode.com/jonathantsang/)
 
@@ -27,7 +27,7 @@ Read more about my competitive programming [here](https://jonathantsang.github.i
 
 <img src="/about-me/pictures/codeforces.png" width="40%" height="40%"/>
 
-`1400+ Rating` in Codeforces
+`1500+ Rating` in Codeforces
 
 `Specialist` Rank
 
@@ -37,9 +37,9 @@ Read more about my competitive programming [here](https://jonathantsang.github.i
 
 Kattis is an online problem archive.
 
-Ranked 15th in University of [Waterloo](https://open.kattis.com/universities/uwaterloo.ca)
+Ranked `15th` in University of [Waterloo](https://open.kattis.com/universities/uwaterloo.ca)
 
-Ranked 27th in [Ontario](https://open.kattis.com/countries/CAN/ON)
+Ranked `27th` in [Ontario](https://open.kattis.com/countries/CAN/ON)
 
 [My Kattis Page](https://open.kattis.com/users/jonathantsang)
 
@@ -47,8 +47,8 @@ Ranked 27th in [Ontario](https://open.kattis.com/countries/CAN/ON)
 
 I usually post projects I make on my Github: [Github](https://github.com/jonathantsang)
 
-#### Even More Links
+### Even More Links
 
-Some extra-curricular hobbies: [Hobbies](https://jonathantsang.github.io/hobbies)
+Some extra-curricular hobbies: [Hobbies](/hobbies)
 
-I also made a bucket list of things that I wanted to accomplish during my undergrad: [Bucket List](https://jonathantsang.github.io/bucket-list)
+I also made a bucket list of things that I wanted to accomplish during my undergrad: [Bucket List](/bucket-list)

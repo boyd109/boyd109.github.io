@@ -159,7 +159,7 @@ Rank: `Specialist`
 
 [Profile](https://binarysearch.io/@/recklessinkblot)
 
-Ranking `15th`
+Ranking `21st`
 
 Peak Ranking `6th`
 
@@ -193,7 +193,7 @@ Educational Unranked Contests:
 - [Contest 4](https://binarysearch.io/room/Educational-Contest-4-22602), Ranked 5th
 - [Contest 3](https://binarysearch.io/room/Educational-Contest-4-21230), Ranked 9th
 - [Contest 2](https://binarysearch.io/room/Educational-Contest-2-20046), Ranked 9th
-- [Contest 1](https://binarysearch.io/room/Educational-Contest-1-18196/), Dunno but solved all 4
+- [Contest 1](https://binarysearch.io/room/Educational-Contest-1-18196/), Ranked 4th
 
 ### Local Waterloo ACM Contests
 
@@ -207,7 +207,7 @@ Previous results:
 - `n/a` Solved 0 in [Spring 2019](http://acm.student.cs.uwaterloo.ca/~acm00/190622score.html)
 - `n/a` skipped Fall 2019 contest
 - `n/a` Solved 0 in [Winter 2020](http://acm.student.cs.uwaterloo.ca/~acm00/200201score.html)
-- `26/38` Solved 1 in [Spring 2020][http://acm.student.cs.uwaterloo.ca/~acm00/200725score.html]
+- `26/38` Solved 1 in [Spring 2020](http://acm.student.cs.uwaterloo.ca/~acm00/200725score.html)
 
 ### Topcoder
 

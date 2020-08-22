@@ -22,7 +22,8 @@ permalink: /my-story/
 - [Winter 2019](#winter-2019)
 - [Spring 2019 (Work Term \#4 at Zenefits)](#spring-2019-work-term-4)
 - [Fall 2019 (Work Term \#5 at LinkedIn)](#fall-2019-work-term-5)
-- [Winter 2020](#winter-2020-present)
+- [Winter 2020 (Work Term \#6 at TheTradeDesk)](#winter-2020-work-term-6)
+- [Graduation](#graduation)
 
 # My Story
 
@@ -380,7 +381,7 @@ I continued interviewing (continuous motif) for internships at LinkedIn.
 
 You think it is the best thing you ever ate, but it is just pepperoni pizza.
 
-## Winter 2020
+## Winter 2020 (Work Term 6)
 
 I spent the winter months of January to June in Bellevue interning at a company called "TheTradeDesk".
 
@@ -390,8 +391,17 @@ Formally there was no "intern program" since I was the only intern among ~20 or 
 
 I was working on the data-processing team which dealt with logs and was working in the infrastructure layer working with logs, dbs, and schemas. My intern project specifically dealt with schematizing log files and performing code generation (in C#). This was a challenging project for a few reasons. I had to learn about C#, Avro schema format, and how it fit into the codebase. It also had hurdles of code generating.
 
-## Spring 2020 (Present)
+### Graduation
+
+In Winter 2020 I took one online course and graduated while doing my internship in Seattle. After close to 5 and a half years I finally completed my degree. It was fairly anticlimactic since I had completed my degree requirements back in 2019, but I wanted to do more co-ops and courses.
+
+## Conclusion
+
+<img src="/blog/general/10/c11.png" />
+<img src="/blog/general/10/c12.png" />
+
+writing TBA.
 
 ## Future
 
-Keep pushing forward. Work hard.
+Keep pushing forward. Work hard. Every villain is the hero of their own story.

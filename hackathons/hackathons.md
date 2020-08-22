@@ -57,9 +57,9 @@ List of all hackathons I've been to (In-order):
 ##### 2020:
 - Nwhacks: Jan 11-12
 
-As you can see I've definitely slowed down in the number of hackathons I've gone to.
-
 Total: ~20
+
+I've slowed down in the number of hackathons I've gone to in later years.
 
 A list of hackathons I wanted to go to previously.
 
