@@ -25,6 +25,8 @@ This movie is better than I initially remember. Although it is the lowest rated 
 
 ### Ra's Al Ghoul
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-2l2nPmhOQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <img src="/blog/general/12/bb/bb2.png" />
 
 I think he is an underrated villain. The beginning scenes of Bruce training with Ra's al Ghoul are probably my favourite combat scenes in the film. He is a mentor to Bruce as he learns about combat, agility, and principles that go beyond fighting. The ability to exert your will, the ideaology of true justice against criminals.
