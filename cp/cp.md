@@ -8,7 +8,7 @@ Started taking competitive programming seriously around March 2020.
 
 In-depth Stats: [https://clist.by/coder/recklessinkblot/](https://clist.by/coder/recklessinkblot/)
 
-**last updated: July 26th, 2020**
+**last updated: August 23rd, 2020**
 
 {% include cp_info.html %}
 
@@ -163,14 +163,15 @@ Ranking `21st`
 
 Peak Ranking `6th`
 
-Rating `1788`
+Rating `1793`
 
 Max Rating `1794`
 
-Participated `11`
+Participated `12`
 
 Weekly Contest Rankings:
 
+- Contest 21: Placed `32nd` Solved 1/4 Scored 4 points and solved in 51 minutes, 38 seconds
 - Contest 16: Placed `37th` solved 3/4 scored 12 points and solved in 86 minutes, 42 seconds
 - Contest 15: Placed `20th` solved 2/4 scored 9 points and solved in 24 minutes, 32 seconds
 - Contest 14: Placed `7th` solved 3/4 scored 12 points and solved in 44 minutes, 55 seconds
