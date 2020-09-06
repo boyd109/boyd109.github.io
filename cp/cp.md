@@ -110,9 +110,9 @@ In-depth Stats: [https://clist.by/coder/recklessinkblot/](https://clist.by/coder
 
 ### Codeforces Contests
 
-Rating: `1562`
+Rating: `1581`
 
-Max Rating: `1562`
+Max Rating: `1581`
 
 Rank: `Specialist`
 
@@ -120,7 +120,8 @@ Rank: `Specialist`
 
 [Profile](https://codeforces.com/contests/with/recklessinkblot)
 
-- Codeforces Round \#651 Div3, Rank `346`, Solved `4`
+- Codeforces Round \#667 Div3, Rank `684`, Solved `4`
+- Codeforces Round \#661 Div3, Rank `346`, Solved `4`
 - Educational Codeforces Round 92 Div 2, Rank `11317`, Solved `1`
 - Codeforces Round \#658 Div 2, Rank `6837`, Solved `2`
 - Codeforces Round \#656 Div 3, Rank `423`, Solved `4`
@@ -159,19 +160,20 @@ Rank: `Specialist`
 
 [Profile](https://binarysearch.io/@/recklessinkblot)
 
-Ranking `21st`
+Ranking `20th`
 
 Peak Ranking `6th`
 
 Rating `1793`
 
-Max Rating `1794`
+Max Rating `1801`
 
 Participated `12`
 
 Weekly Contest Rankings:
 
-- Contest 21: Placed `32nd` Solved 1/4 Scored 4 points and solved in 51 minutes, 38 seconds
+- Contest 23: Placed `35th` solved 2/4 scored 7 points and solved in 42 minutes, 20 seconds
+- Contest 21: Placed `32nd` solved 1/4 Scored 4 points and solved in 51 minutes, 38 seconds
 - Contest 16: Placed `37th` solved 3/4 scored 12 points and solved in 86 minutes, 42 seconds
 - Contest 15: Placed `20th` solved 2/4 scored 9 points and solved in 24 minutes, 32 seconds
 - Contest 14: Placed `7th` solved 3/4 scored 12 points and solved in 44 minutes, 55 seconds
@@ -188,13 +190,14 @@ Weekly Contest Rankings:
 
 Educational Unranked Contests:
 
-- [Contest 7](https://binarysearch.io/room/Educational-Contest-7-27978), Ranked 12th
-- [Contest 6](https://binarysearch.io/room/Educational-Contest-6-24957), Ranked 14th
-- [Contest 5](https://binarysearch.io/room/Educational-Contest-5-23771/), Ranked 20th
-- [Contest 4](https://binarysearch.io/room/Educational-Contest-4-22602), Ranked 5th
-- [Contest 3](https://binarysearch.io/room/Educational-Contest-4-21230), Ranked 9th
-- [Contest 2](https://binarysearch.io/room/Educational-Contest-2-20046), Ranked 9th
-- [Contest 1](https://binarysearch.io/room/Educational-Contest-1-18196/), Ranked 4th
+- Contest 8: Ranked 26th
+- Contest 7: Ranked 12th
+- Contest 6: Ranked 14th
+- Contest 5: Ranked 20th
+- Contest 4: Ranked 5th
+- Contest 3: Ranked 9th
+- Contest 2: Ranked 9th
+- Contest 1: Ranked 4th
 
 ### Local Waterloo ACM Contests
 
