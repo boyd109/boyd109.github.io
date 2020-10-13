@@ -393,15 +393,173 @@ I was working on the data-processing team which dealt with logs and was working 
 
 ### Graduation
 
-In Winter 2020 I took one online course and graduated while doing my internship in Seattle. After close to 5 and a half years I finally completed my degree. It was fairly anticlimactic since I had completed my degree requirements back in 2019, but I wanted to do more co-ops and courses.
+In Winter 2020 I took one online course and graduated while doing my internship in Seattle. After close to 5 and a half years I finally completed my degree, a Bachelor of Computer Science degree with a minor in Combinatorics and Optimization. It was fairly anticlimactic since I had completed my degree requirements back in 2019, but I wanted to do more co-ops and courses. I told the registrar I was "applying to graduate" and got approved.
 
 ## Conclusion
 
 <img src="/blog/general/10/c11.png" />
+<br/>
+<br/>
 <img src="/blog/general/10/c12.png" />
 
-writing TBA.
+### University Life
 
-## Future
+I attended the University of Waterloo that notoriously has a bad rep for social life and is only academically focused. I cannot truly compare between other places like UofT, UBC, or the countless US schools I visited.
 
-Keep pushing forward. Work hard. Every villain is the hero of their own story.
+I usually say university is a balance between:
+1. grades
+2. co-op jobs
+3. social life
+4. fun
+5. mental health
+
+The people who can efficiently balance all 5 are few and far between and most people can only choose 2-3 of these and execute effectively. Despite this page being called `my-story` I will admit it is a heavily edited and skewed story that leans towards moments of great accomplishments or periods of change in my life. Not everything is as dynamic or picturesque as this, and I feel in some way responsible to say that these are only the "highlights" of my undergrad. There were just as many "lowlights" that were not mentioned:
+
+- In 2017 I was unable to find a developer job for my co-op, I had to work in QA
+- I failed to win anything at the first 12 hackathons I went to (despite people telling me it was very easy to win)
+- I got 52% in CS 350 (Operating Systems)
+- I was unable to find a co-op job for summer 2018 and went to continuous round, later going to Okta
+- I was unable to find a co-op job for summer 2019 and went to continuous round, later going to Zenefits
+- I often felt that my social life and mental health suffered as a result of not being something I addressed during undergrad
+- there were moments on intense pressure either from school courseware, or trying to get a "cali" co-op and I buckled under the pressure
+
+### Was it worth it?
+
+This is a difficult thing to answer. We really can't tell the effect of our decisions often times years in the future with hindsight. I can say with little other alternatives it was a very good option. Not all of it was enjoyable or fun.
+
+### My Marks
+
+These are my marks, ordered chronologically.
+
+| Course     | Mark | Description                                            |
+|------------|------|--------------------------------------------------------|
+| AFM 131    | 83   | Intro to Business in N.A.                              |
+| Chem 120   | 72   | General Chemistry 1                                    |
+| Chem 120L  | 75   | General Chemistry Laboratory 1                         |
+| CS 115     | 75   | Introduction to Computer Science 1                     |
+| Math 127   | 89   | Calculus 1 for the Sciences                            |
+| SCBUS 123  | 85   | Workshop 1: Science and Business                       |
+| Chem 123   | 83   | General Chemistry 2                                    |
+| Chem 123L  | 74   | General Chemistry Laboratory 2                         |
+| CS 100     | 88   | Introduction to Computing through Applications         |
+| Econ 101   | 88   | Introduction to Microeconomics                         |
+| ENVS 195   | 87   | Introduction to Environmental Studies                  |
+| Math 128   | 79   | Calculus 2 for the Sciences                            |
+| SCBUS 122  | 85   | Management of Business Organizations                   |
+| Chem 220   | 68   | Quantitative Chemical Analysis Laboratory              |
+| Chem 264   | 62   | Organic Chemistry 1                                    |
+| Phys 121   | 79   | Mechanics                                              |
+| Phys 121L  | 80   | Mechanics Laboratory                                   |
+| SCBUS 223  | 80   | Workshop 2: Strategies Behind Technological Innovation |
+| CLAS 104   | 72   | Classical Mythology                                    |
+| CS 116     | 87   | Introduction to Computer Science 2                     |
+| Math 135   | 82   | Algebra for Honours Mathematics                        |
+| Stat 230   | 81   | Probability                                            |
+| CS 136     | 92   | Elementary Algorithm Design and Data Abstraction       |
+| Engl 109   | 93   | Intro to Academic Writing                              |
+| Math 136   | 72   | Linear Algebra 1 for Honours Mathematics               |
+| Music 100  | 78   | Understanding Music                                    |
+| Stat 231   | 79   | Statistics                                             |
+| CS 245     | 63   | Logic and Computation                                  |
+| Math 239   | 55   | Introduction to Combinatorics                          |
+| CS 246     | 74   | Object-Oriented Software Development                   |
+| CS 251     | 73   | Computer Organization and Design                       |
+| Spcom 223  | 89   | Public Speaking                                        |
+| CS 240     | 72   | Data Structures and Data Management                    |
+| CS 241     | 73   | Foundations of Sequential Programs                     |
+| CS 370     | 67   | Numerical Computation                                  |
+| CO 342     | 60   | Introduction to Graph Theory                           |
+| CO 250     | 59   | Introduction to Optimization                           |
+| CS 349     | 85   | User Interfaces                                        |
+| CS 341     | 83   | Algorithms                                             |
+| CO 487     | 67   | Applied Cryptography                                   |
+| CS 350     | 52   | Operating Systems                                      |
+| CS 343     | 75   | Concurrent and Parallel Programming                    |
+| CS 456     | 61   | Computer Networks                                      |
+| CS 488     | 60   | Introduction to Computer Graphics                      |
+| CS 454     | 67   | Distributed Systems                                    |
+| CO 353     | 57   | Computational Discrete Optimization                    |
+| Econ 212   | 72   | Introduction to Game Theory                            |
+| Bet 100    | 82   | Foundations of Entrepreneurial Practice                |
+
+### My highest marks:
+- Engl 109: 93
+- CS 136: 92
+- Math 127: 89
+- Spcom 223: 89
+- Econ 101: 88
+- CS 100: 88
+
+### My lowest marks:
+- CS 350: 52
+- Math 239: 55
+- CO 353: 57
+- CO 250: 59
+- CS 488: 60
+- CO 342: 60
+
+| Term | Average    | Cumulative Average |
+|------|------------|--------------------|
+| 1A   | 80.27      | 80.27              |
+| 1B   | 84.15      | 82.21              |
+| 2A   | 73.11      | 79.1766667         |
+| 2B   | 80.5       | 79.5075            |
+| 3A   | 82.8       | 80.166             |
+| 3B   | 70.8       | 78.605             |
+| 3A   | 68         | 77.09              |
+| 4A   | 69.2       | 76.10375           |
+| 4B   | 65.3333333 | 74.907037          |
+| 4B   | 65.3333333 | 73.9496667         |
+| 4B   | 82         | 74.1226667         |
+
+One thing I regret is that I never put a lot of effort into school. I often felt that I did not learn best in the conventional way of studying from a textbook, writing notes, and listening to lectures. I had trouble remembering concepts and falling asleep in class.
+
+## Afterthoughts
+
+### What if I failed to switch into CS?
+
+I don't know.
+
+### Co-op Competition
+
+I travelled around and met tons of people doing hackathons and co-ops. I went to waterloo for CS, one of the hardest programs to get into these days. Undeniably there are people that act like assholes.
+
+Some people are accomplished and motivated. There are others who fail to reach their potential after being the "top of their class" in highschool. Survivorship bias makes us see all the successful people and not view the less successful people. The concept of athletes and celebrities predate this notion early in our childhood. In reality, we know nothing about these role models and want to be like them over what they have and what we don't. These people are lauded as role models because they can play a sport well or act in our favourite movie. We almost never hear of the many failures or hardships that occurred.
+
+The waterloo co-op scene is competitive, but I don't think there should be moments where you don't help someone else. Either in coursework, interview prep, or otherwise in life. I still remember when I switched into CS and I knew nothing. Many people feel like this and although this is fairly obvious, helping someone else is not a detrimental thing. It is a net positive for everyone and yourself. When we uplift one another we motivate each other to do the best we can do collectively. I always felt it was important to give back in any way possible. Whether it be being an orientation leader, mentoring others, or helping others achieve their goals. We perform better when we are on the same team.
+
+### Being the best or being the worst
+
+It is better to be "the worst player on a winning team" than "the best player on a losing team" There are immense challenges to either scenario. I think of this in basketball terms.
+
+"Best player on a losing team":
+- Doing your best and trying to elevate the team.
+- You individually are doing well but others may not be
+- You deal with most of blame for success and failure
+
+"Worst player on a winning team"
+- You may be insignificant in grand scheme of things
+- The success is not a direct impact of your performance
+- Your role is mitigated to better suit others
+
+I've seen it from both spectrums. Being frustrated from a lack of skill from your peers and also feeling frustrated at yourself for your lack of skill compared to your peers. Being the "least skilled" amongst everyone else gives you a chance to grow and learn from people better than you, and helps you do your best. Being the best amongst people at a low-level will stunt your growth as you move upwards. You are roughly the average of the 5 closest people you talk to. Make sure you surround yourself with people that help you perform your best and motivate you in a positive light to be the best version you can be.
+
+### Closing Thoughts
+
+There comes a time in everyone's life where things end. Looking back the hardships that impeded my success served as guidance to where I would eventually reach.
+
+- I did not envision graduating with a CS degree in 2014. I started as a Science and Business Major and deciding later on that it wasn't a good fit for me.
+
+- In 2017 I was unable to get a developer job co-op. Three years later I did an internship at LinkedIn.
+
+- I went to multiple hackathons and failed multiple times. I had projects that melted down and people didn't want to team with me cause I wasn't in CS. I was persistent on winning at one after 12 failed attempts.
+
+- I went to University of Waterloo initially to stay close to home, but eventually I wanted to travel North America. I ended up going to Vancouver, California, and Seattle for internships.
+
+- Okta was my first tech internship, and it also did not give me a return offer. At the time it was heartbreaking and disappointing. I realized later on that even if it had given a return offer, my life would not be substantially altered. If anything I had to learn from the experience.
+
+Tech is plagued by people trying to prove they are worthy and better than others. This behaviour might be spurned upon by the broadness of the field, the general insecurity of people, and the false positive/negative litmus test they conduct during interviews. I've already said my interviewing thoughts, but I think it extends beyond that. The most important thing is to be a good person. The accomplishments are secondary.
+
+## The future and beyond
+
+Every villain is the hero of their own story.
