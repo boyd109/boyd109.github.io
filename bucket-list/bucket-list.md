@@ -6,7 +6,7 @@ permalink: /bucket-list/
 
 Inspired from [Dadi's Bucket List](http://dzed.me/dreamlist.html) (He has since removed this link but it was something like this)
 
-Last Updated: Jan 7, 2020 (I finally got around to updating it)
+Last Updated: Jan 7, 2020
 
 #### Bucket list
 This is a list of things I hope to accomplish during my time at university.
@@ -18,7 +18,7 @@ This is a list of things I hope to accomplish during my time at university.
 
 [x] Get a Combinatorics and Optimization Minor (Completed after Winter 2019)
 
-[ ] Get on the Dean's list one term (lol)
+[ ] Get on the Dean's list one term
 
 #### Jobs:
 [x] Find a job outside of WaterlooWorks (I mean I did get an offer? 2020 Jonathan is confused what 2017 Jonathan meant when I wrote this)

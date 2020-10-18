@@ -16,7 +16,6 @@ Got a verified annotation from Logic.
 
 <img src="/hobbies/pictures/logic.png" />
 
-
 Official annotations on albums:
 - Logic, Under Pressure
 - Eminem, ShadyXV
@@ -35,7 +34,7 @@ alt="" width="360" height="180" border="10"/></a>
 
 <img src="/hobbies/pictures/showdown.png" width="40%" height="40%"/>
 
-Rating 1500+ for both gen7randombattle and gen8randombattle (or somewhere around there)
+Rating 1500+ for both gen7randombattle and ~1600 on gen8randombattle
 
 [modularization](https://pokemonshowdown.com/users/modularization)
 
