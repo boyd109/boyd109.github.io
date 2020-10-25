@@ -9,7 +9,7 @@ permalink: /weekly/
 Inspired by [Lawrence](https://www.wawrencelu.com/).
 
 <ol>
-{% assign sorted_pages = site.pages | sort:"order" %}
+{% assign sorted_pages = site.pages | sort: 'date' | reverse %}
   {% for p in sorted_pages %}
     {% if p.tag == "weekly" %}
     <a href="{{ p.url }}">
